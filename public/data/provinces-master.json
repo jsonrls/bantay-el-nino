@@ -1,0 +1,2440 @@
+[
+  {
+    "psgc": 1400100000,
+    "name": "Abra",
+    "slug": "abra",
+    "regionPsgc": 1400000000,
+    "regionName": "Cordillera Administrative Region (CAR)",
+    "islandGroup": "Luzon",
+    "capital": "Bangued",
+    "population": 250985,
+    "landAreaKm2": 3928,
+    "climateType": "Type I",
+    "centroid": [
+      120.8945,
+      17.5648
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Tobacco",
+      "Mango"
+    ],
+    "primaryWaterSources": [
+      "Abra River Basin"
+    ]
+  },
+  {
+    "psgc": 1600200000,
+    "name": "Agusan del Norte",
+    "slug": "agusan-del-norte",
+    "regionPsgc": 1600000000,
+    "regionName": "Region XIII (Caraga)",
+    "islandGroup": "Mindanao",
+    "capital": "Cabadbaran City",
+    "population": 387503,
+    "landAreaKm2": 2679,
+    "climateType": "Type II",
+    "centroid": [
+      125.4879,
+      9.0972
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Coconut",
+      "Banana",
+      "Mango"
+    ],
+    "primaryWaterSources": [
+      "Agusan River Basin",
+      "Cabadbaran River"
+    ]
+  },
+  {
+    "psgc": 1600300000,
+    "name": "Agusan del Sur",
+    "slug": "agusan-del-sur",
+    "regionPsgc": 1600000000,
+    "regionName": "Region XIII (Caraga)",
+    "islandGroup": "Mindanao",
+    "capital": "Prosperidad",
+    "population": 739367,
+    "landAreaKm2": 8464,
+    "climateType": "Type II",
+    "centroid": [
+      125.731,
+      8.4065
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Oil Palm",
+      "Rice",
+      "Corn",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Agusan Marsh",
+      "Agusan River Basin"
+    ]
+  },
+  {
+    "psgc": 600400000,
+    "name": "Aklan",
+    "slug": "aklan",
+    "regionPsgc": 600000000,
+    "regionName": "Region VI (Western Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Kalibo",
+    "population": 615475,
+    "landAreaKm2": 1683,
+    "climateType": "Type III",
+    "centroid": [
+      122.2363,
+      11.6654
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Coconut",
+      "Abaca",
+      "Piña cloth"
+    ],
+    "primaryWaterSources": [
+      "Aklan River Basin"
+    ]
+  },
+  {
+    "psgc": 500500000,
+    "name": "Albay",
+    "slug": "albay",
+    "regionPsgc": 500000000,
+    "regionName": "Region V (Bicol Region)",
+    "islandGroup": "Luzon",
+    "capital": "Legazpi City",
+    "population": 1374768,
+    "landAreaKm2": 2467,
+    "climateType": "Type II",
+    "centroid": [
+      123.7471,
+      13.2293
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Rice",
+      "Abaca",
+      "Pili"
+    ],
+    "primaryWaterSources": [
+      "Yawa River",
+      "Quinali River"
+    ]
+  },
+  {
+    "psgc": 600600000,
+    "name": "Antique",
+    "slug": "antique",
+    "regionPsgc": 600000000,
+    "regionName": "Region VI (Western Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "San Jose de Buenavista",
+    "population": 612974,
+    "landAreaKm2": 2735,
+    "climateType": "Type I",
+    "centroid": [
+      121.9289,
+      11.3794
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Sugarcane",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Sibalom River",
+      "Cangaranan River"
+    ]
+  },
+  {
+    "psgc": 1408100000,
+    "name": "Apayao",
+    "slug": "apayao",
+    "regionPsgc": 1400000000,
+    "regionName": "Cordillera Administrative Region (CAR)",
+    "islandGroup": "Luzon",
+    "capital": "Kabugao",
+    "population": 124366,
+    "landAreaKm2": 3989,
+    "climateType": "Type III",
+    "centroid": [
+      121.2272,
+      17.9578
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Banana",
+      "Root crops"
+    ],
+    "primaryWaterSources": [
+      "Apayao-Abulug River Basin"
+    ]
+  },
+  {
+    "psgc": 307700000,
+    "name": "Aurora",
+    "slug": "aurora",
+    "regionPsgc": 300000000,
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "capital": "Baler",
+    "population": 235750,
+    "landAreaKm2": 3029,
+    "climateType": "Type IV",
+    "centroid": [
+      121.7253,
+      15.8534
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Rice",
+      "Citrus",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Casiguran River",
+      "Agus River",
+      "Pacific watersheds"
+    ]
+  },
+  {
+    "psgc": 1900700000,
+    "name": "Basilan",
+    "slug": "basilan",
+    "regionPsgc": 1900000000,
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "capital": "Lamitan City",
+    "population": 426207,
+    "landAreaKm2": 1133,
+    "climateType": "Type III",
+    "centroid": [
+      121.9549,
+      6.5727
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rubber",
+      "Coconut",
+      "Coffee",
+      "Cassava"
+    ],
+    "primaryWaterSources": [
+      "Gubauan River",
+      "Baluno spring"
+    ]
+  },
+  {
+    "psgc": 300800000,
+    "name": "Bataan",
+    "slug": "bataan",
+    "regionPsgc": 300000000,
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "capital": "Balanga City",
+    "population": 853373,
+    "landAreaKm2": 1246,
+    "climateType": "Type I",
+    "centroid": [
+      120.4358,
+      14.6708
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Mango",
+      "Cassava"
+    ],
+    "primaryWaterSources": [
+      "Mariveles aquifers",
+      "Talisay River"
+    ]
+  },
+  {
+    "psgc": 200900000,
+    "name": "Batanes",
+    "slug": "batanes",
+    "regionPsgc": 200000000,
+    "regionName": "Region II (Cagayan Valley)",
+    "islandGroup": "Luzon",
+    "capital": "Basco",
+    "population": 18831,
+    "landAreaKm2": 201,
+    "climateType": "Type II",
+    "centroid": [
+      121.8849,
+      20.5017
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Root crops",
+      "Garlic",
+      "Cattle"
+    ],
+    "primaryWaterSources": [
+      "Springs",
+      "Rainwater catchment"
+    ]
+  },
+  {
+    "psgc": 401000000,
+    "name": "Batangas",
+    "slug": "batangas",
+    "regionPsgc": 400000000,
+    "regionName": "Region IV-A (CALABARZON)",
+    "islandGroup": "Luzon",
+    "capital": "Batangas City",
+    "population": 2908494,
+    "landAreaKm2": 3197,
+    "climateType": "Type I",
+    "centroid": [
+      120.9548,
+      13.8677
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Sugarcane",
+      "Coffee (Barako)",
+      "Corn",
+      "Mango"
+    ],
+    "primaryWaterSources": [
+      "Taal Lake basin",
+      "Pansipit River"
+    ]
+  },
+  {
+    "psgc": 1401100000,
+    "name": "Benguet",
+    "slug": "benguet",
+    "regionPsgc": 1400000000,
+    "regionName": "Cordillera Administrative Region (CAR)",
+    "islandGroup": "Luzon",
+    "capital": "La Trinidad",
+    "population": 827041,
+    "landAreaKm2": 2834,
+    "climateType": "Type I",
+    "centroid": [
+      120.7526,
+      16.6474
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 19.2,
+    "topCrops": [
+      "Highland Vegetables (Cabbage, Carrots, Potatoes)",
+      "Strawberries",
+      "Coffee"
+    ],
+    "primaryWaterSources": [
+      "Agno River",
+      "Ambuklao / Binga catchments"
+    ]
+  },
+  {
+    "psgc": 807800000,
+    "name": "Biliran",
+    "slug": "biliran",
+    "regionPsgc": 800000000,
+    "regionName": "Region VIII (Eastern Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Naval",
+    "population": 179312,
+    "landAreaKm2": 531,
+    "climateType": "Type II",
+    "centroid": [
+      124.4354,
+      11.6127
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Anas River",
+      "Caraycaray River"
+    ]
+  },
+  {
+    "psgc": 701200000,
+    "name": "Bohol",
+    "slug": "bohol",
+    "regionPsgc": 700000000,
+    "regionName": "Region VII (Central Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Tagbilaran City",
+    "population": 1394329,
+    "landAreaKm2": 3968,
+    "climateType": "Type IV",
+    "centroid": [
+      124.2008,
+      9.9109
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Coconut",
+      "Corn",
+      "Ubi Kinampay"
+    ],
+    "primaryWaterSources": [
+      "Loboc River",
+      "Wahig-Inabanga Dam"
+    ]
+  },
+  {
+    "psgc": 1001300000,
+    "name": "Bukidnon",
+    "slug": "bukidnon",
+    "regionPsgc": 1000000000,
+    "regionName": "Region X (Northern Mindanao)",
+    "islandGroup": "Mindanao",
+    "capital": "Malaybalay City",
+    "population": 1541308,
+    "landAreaKm2": 9362,
+    "climateType": "Type IV",
+    "centroid": [
+      124.9989,
+      7.9983
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Corn",
+      "Pineapple",
+      "Sugarcane",
+      "Banana",
+      "Coffee"
+    ],
+    "primaryWaterSources": [
+      "Pulangi IV Dam",
+      "Tagoloan River",
+      "Cagayan River"
+    ]
+  },
+  {
+    "psgc": 301400000,
+    "name": "Bulacan",
+    "slug": "bulacan",
+    "regionPsgc": 300000000,
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "capital": "Malolos City",
+    "population": 3708890,
+    "landAreaKm2": 2710,
+    "climateType": "Type I",
+    "centroid": [
+      121.0009,
+      14.9543
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Vegetables",
+      "Aquaculture"
+    ],
+    "primaryWaterSources": [
+      "Angat Dam",
+      "Ipo Dam",
+      "Pampanga River"
+    ]
+  },
+  {
+    "psgc": 201500000,
+    "name": "Cagayan",
+    "slug": "cagayan",
+    "regionPsgc": 200000000,
+    "regionName": "Region II (Cagayan Valley)",
+    "islandGroup": "Luzon",
+    "capital": "Tuguegarao City",
+    "population": 1268565,
+    "landAreaKm2": 8794,
+    "climateType": "Type III",
+    "centroid": [
+      121.6741,
+      18.498
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Peanut",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Cagayan River Basin",
+      "Pinacanauan River"
+    ]
+  },
+  {
+    "psgc": 501600000,
+    "name": "Camarines Norte",
+    "slug": "camarines-norte",
+    "regionPsgc": 500000000,
+    "regionName": "Region V (Bicol Region)",
+    "islandGroup": "Luzon",
+    "capital": "Daet",
+    "population": 629699,
+    "landAreaKm2": 2119,
+    "climateType": "Type II",
+    "centroid": [
+      122.7367,
+      14.2009
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Queen Pineapple",
+      "Coconut",
+      "Rice"
+    ],
+    "primaryWaterSources": [
+      "Labo River",
+      "Basud River"
+    ]
+  },
+  {
+    "psgc": 501700000,
+    "name": "Camarines Sur",
+    "slug": "camarines-sur",
+    "regionPsgc": 500000000,
+    "regionName": "Region V (Bicol Region)",
+    "islandGroup": "Luzon",
+    "capital": "Pili",
+    "population": 2068244,
+    "landAreaKm2": 5280,
+    "climateType": "Type II",
+    "centroid": [
+      123.3622,
+      13.7812
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Coconut",
+      "Sugarcane"
+    ],
+    "primaryWaterSources": [
+      "Bicol River Basin",
+      "Lake Bato",
+      "Lake Buhi"
+    ]
+  },
+  {
+    "psgc": 1001800000,
+    "name": "Camiguin",
+    "slug": "camiguin",
+    "regionPsgc": 1000000000,
+    "regionName": "Region X (Northern Mindanao)",
+    "islandGroup": "Mindanao",
+    "capital": "Mambajao",
+    "population": 92808,
+    "landAreaKm2": 242,
+    "climateType": "Type II",
+    "centroid": [
+      124.7077,
+      9.1767
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Lanzones",
+      "Coconut",
+      "Root crops"
+    ],
+    "primaryWaterSources": [
+      "Volcanic springs",
+      "Tuasan falls"
+    ]
+  },
+  {
+    "psgc": 601900000,
+    "name": "Capiz",
+    "slug": "capiz",
+    "regionPsgc": 600000000,
+    "regionName": "Region VI (Western Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Roxas City",
+    "population": 804952,
+    "landAreaKm2": 2649,
+    "climateType": "Type III",
+    "centroid": [
+      122.6995,
+      11.3972
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Sugarcane",
+      "Aquaculture"
+    ],
+    "primaryWaterSources": [
+      "Panay River Basin"
+    ]
+  },
+  {
+    "psgc": 502000000,
+    "name": "Catanduanes",
+    "slug": "catanduanes",
+    "regionPsgc": 500000000,
+    "regionName": "Region V (Bicol Region)",
+    "islandGroup": "Luzon",
+    "capital": "Virac",
+    "population": 271879,
+    "landAreaKm2": 1460,
+    "climateType": "Type II",
+    "centroid": [
+      124.2495,
+      13.8236
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Abaca",
+      "Coconut",
+      "Rice"
+    ],
+    "primaryWaterSources": [
+      "Catanduanes mountain watersheds"
+    ]
+  },
+  {
+    "psgc": 402100000,
+    "name": "Cavite",
+    "slug": "cavite",
+    "regionPsgc": 400000000,
+    "regionName": "Region IV-A (CALABARZON)",
+    "islandGroup": "Luzon",
+    "capital": "Imus City / Trece Martires",
+    "population": 4344829,
+    "landAreaKm2": 1245,
+    "climateType": "Type I",
+    "centroid": [
+      120.8479,
+      14.2768
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coffee",
+      "Pineapple",
+      "Rice",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Maragondon River",
+      "Ylang-Ylang River"
+    ]
+  },
+  {
+    "psgc": 702200000,
+    "name": "Cebu",
+    "slug": "cebu",
+    "regionPsgc": 700000000,
+    "regionName": "Region VII (Central Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Cebu City",
+    "population": 3325385,
+    "landAreaKm2": 4867,
+    "climateType": "Type III",
+    "centroid": [
+      123.8521,
+      10.5287
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Corn",
+      "Mango",
+      "Vegetables",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Mananga River",
+      "Kotkot River",
+      "Lusaran Dam"
+    ]
+  },
+  {
+    "psgc": 990100000,
+    "name": "City of Isabela (Not a Province)",
+    "slug": "city-of-isabela-not-a-province",
+    "regionPsgc": 900000000,
+    "regionName": "Region IX (Zamboanga Peninsula)",
+    "islandGroup": "Mindanao",
+    "capital": "Provincial Capital",
+    "population": 1207985,
+    "landAreaKm2": 219,
+    "climateType": "Type I",
+    "centroid": [
+      121.9841,
+      6.6787
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Regional river basin",
+      "Groundwater"
+    ]
+  },
+  {
+    "psgc": 1204700000,
+    "name": "Cotabato",
+    "slug": "cotabato",
+    "regionPsgc": 1200000000,
+    "regionName": "Region XII (SOCCSKSARGEN)",
+    "islandGroup": "Mindanao",
+    "capital": "Kidapawan City",
+    "population": 1490618,
+    "landAreaKm2": 5318,
+    "climateType": "Type IV",
+    "centroid": [
+      124.8406,
+      7.1976
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Rubber",
+      "Oil Palm",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Mindanao River Basin",
+      "Pulangi River",
+      "Kabacan River"
+    ]
+  },
+  {
+    "psgc": 1108200000,
+    "name": "Davao de Oro",
+    "slug": "davao-de-oro",
+    "regionPsgc": 1100000000,
+    "regionName": "Region XI (Davao Region)",
+    "islandGroup": "Mindanao",
+    "capital": "Nabunturan",
+    "population": 767547,
+    "landAreaKm2": 4360,
+    "climateType": "Type IV",
+    "centroid": [
+      125.9483,
+      7.6258
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Banana",
+      "Coconut",
+      "Rice",
+      "Coffee"
+    ],
+    "primaryWaterSources": [
+      "Agusan River headwaters",
+      "Kingking River"
+    ]
+  },
+  {
+    "psgc": 1102300000,
+    "name": "Davao del Norte",
+    "slug": "davao-del-norte",
+    "regionPsgc": 1100000000,
+    "regionName": "Region XI (Davao Region)",
+    "islandGroup": "Mindanao",
+    "capital": "Tagum City",
+    "population": 1125057,
+    "landAreaKm2": 3249,
+    "climateType": "Type IV",
+    "centroid": [
+      125.6768,
+      7.4219
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Cavendish Banana",
+      "Rice",
+      "Corn",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Tagum-Libuganon River Basin"
+    ]
+  },
+  {
+    "psgc": 1102400000,
+    "name": "Davao del Sur",
+    "slug": "davao-del-sur",
+    "regionPsgc": 1100000000,
+    "regionName": "Region XI (Davao Region)",
+    "islandGroup": "Mindanao",
+    "capital": "Digos City",
+    "population": 680481,
+    "landAreaKm2": 4266,
+    "climateType": "Type IV",
+    "centroid": [
+      125.3572,
+      6.9208
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Sugarcane",
+      "Coconut",
+      "Banana",
+      "Corn"
+    ],
+    "primaryWaterSources": [
+      "Padada River",
+      "Davao River Basin"
+    ]
+  },
+  {
+    "psgc": 1108600000,
+    "name": "Davao Occidental",
+    "slug": "davao-occidental",
+    "regionPsgc": 1100000000,
+    "regionName": "Region XI (Davao Region)",
+    "islandGroup": "Mindanao",
+    "capital": "Malita",
+    "population": 317159,
+    "landAreaKm2": 1962,
+    "climateType": "Type IV",
+    "centroid": [
+      125.4994,
+      5.9706
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Corn",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Malita River",
+      "Springs"
+    ]
+  },
+  {
+    "psgc": 1102500000,
+    "name": "Davao Oriental",
+    "slug": "davao-oriental",
+    "regionPsgc": 1100000000,
+    "regionName": "Region XI (Davao Region)",
+    "islandGroup": "Mindanao",
+    "capital": "Mati City",
+    "population": 576343,
+    "landAreaKm2": 5001,
+    "climateType": "Type II",
+    "centroid": [
+      126.2906,
+      7.1356
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Corn",
+      "Cacao",
+      "Rice"
+    ],
+    "primaryWaterSources": [
+      "Cateel River",
+      "Sumlog River"
+    ]
+  },
+  {
+    "psgc": 1608500000,
+    "name": "Dinagat Islands",
+    "slug": "dinagat-islands",
+    "regionPsgc": 1600000000,
+    "regionName": "Region XIII (Caraga)",
+    "islandGroup": "Mindanao",
+    "capital": "San Jose",
+    "population": 128117,
+    "landAreaKm2": 806,
+    "climateType": "Type II",
+    "centroid": [
+      125.5919,
+      10.163
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Cassava",
+      "Rice"
+    ],
+    "primaryWaterSources": [
+      "Mountain creeks",
+      "Rainwater"
+    ]
+  },
+  {
+    "psgc": 802600000,
+    "name": "Eastern Samar",
+    "slug": "eastern-samar",
+    "regionPsgc": 800000000,
+    "regionName": "Region VIII (Eastern Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Borongan City",
+    "population": 477168,
+    "landAreaKm2": 4253,
+    "climateType": "Type II",
+    "centroid": [
+      125.52,
+      11.4572
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Rice",
+      "Root crops"
+    ],
+    "primaryWaterSources": [
+      "Ulut River",
+      "Oras River"
+    ]
+  },
+  {
+    "psgc": 607900000,
+    "name": "Guimaras",
+    "slug": "guimaras",
+    "regionPsgc": 600000000,
+    "regionName": "Region VI (Western Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Jordan",
+    "population": 187842,
+    "landAreaKm2": 595,
+    "climateType": "Type I",
+    "centroid": [
+      122.6081,
+      10.5448
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Mango (Guimaras Sweet)",
+      "Rice",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Sibunag River",
+      "Springs"
+    ]
+  },
+  {
+    "psgc": 1402700000,
+    "name": "Ifugao",
+    "slug": "ifugao",
+    "regionPsgc": 1400000000,
+    "regionName": "Cordillera Administrative Region (CAR)",
+    "islandGroup": "Luzon",
+    "capital": "Lagawe",
+    "population": 207498,
+    "landAreaKm2": 2506,
+    "climateType": "Type III",
+    "centroid": [
+      121.2958,
+      16.8836
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Heirloom Rice (Tinawon)",
+      "Coffee",
+      "Vegetables"
+    ],
+    "primaryWaterSources": [
+      "Magat Dam catchment",
+      "Ibulao River"
+    ]
+  },
+  {
+    "psgc": 102800000,
+    "name": "Ilocos Norte",
+    "slug": "ilocos-norte",
+    "regionPsgc": 100000000,
+    "regionName": "Region I (Ilocos Region)",
+    "islandGroup": "Luzon",
+    "capital": "Laoag City",
+    "population": 609588,
+    "landAreaKm2": 3276,
+    "climateType": "Type I",
+    "centroid": [
+      120.7147,
+      18.1865
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Garlic",
+      "Tobacco"
+    ],
+    "primaryWaterSources": [
+      "Laoag River Basin",
+      "Paoay Lake"
+    ]
+  },
+  {
+    "psgc": 102900000,
+    "name": "Ilocos Sur",
+    "slug": "ilocos-sur",
+    "regionPsgc": 100000000,
+    "regionName": "Region I (Ilocos Region)",
+    "islandGroup": "Luzon",
+    "capital": "Vigan City",
+    "population": 706009,
+    "landAreaKm2": 2467,
+    "climateType": "Type I",
+    "centroid": [
+      120.5339,
+      17.2802
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Tobacco",
+      "Vegetables"
+    ],
+    "primaryWaterSources": [
+      "Abra River Basin",
+      "Banaoang Pump"
+    ]
+  },
+  {
+    "psgc": 603000000,
+    "name": "Iloilo",
+    "slug": "iloilo",
+    "regionPsgc": 600000000,
+    "regionName": "Region VI (Western Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Iloilo City",
+    "population": 2509525,
+    "landAreaKm2": 4716,
+    "climateType": "Type I",
+    "centroid": [
+      122.8104,
+      11.1186
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Sugarcane",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Jalaur River Basin",
+      "Jalaur Multipurpose Dam"
+    ]
+  },
+  {
+    "psgc": 203100000,
+    "name": "Isabela",
+    "slug": "isabela",
+    "regionPsgc": 200000000,
+    "regionName": "Region II (Cagayan Valley)",
+    "islandGroup": "Luzon",
+    "capital": "Ilagan City",
+    "population": 1697050,
+    "landAreaKm2": 10489,
+    "climateType": "Type III",
+    "centroid": [
+      121.9648,
+      17.0158
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Corn",
+      "Rice",
+      "Banana",
+      "Sugarcane"
+    ],
+    "primaryWaterSources": [
+      "Magat Dam",
+      "Cagayan River Basin"
+    ]
+  },
+  {
+    "psgc": 1403200000,
+    "name": "Kalinga",
+    "slug": "kalinga",
+    "regionPsgc": 1400000000,
+    "regionName": "Cordillera Administrative Region (CAR)",
+    "islandGroup": "Luzon",
+    "capital": "Tabuk City",
+    "population": 229570,
+    "landAreaKm2": 2825,
+    "climateType": "Type III",
+    "centroid": [
+      121.3056,
+      17.4332
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Coffee",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Chico River Basin"
+    ]
+  },
+  {
+    "psgc": 103300000,
+    "name": "La Union",
+    "slug": "la-union",
+    "regionPsgc": 100000000,
+    "regionName": "Region I (Ilocos Region)",
+    "islandGroup": "Luzon",
+    "capital": "San Fernando City",
+    "population": 822352,
+    "landAreaKm2": 1414,
+    "climateType": "Type I",
+    "centroid": [
+      120.4319,
+      16.5753
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Tobacco",
+      "Mango"
+    ],
+    "primaryWaterSources": [
+      "Bauang River",
+      "Aringay River"
+    ]
+  },
+  {
+    "psgc": 403400000,
+    "name": "Laguna",
+    "slug": "laguna",
+    "regionPsgc": 400000000,
+    "regionName": "Region IV-A (CALABARZON)",
+    "islandGroup": "Luzon",
+    "capital": "Santa Cruz",
+    "population": 3382193,
+    "landAreaKm2": 1802,
+    "climateType": "Type I",
+    "centroid": [
+      121.3313,
+      14.272
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Coconut",
+      "Corn",
+      "Lanzones"
+    ],
+    "primaryWaterSources": [
+      "Laguna de Bay",
+      "Caliraya Dam",
+      "Pagsanjan River"
+    ]
+  },
+  {
+    "psgc": 1003500000,
+    "name": "Lanao del Norte",
+    "slug": "lanao-del-norte",
+    "regionPsgc": 1000000000,
+    "regionName": "Region X (Northern Mindanao)",
+    "islandGroup": "Mindanao",
+    "capital": "Tubod",
+    "population": 722902,
+    "landAreaKm2": 2637,
+    "climateType": "Type III",
+    "centroid": [
+      124.0667,
+      8.0309
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Rice",
+      "Corn",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Agus River",
+      "Tubod River"
+    ]
+  },
+  {
+    "psgc": 1903600000,
+    "name": "Lanao del Sur",
+    "slug": "lanao-del-sur",
+    "regionPsgc": 1900000000,
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "capital": "Marawi City",
+    "population": 1195518,
+    "landAreaKm2": 4103,
+    "climateType": "Type III",
+    "centroid": [
+      124.3444,
+      7.784
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Cassava",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Lake Lanao",
+      "Agus River Dam"
+    ]
+  },
+  {
+    "psgc": 803700000,
+    "name": "Leyte",
+    "slug": "leyte",
+    "regionPsgc": 800000000,
+    "regionName": "Region VIII (Eastern Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Tacloban City",
+    "population": 1776847,
+    "landAreaKm2": 5576,
+    "climateType": "Type II",
+    "centroid": [
+      124.7019,
+      11.0043
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Coconut",
+      "Sugarcane",
+      "Corn"
+    ],
+    "primaryWaterSources": [
+      "Bao River",
+      "Binahaan River"
+    ]
+  },
+  {
+    "psgc": 1908700000,
+    "name": "Maguindanao del Norte",
+    "slug": "maguindanao-del-norte",
+    "regionPsgc": 1900000000,
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "capital": "Datu Odin Sinsuat",
+    "population": 618421,
+    "landAreaKm2": 2550,
+    "climateType": "Type IV",
+    "centroid": [
+      124.1986,
+      7.1626
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Mindanao River Basin",
+      "Simuay River"
+    ]
+  },
+  {
+    "psgc": 1908800000,
+    "name": "Maguindanao del Sur",
+    "slug": "maguindanao-del-sur",
+    "regionPsgc": 1900000000,
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "capital": "Buluan",
+    "population": 723758,
+    "landAreaKm2": 2459,
+    "climateType": "Type IV",
+    "centroid": [
+      124.6406,
+      6.9083
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Oil Palm",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Buluan Lake",
+      "Ligawasan Marsh"
+    ]
+  },
+  {
+    "psgc": 1704000000,
+    "name": "Marinduque",
+    "slug": "marinduque",
+    "regionPsgc": 1700000000,
+    "regionName": "MIMAROPA Region",
+    "islandGroup": "Luzon",
+    "capital": "Boac",
+    "population": 239207,
+    "landAreaKm2": 922,
+    "climateType": "Type III",
+    "centroid": [
+      122.0134,
+      13.4329
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Rice",
+      "Root crops",
+      "Arrowroot"
+    ],
+    "primaryWaterSources": [
+      "Boac River"
+    ]
+  },
+  {
+    "psgc": 504100000,
+    "name": "Masbate",
+    "slug": "masbate",
+    "regionPsgc": 500000000,
+    "regionName": "Region V (Bicol Region)",
+    "islandGroup": "Luzon",
+    "capital": "Masbate City",
+    "population": 908920,
+    "landAreaKm2": 3986,
+    "climateType": "Type III",
+    "centroid": [
+      123.4668,
+      12.3955
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Corn",
+      "Coconut",
+      "Rice",
+      "Cattle"
+    ],
+    "primaryWaterSources": [
+      "Asid River",
+      "Mobo River"
+    ]
+  },
+  {
+    "psgc": 1004200000,
+    "name": "Misamis Occidental",
+    "slug": "misamis-occidental",
+    "regionPsgc": 1000000000,
+    "regionName": "Region X (Northern Mindanao)",
+    "islandGroup": "Mindanao",
+    "capital": "Oroquieta City",
+    "population": 617333,
+    "landAreaKm2": 1869,
+    "climateType": "Type III",
+    "centroid": [
+      123.6923,
+      8.3296
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Rice",
+      "Corn"
+    ],
+    "primaryWaterSources": [
+      "Langaran River",
+      "Clarin River"
+    ]
+  },
+  {
+    "psgc": 1004300000,
+    "name": "Misamis Oriental",
+    "slug": "misamis-oriental",
+    "regionPsgc": 1000000000,
+    "regionName": "Region X (Northern Mindanao)",
+    "islandGroup": "Mindanao",
+    "capital": "Cagayan de Oro City",
+    "population": 956900,
+    "landAreaKm2": 3379,
+    "climateType": "Type III",
+    "centroid": [
+      124.7717,
+      8.6189
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Corn",
+      "Banana",
+      "Rice"
+    ],
+    "primaryWaterSources": [
+      "Cagayan de Oro River",
+      "Tagoloan River"
+    ]
+  },
+  {
+    "psgc": 1404400000,
+    "name": "Mountain Province",
+    "slug": "mountain-province",
+    "regionPsgc": 1400000000,
+    "regionName": "Cordillera Administrative Region (CAR)",
+    "islandGroup": "Luzon",
+    "capital": "Bontoc",
+    "population": 158200,
+    "landAreaKm2": 2112,
+    "climateType": "Type I",
+    "centroid": [
+      121.1474,
+      17.1115
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Highland Vegetables",
+      "Coffee",
+      "Fruit"
+    ],
+    "primaryWaterSources": [
+      "Chico River headwaters"
+    ]
+  },
+  {
+    "psgc": 1303900000,
+    "name": "NCR, City of Manila, First District (Not a Province)",
+    "slug": "ncr-city-of-manila-first-district-not-a-province",
+    "regionPsgc": 1300000000,
+    "regionName": "National Capital Region (NCR)",
+    "islandGroup": "Luzon",
+    "capital": "Provincial Capital",
+    "population": 856888,
+    "landAreaKm2": 41,
+    "climateType": "Type I",
+    "centroid": [
+      120.9897,
+      14.6044
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Regional river basin",
+      "Groundwater"
+    ]
+  },
+  {
+    "psgc": 1307600000,
+    "name": "NCR, Fourth District (Not a Province)",
+    "slug": "ncr-fourth-district-not-a-province",
+    "regionPsgc": 1300000000,
+    "regionName": "National Capital Region (NCR)",
+    "islandGroup": "Luzon",
+    "capital": "Provincial Capital",
+    "population": 596349,
+    "landAreaKm2": 196,
+    "climateType": "Type I",
+    "centroid": [
+      121.0335,
+      14.4826
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Regional river basin",
+      "Groundwater"
+    ]
+  },
+  {
+    "psgc": 1307400000,
+    "name": "NCR, Second District (Not a Province)",
+    "slug": "ncr-second-district-not-a-province",
+    "regionPsgc": 1300000000,
+    "regionName": "National Capital Region (NCR)",
+    "islandGroup": "Luzon",
+    "capital": "Provincial Capital",
+    "population": 1466453,
+    "landAreaKm2": 233,
+    "climateType": "Type I",
+    "centroid": [
+      121.0722,
+      14.6466
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Regional river basin",
+      "Groundwater"
+    ]
+  },
+  {
+    "psgc": 1307500000,
+    "name": "NCR, Third District (Not a Province)",
+    "slug": "ncr-third-district-not-a-province",
+    "regionPsgc": 1300000000,
+    "regionName": "National Capital Region (NCR)",
+    "islandGroup": "Luzon",
+    "capital": "Provincial Capital",
+    "population": 563966,
+    "landAreaKm2": 126,
+    "climateType": "Type I",
+    "centroid": [
+      121.0103,
+      14.7226
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Regional river basin",
+      "Groundwater"
+    ]
+  },
+  {
+    "psgc": 604500000,
+    "name": "Negros Occidental",
+    "slug": "negros-occidental",
+    "regionPsgc": 600000000,
+    "regionName": "Region VI (Western Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Bacolod City",
+    "population": 3223955,
+    "landAreaKm2": 7652,
+    "climateType": "Type I",
+    "centroid": [
+      122.9945,
+      10.3612
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Sugarcane",
+      "Rice",
+      "Corn",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Ilog-Hilabangan River Basin",
+      "Bago River"
+    ]
+  },
+  {
+    "psgc": 704600000,
+    "name": "Negros Oriental",
+    "slug": "negros-oriental",
+    "regionPsgc": 700000000,
+    "regionName": "Region VII (Central Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Dumaguete City",
+    "population": 1432990,
+    "landAreaKm2": 5129,
+    "climateType": "Type III",
+    "centroid": [
+      123.0941,
+      9.6441
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Sugarcane",
+      "Corn",
+      "Rice",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Tanjay River",
+      "Okoy River"
+    ]
+  },
+  {
+    "psgc": 804800000,
+    "name": "Northern Samar",
+    "slug": "northern-samar",
+    "regionPsgc": 800000000,
+    "regionName": "Region VIII (Eastern Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Catarman",
+    "population": 639186,
+    "landAreaKm2": 3441,
+    "climateType": "Type II",
+    "centroid": [
+      124.695,
+      12.4853
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Rice",
+      "Abaca"
+    ],
+    "primaryWaterSources": [
+      "Catarman River",
+      "Pambujan River"
+    ]
+  },
+  {
+    "psgc": 304900000,
+    "name": "Nueva Ecija",
+    "slug": "nueva-ecija",
+    "regionPsgc": 300000000,
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "capital": "Palayan City",
+    "population": 2310134,
+    "landAreaKm2": 5506,
+    "climateType": "Type I",
+    "centroid": [
+      120.9525,
+      15.6191
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Onion",
+      "Corn",
+      "Vegetables"
+    ],
+    "primaryWaterSources": [
+      "Pantabangan Dam",
+      "Upper Pampanga River"
+    ]
+  },
+  {
+    "psgc": 205000000,
+    "name": "Nueva Vizcaya",
+    "slug": "nueva-vizcaya",
+    "regionPsgc": 200000000,
+    "regionName": "Region II (Cagayan Valley)",
+    "islandGroup": "Luzon",
+    "capital": "Bayombong",
+    "population": 497432,
+    "landAreaKm2": 4126,
+    "climateType": "Type III",
+    "centroid": [
+      121.2052,
+      16.3238
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Citrus",
+      "Rice",
+      "Vegetables",
+      "Root crops"
+    ],
+    "primaryWaterSources": [
+      "Magat River headwaters",
+      "Matuno River"
+    ]
+  },
+  {
+    "psgc": 1705100000,
+    "name": "Occidental Mindoro",
+    "slug": "occidental-mindoro",
+    "regionPsgc": 1700000000,
+    "regionName": "MIMAROPA Region",
+    "islandGroup": "Luzon",
+    "capital": "Mamburao",
+    "population": 525354,
+    "landAreaKm2": 5975,
+    "climateType": "Type I",
+    "centroid": [
+      120.6545,
+      13.1394
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Onion",
+      "Salt"
+    ],
+    "primaryWaterSources": [
+      "Amnay River",
+      "Patrick River",
+      "Mamburao River"
+    ]
+  },
+  {
+    "psgc": 1705200000,
+    "name": "Oriental Mindoro",
+    "slug": "oriental-mindoro",
+    "regionPsgc": 1700000000,
+    "regionName": "MIMAROPA Region",
+    "islandGroup": "Luzon",
+    "capital": "Calapan City",
+    "population": 908339,
+    "landAreaKm2": 4198,
+    "climateType": "Type III",
+    "centroid": [
+      121.3082,
+      12.8728
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Calamansi",
+      "Banana",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Naujan Lake",
+      "Mag-asawang Tubig River"
+    ]
+  },
+  {
+    "psgc": 1705300000,
+    "name": "Palawan",
+    "slug": "palawan",
+    "regionPsgc": 1700000000,
+    "regionName": "MIMAROPA Region",
+    "islandGroup": "Luzon",
+    "capital": "Puerto Princesa City",
+    "population": 1246253,
+    "landAreaKm2": 14464,
+    "climateType": "Type I",
+    "centroid": [
+      119.1819,
+      10.5128
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Cashew",
+      "Coconut",
+      "Corn"
+    ],
+    "primaryWaterSources": [
+      "Iwahig River",
+      "Babuyan River"
+    ]
+  },
+  {
+    "psgc": 305400000,
+    "name": "Pampanga",
+    "slug": "pampanga",
+    "regionPsgc": 300000000,
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "capital": "City of San Fernando",
+    "population": 2900637,
+    "landAreaKm2": 2115,
+    "climateType": "Type I",
+    "centroid": [
+      120.6785,
+      15.0626
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Sugarcane",
+      "Tilapia / Aquaculture"
+    ],
+    "primaryWaterSources": [
+      "Pampanga River Basin",
+      "Guagua River"
+    ]
+  },
+  {
+    "psgc": 105500000,
+    "name": "Pangasinan",
+    "slug": "pangasinan",
+    "regionPsgc": 100000000,
+    "regionName": "Region I (Ilocos Region)",
+    "islandGroup": "Luzon",
+    "capital": "Lingayen",
+    "population": 3163190,
+    "landAreaKm2": 5161,
+    "climateType": "Type I",
+    "centroid": [
+      120.1855,
+      16.0503
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Mango",
+      "Salt / Aquaculture"
+    ],
+    "primaryWaterSources": [
+      "Agno River Basin",
+      "San Roque Dam"
+    ]
+  },
+  {
+    "psgc": 405600000,
+    "name": "Quezon",
+    "slug": "quezon",
+    "regionPsgc": 400000000,
+    "regionName": "Region IV-A (CALABARZON)",
+    "islandGroup": "Luzon",
+    "capital": "Lucena City",
+    "population": 2229383,
+    "landAreaKm2": 8398,
+    "climateType": "Type II",
+    "centroid": [
+      121.989,
+      14.2436
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Rice",
+      "Corn",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Umiray River",
+      "Agos River"
+    ]
+  },
+  {
+    "psgc": 205700000,
+    "name": "Quirino",
+    "slug": "quirino",
+    "regionPsgc": 200000000,
+    "regionName": "Region II (Cagayan Valley)",
+    "islandGroup": "Luzon",
+    "capital": "Cabarroguis",
+    "population": 203811,
+    "landAreaKm2": 2767,
+    "climateType": "Type III",
+    "centroid": [
+      121.5814,
+      16.3321
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Corn",
+      "Banana",
+      "Rice",
+      "Ginger"
+    ],
+    "primaryWaterSources": [
+      "Upper Cagayan River",
+      "Addalam River"
+    ]
+  },
+  {
+    "psgc": 405800000,
+    "name": "Rizal",
+    "slug": "rizal",
+    "regionPsgc": 400000000,
+    "regionName": "Region IV-A (CALABARZON)",
+    "islandGroup": "Luzon",
+    "capital": "Antipolo City",
+    "population": 3330142,
+    "landAreaKm2": 1200,
+    "climateType": "Type I",
+    "centroid": [
+      121.2713,
+      14.5485
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Cashew",
+      "Vegetables"
+    ],
+    "primaryWaterSources": [
+      "Wawa Dam",
+      "Marikina River",
+      "Laguna Lake"
+    ]
+  },
+  {
+    "psgc": 1705900000,
+    "name": "Romblon",
+    "slug": "romblon",
+    "regionPsgc": 1700000000,
+    "regionName": "MIMAROPA Region",
+    "islandGroup": "Luzon",
+    "capital": "Romblon",
+    "population": 308985,
+    "landAreaKm2": 1308,
+    "climateType": "Type III",
+    "centroid": [
+      122.157,
+      12.4792
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Rice",
+      "Root crops",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Sibuyan mountain streams",
+      "Tablas springs"
+    ]
+  },
+  {
+    "psgc": 806000000,
+    "name": "Samar",
+    "slug": "samar",
+    "regionPsgc": 800000000,
+    "regionName": "Region VIII (Eastern Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Catbalogan City",
+    "population": 793183,
+    "landAreaKm2": 5384,
+    "climateType": "Type II",
+    "centroid": [
+      124.7814,
+      11.7567
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Rice",
+      "Root crops"
+    ],
+    "primaryWaterSources": [
+      "Gandara River",
+      "Calbiga River"
+    ]
+  },
+  {
+    "psgc": 1208000000,
+    "name": "Sarangani",
+    "slug": "sarangani",
+    "regionPsgc": 1200000000,
+    "regionName": "Region XII (SOCCSKSARGEN)",
+    "islandGroup": "Mindanao",
+    "capital": "Alabel",
+    "population": 558946,
+    "landAreaKm2": 3702,
+    "climateType": "Type IV",
+    "centroid": [
+      125.1327,
+      6.0916
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Corn",
+      "Banana",
+      "Mango"
+    ],
+    "primaryWaterSources": [
+      "Buayan-Malungon River Basin",
+      "Kalaong River"
+    ]
+  },
+  {
+    "psgc": 706100000,
+    "name": "Siquijor",
+    "slug": "siquijor",
+    "regionPsgc": 700000000,
+    "regionName": "Region VII (Central Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Siquijor",
+    "population": 103395,
+    "landAreaKm2": 319,
+    "climateType": "Type III",
+    "centroid": [
+      123.5887,
+      9.1878
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Corn",
+      "Cassava",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Bandilaan springs",
+      "Rainwater catchment"
+    ]
+  },
+  {
+    "psgc": 506200000,
+    "name": "Sorsogon",
+    "slug": "sorsogon",
+    "regionPsgc": 500000000,
+    "regionName": "Region V (Bicol Region)",
+    "islandGroup": "Luzon",
+    "capital": "Sorsogon City",
+    "population": 828655,
+    "landAreaKm2": 1985,
+    "climateType": "Type II",
+    "centroid": [
+      123.9131,
+      12.8708
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Pili",
+      "Abaca",
+      "Coconut",
+      "Rice"
+    ],
+    "primaryWaterSources": [
+      "Bulusan watershed",
+      "Cadian River"
+    ]
+  },
+  {
+    "psgc": 1206300000,
+    "name": "South Cotabato",
+    "slug": "south-cotabato",
+    "regionPsgc": 1200000000,
+    "regionName": "Region XII (SOCCSKSARGEN)",
+    "islandGroup": "Mindanao",
+    "capital": "Koronadal City",
+    "population": 975476,
+    "landAreaKm2": 4120,
+    "climateType": "Type IV",
+    "centroid": [
+      124.8788,
+      6.3091
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Corn",
+      "Pineapple",
+      "Rice",
+      "Banana"
+    ],
+    "primaryWaterSources": [
+      "Allah River",
+      "Silway River"
+    ]
+  },
+  {
+    "psgc": 806400000,
+    "name": "Southern Leyte",
+    "slug": "southern-leyte",
+    "regionPsgc": 800000000,
+    "regionName": "Region VIII (Eastern Visayas)",
+    "islandGroup": "Visayas",
+    "capital": "Maasin City",
+    "population": 429573,
+    "landAreaKm2": 1656,
+    "climateType": "Type II",
+    "centroid": [
+      125.0691,
+      10.212
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Abaca",
+      "Coconut",
+      "Rice"
+    ],
+    "primaryWaterSources": [
+      "Canturing River",
+      "Subangdaku River"
+    ]
+  },
+  {
+    "psgc": 1909900000,
+    "name": "Special Geographic Area (BARMM)",
+    "slug": "special-geographic-area-barmm",
+    "regionPsgc": 1900000000,
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "capital": "Provincial Capital",
+    "population": 553204,
+    "landAreaKm2": 542,
+    "climateType": "Type I",
+    "centroid": [
+      124.6519,
+      7.1287
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Regional river basin",
+      "Groundwater"
+    ]
+  },
+  {
+    "psgc": 1206500000,
+    "name": "Sultan Kudarat",
+    "slug": "sultan-kudarat",
+    "regionPsgc": 1200000000,
+    "regionName": "Region XII (SOCCSKSARGEN)",
+    "islandGroup": "Mindanao",
+    "capital": "Isulan",
+    "population": 854052,
+    "landAreaKm2": 4224,
+    "climateType": "Type IV",
+    "centroid": [
+      124.5643,
+      6.5739
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coffee",
+      "Rice",
+      "Corn",
+      "Oil Palm"
+    ],
+    "primaryWaterSources": [
+      "Kalamansig River",
+      "Ala River"
+    ]
+  },
+  {
+    "psgc": 1906600000,
+    "name": "Sulu",
+    "slug": "sulu",
+    "regionPsgc": 1900000000,
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "capital": "Jolo",
+    "population": 1000108,
+    "landAreaKm2": 1516,
+    "climateType": "Type III",
+    "centroid": [
+      120.9931,
+      5.9491
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Cassava",
+      "Lanzones",
+      "Durian"
+    ],
+    "primaryWaterSources": [
+      "Bud Daho watershed",
+      "Crater lakes"
+    ]
+  },
+  {
+    "psgc": 1606700000,
+    "name": "Surigao del Norte",
+    "slug": "surigao-del-norte",
+    "regionPsgc": 1600000000,
+    "regionName": "Region XIII (Caraga)",
+    "islandGroup": "Mindanao",
+    "capital": "Surigao City",
+    "population": 534636,
+    "landAreaKm2": 1976,
+    "climateType": "Type II",
+    "centroid": [
+      125.7763,
+      9.7508
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Rice",
+      "Root crops"
+    ],
+    "primaryWaterSources": [
+      "Surigao River",
+      "Lake Mainit"
+    ]
+  },
+  {
+    "psgc": 1606800000,
+    "name": "Surigao del Sur",
+    "slug": "surigao-del-sur",
+    "regionPsgc": 1600000000,
+    "regionName": "Region XIII (Caraga)",
+    "islandGroup": "Mindanao",
+    "capital": "Tandag City",
+    "population": 642255,
+    "landAreaKm2": 4708,
+    "climateType": "Type II",
+    "centroid": [
+      126.1794,
+      8.7131
+    ],
+    "baselineAnnualRainfallMm": 3400,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Coconut",
+      "Corn",
+      "Abaca"
+    ],
+    "primaryWaterSources": [
+      "Tago River",
+      "Bislig River"
+    ]
+  },
+  {
+    "psgc": 306900000,
+    "name": "Tarlac",
+    "slug": "tarlac",
+    "regionPsgc": 300000000,
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "capital": "Tarlac City",
+    "population": 1503456,
+    "landAreaKm2": 2974,
+    "climateType": "Type I",
+    "centroid": [
+      120.5244,
+      15.5163
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Sugarcane",
+      "Corn",
+      "Sweet Potato"
+    ],
+    "primaryWaterSources": [
+      "Tarlac River",
+      "O'Donnell River",
+      "San Roque canal"
+    ]
+  },
+  {
+    "psgc": 1907000000,
+    "name": "Tawi-Tawi",
+    "slug": "tawi-tawi",
+    "regionPsgc": 1900000000,
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "capital": "Bongao",
+    "population": 440276,
+    "landAreaKm2": 1157,
+    "climateType": "Type III",
+    "centroid": [
+      119.9625,
+      5.2439
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Cassava",
+      "Seaweed",
+      "Coconut"
+    ],
+    "primaryWaterSources": [
+      "Bongao springs",
+      "Rainwater collection"
+    ]
+  },
+  {
+    "psgc": 307100000,
+    "name": "Zambales",
+    "slug": "zambales",
+    "regionPsgc": 300000000,
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "capital": "Iba",
+    "population": 909932,
+    "landAreaKm2": 3733,
+    "climateType": "Type I",
+    "centroid": [
+      120.1345,
+      15.2488
+    ],
+    "baselineAnnualRainfallMm": 2200,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Carabao Mango",
+      "Rice",
+      "Root crops"
+    ],
+    "primaryWaterSources": [
+      "Sto. Tomas River",
+      "Bucao River"
+    ]
+  },
+  {
+    "psgc": 907200000,
+    "name": "Zamboanga del Norte",
+    "slug": "zamboanga-del-norte",
+    "regionPsgc": 900000000,
+    "regionName": "Region IX (Zamboanga Peninsula)",
+    "islandGroup": "Mindanao",
+    "capital": "Dipolog City",
+    "population": 1047455,
+    "landAreaKm2": 6279,
+    "climateType": "Type III",
+    "centroid": [
+      122.6964,
+      7.9793
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Coconut",
+      "Corn",
+      "Rice",
+      "Rubber"
+    ],
+    "primaryWaterSources": [
+      "Dipolog River",
+      "Dicayo River"
+    ]
+  },
+  {
+    "psgc": 907300000,
+    "name": "Zamboanga del Sur",
+    "slug": "zamboanga-del-sur",
+    "regionPsgc": 900000000,
+    "regionName": "Region IX (Zamboanga Peninsula)",
+    "islandGroup": "Mindanao",
+    "capital": "Pagadian City",
+    "population": 1050668,
+    "landAreaKm2": 5362,
+    "climateType": "Type III",
+    "centroid": [
+      122.907,
+      7.5437
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rice",
+      "Corn",
+      "Coconut",
+      "Rubber"
+    ],
+    "primaryWaterSources": [
+      "Labangan River",
+      "Tugbok River"
+    ]
+  },
+  {
+    "psgc": 908300000,
+    "name": "Zamboanga Sibugay",
+    "slug": "zamboanga-sibugay",
+    "regionPsgc": 900000000,
+    "regionName": "Region IX (Zamboanga Peninsula)",
+    "islandGroup": "Mindanao",
+    "capital": "Ipil",
+    "population": 669840,
+    "landAreaKm2": 2723,
+    "climateType": "Type III",
+    "centroid": [
+      122.756,
+      7.5988
+    ],
+    "baselineAnnualRainfallMm": 2600,
+    "baselineMeanTempC": 27.8,
+    "topCrops": [
+      "Rubber",
+      "Rice",
+      "Coconut",
+      "Seaweed"
+    ],
+    "primaryWaterSources": [
+      "Sibuguey River"
+    ]
+  }
+]

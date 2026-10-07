@@ -1,0 +1,55 @@
+name: Automated Climate Data Refresh
+
+on:
+  schedule:
+    # Runs daily at 18:00 UTC (02:00 AM Philippine Standard Time, UTC+8)
+    - cron: "0 18 * * *"
+  workflow_dispatch: # Allows manual one-click trigger in GitHub Actions tab
+
+# Required permission to push updated JSON data back to the repository
+permissions:
+  contents: write
+
+jobs:
+  refresh-data:
+    name: Gather & Update Climate Data
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run climate & GeoJSON gathering pipeline
+        run: node scripts/gather-all-data.mjs
+
+      - name: Verify build integrity
+        run: |
+          npx tsc --noEmit
+          npm run build
+
+      - name: Commit and push updated datasets if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage updated datasets
+          git add public/data/
+
+          # Only commit if changes exist
+          if git diff --staged --quiet; then
+            echo "No data changes detected. Everything is up to date."
+          else
+            echo "Data changes detected. Committing and pushing..."
+            git commit -m "chore(data): automated daily climate & ENSO refresh [skip ci]"
+            git push
+          fi

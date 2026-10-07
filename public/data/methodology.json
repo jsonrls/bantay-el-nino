@@ -1,0 +1,95 @@
+{
+  "version": "1.0.0",
+  "title": "Bantay El Niño Composite Impact Score Methodology",
+  "summary": "A transparent, auditable 0-to-100 index combining normalized meteorological anomalies, official PAGASA drought criteria, reservoir pressure, and agricultural crop exposure. Designed to communicate multi-dimensional climate risk without relying on opaque AI predictions.",
+  "formula": "ImpactScore = (0.25 * TempScore) + (0.25 * RainScore) + (0.20 * DroughtScore) + (0.15 * WaterScore) + (0.10 * AgriScore) + (0.05 * OtherScore)",
+  "components": [
+    {
+      "key": "temperature",
+      "label": "Temperature Anomaly",
+      "weight": 25,
+      "weightFraction": 0.25,
+      "unit": "°C deviation from 1991–2020 ERA5 baseline",
+      "normalizationFormula": "min(100, max(0, round((tempAnomalyC / 2.5) * 100)))",
+      "description": "Measures daytime and mean temperature deviation above long-term normal. A +2.5°C anomaly represents 100 points."
+    },
+    {
+      "key": "rainfall",
+      "label": "Rainfall Deficit",
+      "weight": 25,
+      "weightFraction": 0.25,
+      "unit": "% reduction from historical baseline",
+      "normalizationFormula": "min(100, max(0, round((abs(rainfallAnomalyPercent) / 60) * 100)))",
+      "description": "Measures the depth of precipitation shortfall. Shortfalls at or beyond -60% (PAGASA 'way below normal' threshold) map to 100 points."
+    },
+    {
+      "key": "drought",
+      "label": "Official Drought Indicators",
+      "weight": 20,
+      "weightFraction": 0.2,
+      "unit": "PAGASA criteria category",
+      "scoringMap": {
+        "Drought": 90,
+        "Dry Spell": 70,
+        "Dry Condition": 45,
+        "Near Normal": 20
+      },
+      "description": "Applies official PAGASA consecutive-month criteria to capture cumulative duration rather than single-month blips."
+    },
+    {
+      "key": "water",
+      "label": "Water & Reservoir Conditions",
+      "weight": 15,
+      "weightFraction": 0.15,
+      "unit": "Storage % & deviation from rule curve",
+      "description": "Combines regional dam reservoir elevations relative to rule curves and local groundwater vulnerability."
+    },
+    {
+      "key": "agriculture",
+      "label": "Agricultural Crop Vulnerability",
+      "weight": 10,
+      "weightFraction": 0.1,
+      "unit": "Crop phonology exposure & rainfed ratio",
+      "description": "Weights the sensitivity of dominant provincial crops (e.g., rainfed rice and flowering corn vs irrigated perennials) during the current calendar window."
+    },
+    {
+      "key": "other",
+      "label": "Other Factors (Heat Index, Terrain)",
+      "weight": 5,
+      "weightFraction": 0.05,
+      "unit": "Microclimate & drainage indicators",
+      "description": "Incorporates relative humidity-driven heat index and porous terrain characteristics."
+    }
+  ],
+  "riskBands": [
+    {
+      "range": "0 – 25",
+      "level": "low",
+      "label": "Low Impact",
+      "colorHex": "#4d7c0f",
+      "description": "Conditions remain close to seasonal averages. Minimal disruption to municipal water supplies and staple crops."
+    },
+    {
+      "range": "26 – 50",
+      "level": "moderate",
+      "label": "Moderate Impact",
+      "colorHex": "#a16207",
+      "description": "Emerging deficits detected. Rainfed agriculture requires soil moisture monitoring; water utilities monitor storage drawdowns."
+    },
+    {
+      "range": "51 – 75",
+      "level": "high",
+      "label": "High Impact",
+      "colorHex": "#c2410c",
+      "description": "Significant dry spell or drought conditions. Irrigation allocations constrained, heat index elevated, crop stress widespread."
+    },
+    {
+      "range": "76 – 100",
+      "level": "extreme",
+      "label": "Extreme Impact",
+      "colorHex": "#991b1b",
+      "description": "Severe protracted drought. Critical reservoir levels, mandatory water rationing, extensive agricultural crop failures, emergency declarations active."
+    }
+  ],
+  "zeroSubscriptionCompliance": "All computations run purely deterministically using open JavaScript/PostgreSQL logic. No paid third-party AI APIs or proprietary weather feeds are required."
+}

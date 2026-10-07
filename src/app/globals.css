@@ -1,0 +1,147 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  /* Typefaces: modern civic sans for display and body, data mono for figures (R-06) */
+  --font-sans: var(--font-public-sans);
+  --font-mono: var(--font-plex-mono);
+  --font-heading: var(--font-public-sans);
+
+  /* shadcn token mapping */
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-foreground: var(--foreground);
+  --color-background: var(--background);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+@theme {
+  /* Semantic risk scale (blueprint §15). Marks real states only (R-13). */
+  --color-risk-low: #4d7c0f;
+  --color-risk-moderate: #a16207;
+  --color-risk-high: #c2410c;
+  --color-risk-extreme: #991b1b;
+  /* The one deliberate accent: heat itself (DESIGN.md). */
+  --color-signal: #c2410c;
+}
+
+:root {
+  /* Radius 0 everywhere: printed-notice geometry (DESIGN.md, R-11). */
+  --radius: 0px;
+
+  /* Warm paper + ink palette (DESIGN.md, R-29) */
+  --background: #faf9f5;
+  --foreground: #1a1814;
+  --card: #ffffff;
+  --card-foreground: #1a1814;
+  --popover: #ffffff;
+  --popover-foreground: #1a1814;
+  --primary: #1a1814;
+  --primary-foreground: #faf9f5;
+  --secondary: #efebdf;
+  --secondary-foreground: #1a1814;
+  --muted: #efebdf;
+  --muted-foreground: #5c564a;
+  --accent: #ece7d9;
+  --accent-foreground: #1a1814;
+  --destructive: #991b1b;
+  --border: #ddd7c8;
+  --input: #c9c2ae;
+  --ring: #c2410c;
+  --chart-1: #c2410c;
+  --chart-2: #a16207;
+  --chart-3: #4d7c0f;
+  --chart-4: #1a1814;
+  --chart-5: #991b1b;
+  --sidebar: #faf9f5;
+  --sidebar-foreground: #1a1814;
+  --sidebar-primary: #1a1814;
+  --sidebar-primary-foreground: #faf9f5;
+  --sidebar-accent: #ece7d9;
+  --sidebar-accent-foreground: #1a1814;
+  --sidebar-border: #ddd7c8;
+  --sidebar-ring: #c2410c;
+}
+
+/* Fixed light theme only. The reason is recorded in DESIGN.md (R-21): a heat
+   advisory service is read outdoors in bright sunlight. No dark tokens and no
+   toggle are shipped, so there is no second mode that could break (R-34). */
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+  /* Visible keyboard focus everywhere (R-32) */
+  a:focus-visible,
+  button:focus-visible,
+  select:focus-visible,
+  input:focus-visible,
+  [tabindex]:focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+}
+/* MapLibre controls: sharp corners + paper tones to match the design
+   system (DESIGN.md). Only applied to maplibre own buttons. */
+.maplibregl-ctrl-group {
+  border: 1px solid var(--border);
+  border-radius: 0;
+  background: var(--card);
+  box-shadow: none;
+}
+.maplibregl-ctrl-group button {
+  border-radius: 0;
+  background: var(--card);
+}
+.maplibregl-ctrl-group button + button {
+  border-top: 1px solid var(--border);
+}
+.maplibregl-ctrl-group button:hover {
+  background: var(--accent);
+}
+.maplibregl-ctrl-group button:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: -2px;
+}

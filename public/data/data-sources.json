@@ -1,0 +1,104 @@
+[
+  {
+    "id": "src-pagasa",
+    "name": "PAGASA",
+    "fullName": "Philippine Atmospheric, Geophysical and Astronomical Services Administration",
+    "provider": "Department of Science and Technology (DOST)",
+    "role": "Primary official source for Philippine ENSO alert stages, rainfall anomaly definitions, seasonal climate advisories, Corona climate classification, and synoptic weather observations.",
+    "license": "Public domain / Open government data under Philippine Freedom of Information",
+    "attribution": "Data provided by the Philippine Atmospheric, Geophysical and Astronomical Services Administration (DOST-PAGASA).",
+    "updateFrequency": "Daily weather / Monthly climate outlooks",
+    "baseUrl": "https://bagong.pagasa.dost.gov.ph",
+    "endpointsUsed": [
+      "Climatological Agrometeorological Bulletins",
+      "ENSO Status & Early Warning System",
+      "Monthly Drought and Dry Spell Assessment",
+      "Daily Hydrometeorological Dam Water Level Bulletins"
+    ]
+  },
+  {
+    "id": "src-nasa-power",
+    "name": "NASA POWER",
+    "fullName": "Prediction of Worldwide Energy Resources",
+    "provider": "NASA Langley Research Center",
+    "role": "Provides high-resolution daily meteorological variables (temperature at 2 meters, precipitation, solar irradiance, relative humidity) for province-level anomaly calculation.",
+    "license": "NASA Open Data Policy (Free for commercial and non-commercial use)",
+    "attribution": "NASA POWER project at NASA Langley Research Center.",
+    "updateFrequency": "Daily (2-to-3 day reanalysis lag)",
+    "baseUrl": "https://power.larc.nasa.gov",
+    "endpointsUsed": [
+      "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=T2M,PRECTOTCORR,RH2M"
+    ]
+  },
+  {
+    "id": "src-noaa-cpc",
+    "name": "NOAA CPC",
+    "fullName": "Climate Prediction Center",
+    "provider": "National Oceanic and Atmospheric Administration (NOAA)",
+    "role": "Source of the Oceanic Niño Index (ONI) historical time series (1950 to present) used to establish ENSO phases and compare historical El Niño intensities.",
+    "license": "Public domain (US Government work)",
+    "attribution": "NOAA Climate Prediction Center (CPC).",
+    "updateFrequency": "Monthly (running 3-month SST anomaly)",
+    "baseUrl": "https://www.cpc.ncep.noaa.gov",
+    "endpointsUsed": [
+      "https://www.cpc.ncep.noaa.gov/data/indices/oni.ascii.txt"
+    ]
+  },
+  {
+    "id": "src-copernicus-era5",
+    "name": "Copernicus ERA5",
+    "fullName": "ECMWF / Copernicus Climate Change Service",
+    "provider": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
+    "role": "30-year climatological baseline (1991–2020) used as the historical normal for temperature and precipitation anomaly calculations.",
+    "license": "Copernicus Open Access Policy (Free for commercial and non-commercial use with attribution)",
+    "attribution": "Generated using Copernicus Climate Change Service information [2026].",
+    "updateFrequency": "Baseline static / monthly reanalysis updates",
+    "baseUrl": "https://cds.climate.copernicus.eu",
+    "endpointsUsed": [
+      "ERA5 Monthly Averaged Reanalysis on Single Levels"
+    ]
+  },
+  {
+    "id": "src-psa-psgc",
+    "name": "Philippine Statistics Authority (PSA)",
+    "fullName": "Philippine Standard Geographic Code & Census Data",
+    "provider": "Philippine Statistics Authority (PSA)",
+    "role": "Official administrative boundaries, PSGC hierarchy codes, municipal classifications, demographic census figures, and national agricultural crop production metrics.",
+    "license": "Open government data under Philippine public information policy",
+    "attribution": "Philippine Statistics Authority (PSA).",
+    "updateFrequency": "Quarterly / Annual agricultural reports; decennial censuses",
+    "baseUrl": "https://psa.gov.ph",
+    "endpointsUsed": [
+      "Philippine Standard Geographic Code (PSGC 2023–2024)",
+      "Crops Statistics of the Philippines"
+    ]
+  },
+  {
+    "id": "src-nia-mwss",
+    "name": "NIA & MWSS",
+    "fullName": "National Irrigation Administration & Metropolitan Waterworks and Sewerage System",
+    "provider": "Department of Agriculture / MWSS",
+    "role": "Operational reservoir elevations, normal high water levels (NHWL), rule curves, and agricultural/potable water allocation records for major dams.",
+    "license": "Open government data / Public regulatory disclosures",
+    "attribution": "National Irrigation Administration (NIA) and Metropolitan Waterworks and Sewerage System (MWSS).",
+    "updateFrequency": "Daily dam monitoring bulletins",
+    "baseUrl": "https://www.nia.gov.ph",
+    "endpointsUsed": [
+      "Daily Dam Level Reports"
+    ]
+  },
+  {
+    "id": "src-denr-rbco",
+    "name": "DENR River Basin Control Office",
+    "fullName": "Department of Environment and Natural Resources - RBCO",
+    "provider": "DENR Philippines",
+    "role": "Delineation and watershed profiles of the 18 Major River Basins of the Philippines.",
+    "license": "Open government data",
+    "attribution": "DENR River Basin Control Office (RBCO).",
+    "updateFrequency": "Periodic / Master planning updates",
+    "baseUrl": "https://forestry.denr.gov.ph",
+    "endpointsUsed": [
+      "18 Major River Basins Master Plans"
+    ]
+  }
+]

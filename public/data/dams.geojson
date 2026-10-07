@@ -1,0 +1,465 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1556,
+          14.9083
+        ]
+      },
+      "properties": {
+        "id": "dam-angat",
+        "name": "Angat Dam",
+        "slug": "angat",
+        "riverBasin": "Angat-Pampanga River Basin",
+        "province": "Bulacan",
+        "provinceSlug": "bulacan",
+        "region": "Region III (Central Luzon)",
+        "islandGroup": "Luzon",
+        "latitude": 14.9083,
+        "longitude": 121.1556,
+        "damType": "Rock-fill with concrete spillway",
+        "purpose": [
+          "Domestic Water Supply",
+          "Irrigation",
+          "Hydroelectric Power (246 MW)",
+          "Flood Control"
+        ],
+        "primarySupplyingArea": "Metro Manila (97% tap water supply via MWSS) & Bulacan/Pampanga irrigation (28,000 ha)",
+        "operator": "National Power Corporation (NPC) / MWSS / NIA",
+        "normalHighWaterLevelM": 212,
+        "ruleCurveM": 210,
+        "minOperatingLevelM": 180,
+        "criticalWaterLevelM": 160,
+        "currentWaterLevelBaselineM": 204.6,
+        "storageCapacityMcm": 850,
+        "percentFullBaseline": 82.5,
+        "statusLevel": "Watch",
+        "elNinoVulnerability": "High (critical reservoir for 13M+ people in Metro Manila)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4583,
+          16.8222
+        ]
+      },
+      "properties": {
+        "id": "dam-magat",
+        "name": "Magat Dam",
+        "slug": "magat",
+        "riverBasin": "Cagayan River Basin",
+        "province": "Isabela",
+        "provinceSlug": "isabela",
+        "region": "Region II (Cagayan Valley)",
+        "islandGroup": "Luzon",
+        "latitude": 16.8222,
+        "longitude": 121.4583,
+        "damType": "Rock-fill / Concrete spillway",
+        "purpose": [
+          "Irrigation",
+          "Hydroelectric Power (360 MW)",
+          "Flood Mitigation"
+        ],
+        "primarySupplyingArea": "Cagayan Valley (85,000 ha rice lands under MARIIS)",
+        "operator": "National Irrigation Administration (NIA) / SN Aboitiz Power",
+        "normalHighWaterLevelM": 193,
+        "ruleCurveM": 180,
+        "minOperatingLevelM": 160,
+        "criticalWaterLevelM": 155,
+        "currentWaterLevelBaselineM": 174.2,
+        "storageCapacityMcm": 1080,
+        "percentFullBaseline": 69.4,
+        "statusLevel": "Watch",
+        "elNinoVulnerability": "High (vital for national rice granary in Cagayan Valley)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.15,
+          15.8167
+        ]
+      },
+      "properties": {
+        "id": "dam-pantabangan",
+        "name": "Pantabangan Dam",
+        "slug": "pantabangan",
+        "riverBasin": "Upper Pampanga River Basin",
+        "province": "Nueva Ecija",
+        "provinceSlug": "nueva-ecija",
+        "region": "Region III (Central Luzon)",
+        "islandGroup": "Luzon",
+        "latitude": 15.8167,
+        "longitude": 121.15,
+        "damType": "Zoned earth-fill embankment",
+        "purpose": [
+          "Irrigation",
+          "Hydroelectric Power (100 MW)",
+          "Flood Management"
+        ],
+        "primarySupplyingArea": "Central Luzon (UPRIIS: 102,000+ ha rice fields)",
+        "operator": "National Irrigation Administration (NIA) / First Gen Hydro",
+        "normalHighWaterLevelM": 221,
+        "ruleCurveM": 200,
+        "minOperatingLevelM": 171.5,
+        "criticalWaterLevelM": 170,
+        "currentWaterLevelBaselineM": 189.5,
+        "storageCapacityMcm": 2996,
+        "percentFullBaseline": 61.2,
+        "statusLevel": "Watch",
+        "elNinoVulnerability": "High (primary reservoir for Philippines' rice granary)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6861,
+          16.1472
+        ]
+      },
+      "properties": {
+        "id": "dam-san-roque",
+        "name": "San Roque Dam",
+        "slug": "san-roque",
+        "riverBasin": "Agno River Basin",
+        "province": "Pangasinan",
+        "provinceSlug": "pangasinan",
+        "region": "Region I (Ilocos Region)",
+        "islandGroup": "Luzon",
+        "latitude": 16.1472,
+        "longitude": 120.6861,
+        "damType": "Rock-fill with central clay core",
+        "purpose": [
+          "Hydroelectric Power (435 MW)",
+          "Irrigation (87,000 ha)",
+          "Flood Attenuation",
+          "Water Quality"
+        ],
+        "primarySupplyingArea": "Pangasinan, Tarlac, and La Union farms",
+        "operator": "San Roque Power Corp / NPC / NIA",
+        "normalHighWaterLevelM": 280,
+        "ruleCurveM": 250,
+        "minOperatingLevelM": 225,
+        "criticalWaterLevelM": 220,
+        "currentWaterLevelBaselineM": 252,
+        "storageCapacityMcm": 850,
+        "percentFullBaseline": 70.3,
+        "statusLevel": "Normal",
+        "elNinoVulnerability": "Moderate (large buffer, but Agno catchment highly seasonal)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0778,
+          14.7139
+        ]
+      },
+      "properties": {
+        "id": "dam-la-mesa",
+        "name": "La Mesa Dam",
+        "slug": "la-mesa",
+        "riverBasin": "Marikina-Pasig River Basin",
+        "province": "Metro Manila",
+        "provinceSlug": "metro-manila",
+        "region": "National Capital Region (NCR)",
+        "islandGroup": "Luzon",
+        "latitude": 14.7139,
+        "longitude": 121.0778,
+        "damType": "Earth-fill embankment",
+        "purpose": [
+          "Drinking Water Storage & Balancing Reservoir"
+        ],
+        "primarySupplyingArea": "Metro Manila East Zone (Manila Water) and West Zone emergency back-up",
+        "operator": "Manila Water / MWSS",
+        "normalHighWaterLevelM": 80.15,
+        "ruleCurveM": 79,
+        "minOperatingLevelM": 69,
+        "criticalWaterLevelM": 68,
+        "currentWaterLevelBaselineM": 77.8,
+        "storageCapacityMcm": 50.5,
+        "percentFullBaseline": 84.1,
+        "statusLevel": "Watch",
+        "elNinoVulnerability": "Extreme (first indicator of Metro Manila distribution pressure)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1444,
+          14.8833
+        ]
+      },
+      "properties": {
+        "id": "dam-ipo",
+        "name": "Ipo Dam",
+        "slug": "ipo",
+        "riverBasin": "Angat River Basin",
+        "province": "Bulacan",
+        "provinceSlug": "bulacan",
+        "region": "Region III (Central Luzon)",
+        "islandGroup": "Luzon",
+        "latitude": 14.8833,
+        "longitude": 121.1444,
+        "damType": "Gravity concrete and earth-fill",
+        "purpose": [
+          "Water Conveyance / Diversion to Treatment Facilities"
+        ],
+        "primarySupplyingArea": "Conveys water from Angat to Novaliches Aqueduct",
+        "operator": "MWSS / Maynilad / Manila Water",
+        "normalHighWaterLevelM": 101,
+        "ruleCurveM": 100.5,
+        "minOperatingLevelM": 97,
+        "criticalWaterLevelM": 95,
+        "currentWaterLevelBaselineM": 99.8,
+        "storageCapacityMcm": 7.5,
+        "percentFullBaseline": 88,
+        "statusLevel": "Normal",
+        "elNinoVulnerability": "Moderate (acts as conveyance buffer rather than long-term storage)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.75,
+          16.4639
+        ]
+      },
+      "properties": {
+        "id": "dam-ambuklao",
+        "name": "Ambuklao Dam",
+        "slug": "ambuklao",
+        "riverBasin": "Agno River Basin",
+        "province": "Benguet",
+        "provinceSlug": "benguet",
+        "region": "Cordillera Administrative Region (CAR)",
+        "islandGroup": "Luzon",
+        "latitude": 16.4639,
+        "longitude": 120.75,
+        "damType": "Rock-fill with central clay core",
+        "purpose": [
+          "Hydroelectric Power (105 MW)",
+          "Cascading Water Storage for Binga/San Roque"
+        ],
+        "primarySupplyingArea": "Luzon Grid",
+        "operator": "SN Aboitiz Power / NPC",
+        "normalHighWaterLevelM": 752,
+        "ruleCurveM": 740,
+        "minOperatingLevelM": 694,
+        "criticalWaterLevelM": 690,
+        "currentWaterLevelBaselineM": 746.5,
+        "storageCapacityMcm": 327,
+        "percentFullBaseline": 88.2,
+        "statusLevel": "Normal",
+        "elNinoVulnerability": "Moderate (serves as upper regulating reservoir for Agno cascade)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7278,
+          16.3889
+        ]
+      },
+      "properties": {
+        "id": "dam-binga",
+        "name": "Binga Dam",
+        "slug": "binga",
+        "riverBasin": "Agno River Basin",
+        "province": "Benguet",
+        "provinceSlug": "benguet",
+        "region": "Cordillera Administrative Region (CAR)",
+        "islandGroup": "Luzon",
+        "latitude": 16.3889,
+        "longitude": 120.7278,
+        "damType": "Rock-fill embankment",
+        "purpose": [
+          "Hydroelectric Power (140 MW)",
+          "Water Regulation"
+        ],
+        "primarySupplyingArea": "Luzon Grid",
+        "operator": "SN Aboitiz Power / NPC",
+        "normalHighWaterLevelM": 575,
+        "ruleCurveM": 570,
+        "minOperatingLevelM": 555,
+        "criticalWaterLevelM": 550,
+        "currentWaterLevelBaselineM": 569.8,
+        "storageCapacityMcm": 87,
+        "percentFullBaseline": 82,
+        "statusLevel": "Normal",
+        "elNinoVulnerability": "Moderate (dependent on Ambuklao releases)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5056,
+          14.2889
+        ]
+      },
+      "properties": {
+        "id": "dam-caliraya",
+        "name": "Caliraya Dam",
+        "slug": "caliraya",
+        "riverBasin": "Laguna de Bay Basin",
+        "province": "Laguna",
+        "provinceSlug": "laguna",
+        "region": "Region IV-A (CALABARZON)",
+        "islandGroup": "Luzon",
+        "latitude": 14.2889,
+        "longitude": 121.5056,
+        "damType": "Earth-fill embankment",
+        "purpose": [
+          "Pumped-storage Hydroelectric (685 MW)",
+          "Recreation"
+        ],
+        "primarySupplyingArea": "Luzon Grid peaking power",
+        "operator": "CBK Power Company / NPC",
+        "normalHighWaterLevelM": 288,
+        "ruleCurveM": 286,
+        "minOperatingLevelM": 282,
+        "criticalWaterLevelM": 280,
+        "currentWaterLevelBaselineM": 285.5,
+        "storageCapacityMcm": 78,
+        "percentFullBaseline": 85,
+        "statusLevel": "Normal",
+        "elNinoVulnerability": "Low to Moderate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0333,
+          7.7833
+        ]
+      },
+      "properties": {
+        "id": "dam-pulangi-iv",
+        "name": "Pulangi IV Dam",
+        "slug": "pulangi-iv",
+        "riverBasin": "Pulangi-Mindanao River Basin",
+        "province": "Bukidnon",
+        "provinceSlug": "bukidnon",
+        "region": "Region X (Northern Mindanao)",
+        "islandGroup": "Mindanao",
+        "latitude": 7.7833,
+        "longitude": 125.0333,
+        "damType": "Concrete gravity and rock-fill",
+        "purpose": [
+          "Hydroelectric Power (255 MW)",
+          "Mindanao Grid Baseline Power"
+        ],
+        "primarySupplyingArea": "Mindanao Power Grid",
+        "operator": "National Power Corporation (NPC)",
+        "normalHighWaterLevelM": 285,
+        "ruleCurveM": 284,
+        "minOperatingLevelM": 282,
+        "criticalWaterLevelM": 280,
+        "currentWaterLevelBaselineM": 283.4,
+        "storageCapacityMcm": 67,
+        "percentFullBaseline": 68,
+        "statusLevel": "Watch",
+        "elNinoVulnerability": "High (Mindanao power grid highly vulnerable during El Niño drought)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2833,
+          8.0056
+        ]
+      },
+      "properties": {
+        "id": "dam-agus-lake-lanao",
+        "name": "Agus / Lake Lanao Regulation Dam",
+        "slug": "agus-lake-lanao",
+        "riverBasin": "Agus River Basin",
+        "province": "Lanao del Sur",
+        "provinceSlug": "lanao-del-sur",
+        "region": "BARMM",
+        "islandGroup": "Mindanao",
+        "latitude": 8.0056,
+        "longitude": 124.2833,
+        "damType": "Gated concrete control structure",
+        "purpose": [
+          "Hydroelectric Power Regulation (727 MW across Agus 1–7)"
+        ],
+        "primarySupplyingArea": "Mindanao Power Grid backbone",
+        "operator": "National Power Corporation (NPC)",
+        "normalHighWaterLevelM": 701.1,
+        "ruleCurveM": 700.5,
+        "minOperatingLevelM": 699.15,
+        "criticalWaterLevelM": 698.5,
+        "currentWaterLevelBaselineM": 699.8,
+        "storageCapacityMcm": 21500,
+        "percentFullBaseline": 72,
+        "statusLevel": "Watch",
+        "elNinoVulnerability": "High (historic drops in 1998 and 2016 caused severe Mindanao blackouts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5667,
+          11.1667
+        ]
+      },
+      "properties": {
+        "id": "dam-jalaur",
+        "name": "Jalaur River Multipurpose Dam",
+        "slug": "jalaur",
+        "riverBasin": "Jalaur River Basin",
+        "province": "Iloilo",
+        "provinceSlug": "iloilo",
+        "region": "Region VI (Western Visayas)",
+        "islandGroup": "Visayas",
+        "latitude": 11.1667,
+        "longitude": 122.5667,
+        "damType": "Roller-compacted concrete (RCC)",
+        "purpose": [
+          "Irrigation (31,840 ha)",
+          "Bulk Water Supply (86,400 m³/day)",
+          "Hydroelectric Power (6.6 MW)"
+        ],
+        "primarySupplyingArea": "Iloilo Province and Metro Iloilo water districts",
+        "operator": "National Irrigation Administration (NIA)",
+        "normalHighWaterLevelM": 252,
+        "ruleCurveM": 245,
+        "minOperatingLevelM": 215,
+        "criticalWaterLevelM": 210,
+        "currentWaterLevelBaselineM": 242,
+        "storageCapacityMcm": 250.7,
+        "percentFullBaseline": 74,
+        "statusLevel": "Watch",
+        "elNinoVulnerability": "Extreme (Western Visayas was the hardest hit region during 2023–24 El Niño)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+[
+  {
+    "id": "crop-rice",
+    "name": "Rice (Palay)",
+    "scientificName": "Oryza sativa",
+    "tagalogName": "Palay",
+    "category": "Cereal Grain / Staple",
+    "nationalShareGvaPercent": 19.5,
+    "harvestAreaHectares": 4800000,
+    "annualProductionMt": 20000000,
+    "waterRequirementMm": "1,000 – 1,500 mm per cropping season (6–10 mm/day)",
+    "droughtSensitivity": "High to Extreme",
+    "rainfedVulnerabilityShare": 35.8,
+    "criticalGrowthStages": [
+      {
+        "stage": "Reproductive (Panicle Initiation to Flowering)",
+        "timing": "Days 45 to 75 after transplanting",
+        "impactOfWaterDeficit": "Severe spikelet sterility, unfilled grains, and up to 70% yield loss if dry for 10+ consecutive days."
+      },
+      {
+        "stage": "Early Vegetative (Tillering)",
+        "timing": "Days 15 to 40",
+        "impactOfWaterDeficit": "Reduced tiller count and delayed maturity; reversible if rain resumes."
+      }
+    ],
+    "topProducingProvinces": [
+      {
+        "province": "Nueva Ecija",
+        "region": "Region III",
+        "sharePercent": 9.8,
+        "irrigationType": "High (UPRIIS fed)"
+      },
+      {
+        "province": "Isabela",
+        "region": "Region II",
+        "sharePercent": 7.2,
+        "irrigationType": "High (MARIIS fed)"
+      },
+      {
+        "province": "Pangasinan",
+        "region": "Region I",
+        "sharePercent": 6.1,
+        "irrigationType": "Moderate (San Roque & pumps)"
+      },
+      {
+        "province": "Cagayan",
+        "region": "Region II",
+        "sharePercent": 5.4,
+        "irrigationType": "Moderate"
+      },
+      {
+        "province": "Iloilo",
+        "region": "Region VI",
+        "sharePercent": 5.1,
+        "irrigationType": "Moderate (heavily rainfed until Jalaur full operation)"
+      },
+      {
+        "province": "Camarines Sur",
+        "region": "Region V",
+        "sharePercent": 3.8,
+        "irrigationType": "Moderate"
+      },
+      {
+        "province": "Tarlac",
+        "region": "Region III",
+        "sharePercent": 3.5,
+        "irrigationType": "High"
+      },
+      {
+        "province": "Leyte",
+        "region": "Region VIII",
+        "sharePercent": 3.1,
+        "irrigationType": "Moderate"
+      },
+      {
+        "province": "Bukidnon",
+        "region": "Region X",
+        "sharePercent": 2.8,
+        "irrigationType": "Moderate (river diversion)"
+      },
+      {
+        "province": "Maguindanao del Sur",
+        "region": "BARMM",
+        "sharePercent": 2.6,
+        "irrigationType": "Low / Rainfed"
+      }
+    ],
+    "recommendedMitigations": [
+      "Adopt Alternate Wetting and Drying (AWD) water-saving technique (reduces water use by 20–30% without yield loss).",
+      "Shift to early-maturing and drought-tolerant seed varieties (e.g., NSIC Rc192 'Sahod Ulan 1', NSIC Rc222, NSIC Rc480).",
+      "Adjust planting calendar to align with localized PAGASA seasonal rainfall forecast.",
+      "Construct farm reservoirs and repair earthen canal embankments to minimize conveyance loss."
+    ]
+  },
+  {
+    "id": "crop-corn",
+    "name": "Corn (Maize)",
+    "scientificName": "Zea mays",
+    "tagalogName": "Mais",
+    "category": "Feed & Cereal Staple",
+    "nationalShareGvaPercent": 6.8,
+    "harvestAreaHectares": 2500000,
+    "annualProductionMt": 8200000,
+    "waterRequirementMm": "500 – 800 mm per cropping cycle (4–7 mm/day)",
+    "droughtSensitivity": "High",
+    "rainfedVulnerabilityShare": 88,
+    "criticalGrowthStages": [
+      {
+        "stage": "Tasseling and Silking (Flowering)",
+        "timing": "Days 45 to 65 after emergence",
+        "impactOfWaterDeficit": "Tassel dehydration and delayed silking causes asynchrony; pollen dies quickly in >36°C heat, causing completely barren cobs."
+      },
+      {
+        "stage": "Grain Filling (Blister & Dough stage)",
+        "timing": "Days 65 to 85",
+        "impactOfWaterDeficit": "Premature dry-down and shriveled kernels, reducing test weight by 30–50%."
+      }
+    ],
+    "topProducingProvinces": [
+      {
+        "province": "Isabela",
+        "region": "Region II",
+        "sharePercent": 18.5,
+        "irrigationType": "Rainfed Upland"
+      },
+      {
+        "province": "Bukidnon",
+        "region": "Region X",
+        "sharePercent": 12.4,
+        "irrigationType": "Rainfed Upland"
+      },
+      {
+        "province": "Pangasinan",
+        "region": "Region I",
+        "sharePercent": 6.8,
+        "irrigationType": "Supplemental Shallow Tube Well"
+      },
+      {
+        "province": "Cagayan",
+        "region": "Region II",
+        "sharePercent": 6.2,
+        "irrigationType": "Rainfed Upland"
+      },
+      {
+        "province": "South Cotabato",
+        "region": "Region XII",
+        "sharePercent": 5.5,
+        "irrigationType": "Rainfed Upland"
+      },
+      {
+        "province": "Cotabato",
+        "region": "Region XII",
+        "sharePercent": 5.1,
+        "irrigationType": "Rainfed Upland"
+      },
+      {
+        "province": "Maguindanao del Norte",
+        "region": "BARMM",
+        "sharePercent": 4.2,
+        "irrigationType": "Rainfed Upland"
+      }
+    ],
+    "recommendedMitigations": [
+      "Plant drought-tolerant yellow corn hybrids with deep rooting traits.",
+      "Practice zero-tillage with thick crop residue mulch to conserve soil moisture.",
+      "Apply supplemental irrigation during the critical 10-day flowering window using small solar water pumps.",
+      "Intercrop with short-duration drought legumes (mungbean/cowpea) to spread financial risk."
+    ]
+  },
+  {
+    "id": "crop-coconut",
+    "name": "Coconut",
+    "scientificName": "Cocos nucifera",
+    "tagalogName": "Niyog",
+    "category": "Industrial Tree Crop / Export",
+    "nationalShareGvaPercent": 4.8,
+    "harvestAreaHectares": 3650000,
+    "annualProductionMt": 14900000,
+    "waterRequirementMm": "1,500 – 2,500 mm annually evenly distributed",
+    "droughtSensitivity": "Moderate (Short-term) / High (Long-term due to lag)",
+    "rainfedVulnerabilityShare": 96,
+    "criticalGrowthStages": [
+      {
+        "stage": "Inflorescence Development & Button Stage",
+        "timing": "8 to 12 months before nut harvest",
+        "impactOfWaterDeficit": "Button shedding (premature nut drop). Reduced rainfall creates an 8–12 month lagged production drop."
+      },
+      {
+        "stage": "Mature Palm Canopy Maintenance",
+        "timing": "Continuous",
+        "impactOfWaterDeficit": "Drooping and browning of lower fronds, bunch breakage, and stunted nut meat development."
+      }
+    ],
+    "topProducingProvinces": [
+      {
+        "province": "Davao Oriental",
+        "region": "Region XI",
+        "sharePercent": 7.8,
+        "irrigationType": "Rainfed Coastal/Hills"
+      },
+      {
+        "province": "Quezon",
+        "region": "Region IV-A",
+        "sharePercent": 6.9,
+        "irrigationType": "Rainfed Coastal/Hills"
+      },
+      {
+        "province": "Zamboanga del Norte",
+        "region": "Region IX",
+        "sharePercent": 5.8,
+        "irrigationType": "Rainfed Coastal"
+      },
+      {
+        "province": "Leyte",
+        "region": "Region VIII",
+        "sharePercent": 4.9,
+        "irrigationType": "Rainfed Coastal"
+      },
+      {
+        "province": "Misamis Oriental",
+        "region": "Region X",
+        "sharePercent": 4.4,
+        "irrigationType": "Rainfed Coastal"
+      },
+      {
+        "province": "Davao del Sur",
+        "region": "Region XI",
+        "sharePercent": 4.1,
+        "irrigationType": "Rainfed Coastal"
+      },
+      {
+        "province": "Camarines Sur",
+        "region": "Region V",
+        "sharePercent": 3.9,
+        "irrigationType": "Rainfed Coastal"
+      }
+    ],
+    "recommendedMitigations": [
+      "Ring-weeding and mulching the base of coconut palms with coir dust and pruned fronds (1.5–2m radius).",
+      "Avoid slash-and-burn underbrush clearance under coconut stands to preserve natural soil moisture.",
+      "Apply potassium chloride fertilizer to boost palm stomatal regulation and drought tolerance."
+    ]
+  },
+  {
+    "id": "crop-sugarcane",
+    "name": "Sugarcane",
+    "scientificName": "Saccharum officinarum",
+    "tagalogName": "Tubo",
+    "category": "Commercial Industrial Crop",
+    "nationalShareGvaPercent": 2.5,
+    "harvestAreaHectares": 395000,
+    "annualProductionMt": 21000000,
+    "waterRequirementMm": "1,500 – 2,000 mm over 10–12 month cycle",
+    "droughtSensitivity": "High",
+    "rainfedVulnerabilityShare": 72,
+    "criticalGrowthStages": [
+      {
+        "stage": "Formative & Tillering Phase",
+        "timing": "Months 2 to 4 after planting/ratooning",
+        "impactOfWaterDeficit": "Drastic suppression of shoot and stalk population, leaf rolling, and permanently stunted internodes."
+      },
+      {
+        "stage": "Grand Growth Phase (Stalk Elongation)",
+        "timing": "Months 5 to 8",
+        "impactOfWaterDeficit": "Reduced cane tonnage per hectare, though brix (% sugar content) may temporarily concentrate."
+      }
+    ],
+    "topProducingProvinces": [
+      {
+        "province": "Negros Occidental",
+        "region": "Region VI",
+        "sharePercent": 52.4,
+        "irrigationType": "Mostly Rainfed"
+      },
+      {
+        "province": "Bukidnon",
+        "region": "Region X",
+        "sharePercent": 14.1,
+        "irrigationType": "Rainfed Plateau"
+      },
+      {
+        "province": "Batangas",
+        "region": "Region IV-A",
+        "sharePercent": 7.2,
+        "irrigationType": "Rainfed / Supplemental"
+      },
+      {
+        "province": "Tarlac",
+        "region": "Region III",
+        "sharePercent": 5.8,
+        "irrigationType": "River Diversion / Pumps"
+      },
+      {
+        "province": "Iloilo",
+        "region": "Region VI",
+        "sharePercent": 4.5,
+        "irrigationType": "Rainfed"
+      },
+      {
+        "province": "Negros Oriental",
+        "region": "Region VII",
+        "sharePercent": 3.9,
+        "irrigationType": "Rainfed"
+      }
+    ],
+    "recommendedMitigations": [
+      "Implement trash blanketing (leaving cane trash / dried leaves evenly spread over fields) to reduce soil evaporation by up to 40%.",
+      "Prioritize furrow irrigation scheduling during the critical formative tillering window.",
+      "Select drought-hardy varieties developed by the Sugar Regulatory Administration (SRA)."
+    ]
+  },
+  {
+    "id": "crop-banana",
+    "name": "Banana",
+    "scientificName": "Musa acuminata",
+    "tagalogName": "Saging",
+    "category": "Fruit / Export & Domestic Food",
+    "nationalShareGvaPercent": 3.6,
+    "harvestAreaHectares": 445000,
+    "annualProductionMt": 9100000,
+    "waterRequirementMm": "1,200 – 2,200 mm annually (very continuous requirement)",
+    "droughtSensitivity": "High",
+    "rainfedVulnerabilityShare": 65,
+    "criticalGrowthStages": [
+      {
+        "stage": "Floral Initiation & Shooting Stage",
+        "timing": "Months 6 to 9",
+        "impactOfWaterDeficit": "Choked emerging bunches, small and deformed fruit fingers, delayed harvest intervals."
+      }
+    ],
+    "topProducingProvinces": [
+      {
+        "province": "Davao del Norte",
+        "region": "Region XI",
+        "sharePercent": 21,
+        "irrigationType": "High (commercial drip)"
+      },
+      {
+        "province": "Bukidnon",
+        "region": "Region X",
+        "sharePercent": 13.5,
+        "irrigationType": "Moderate (commercial/rainfed)"
+      },
+      {
+        "province": "Davao de Oro",
+        "region": "Region XI",
+        "sharePercent": 9.8,
+        "irrigationType": "Moderate"
+      },
+      {
+        "province": "Cotabato",
+        "region": "Region XII",
+        "sharePercent": 6.2,
+        "irrigationType": "Rainfed Smallholder"
+      },
+      {
+        "province": "Maguindanao del Sur",
+        "region": "BARMM",
+        "sharePercent": 4.8,
+        "irrigationType": "Rainfed Smallholder"
+      }
+    ],
+    "recommendedMitigations": [
+      "Heavy organic mulching around pseudostem root mat using banana leaves and pseudostem chips.",
+      "Install micro-jet or drip irrigation systems to deliver water directly to the shallow root zone.",
+      "Erect bamboo propping to prevent weak stems from toppling under dry canopy stress."
+    ]
+  }
+]

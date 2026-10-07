@@ -1,0 +1,173 @@
+[
+  {
+    "id": "enso-1982-1983",
+    "title": "1982–1983 El Niño",
+    "period": "May 1982 – June 1983",
+    "type": "El Niño",
+    "intensity": "Very Strong",
+    "peakOni": 2.2,
+    "philippinesImpactSummary": "One of the most severe El Niño events of the 20th century. Caused extreme dry spells across Western Visayas, Southern Tagalog, and Central Luzon, with massive losses in corn and rice production.",
+    "temperatureAnomalyC": 1.4,
+    "peakRainfallDeficitPercent": -48,
+    "provincesUnderDrought": 38,
+    "estimatedAgriculturalLossPhpBillion": 1.2,
+    "angatDamLowestLevelM": 178.5,
+    "keyAffectedRegions": [
+      "Western Visayas",
+      "Central Luzon",
+      "Southern Tagalog",
+      "Northern Mindanao"
+    ],
+    "stateOfCalamityDeclarations": 24
+  },
+  {
+    "id": "enso-1997-1998",
+    "title": "1997–1998 Super El Niño",
+    "period": "April 1997 – May 1998",
+    "type": "El Niño",
+    "intensity": "Very Strong (Super)",
+    "peakOni": 2.4,
+    "philippinesImpactSummary": "Catastrophic event widely considered the worst El Niño in modern Philippine history. Severe drought crippled 70% of the country. Agricultural production dropped precipitously, triggering food crises in Mindanao and water rationing in Metro Manila.",
+    "temperatureAnomalyC": 1.9,
+    "peakRainfallDeficitPercent": -62,
+    "provincesUnderDrought": 55,
+    "estimatedAgriculturalLossPhpBillion": 9.1,
+    "angatDamLowestLevelM": 169.8,
+    "keyAffectedRegions": [
+      "Central Luzon",
+      "Western Visayas",
+      "SOCCSKSARGEN",
+      "Davao Region",
+      "Cagayan Valley"
+    ],
+    "stateOfCalamityDeclarations": 45
+  },
+  {
+    "id": "enso-2002-2003",
+    "title": "2002–2003 El Niño",
+    "period": "May 2002 – March 2003",
+    "type": "El Niño",
+    "intensity": "Moderate",
+    "peakOni": 1.5,
+    "philippinesImpactSummary": "Moderate episode characterized by localized agricultural dry spells in northern Luzon and parts of the Visayas, with below-normal rainfall during the wet season.",
+    "temperatureAnomalyC": 0.8,
+    "peakRainfallDeficitPercent": -28,
+    "provincesUnderDrought": 19,
+    "estimatedAgriculturalLossPhpBillion": 2.4,
+    "angatDamLowestLevelM": 188.2,
+    "keyAffectedRegions": [
+      "Ilocos Region",
+      "Cagayan Valley",
+      "Central Visayas"
+    ],
+    "stateOfCalamityDeclarations": 12
+  },
+  {
+    "id": "enso-2009-2010",
+    "title": "2009–2010 El Niño",
+    "period": "June 2009 – May 2010",
+    "type": "El Niño",
+    "intensity": "Moderate to Strong",
+    "peakOni": 1.6,
+    "philippinesImpactSummary": "Prolonged dry spell following devastating late 2009 typhoons (Ondoy/Pepeng). Rapid reservoir drop led to reduced irrigation allocations in Central Luzon and rotating power interruptions in Mindanao.",
+    "temperatureAnomalyC": 1.2,
+    "peakRainfallDeficitPercent": -42,
+    "provincesUnderDrought": 32,
+    "estimatedAgriculturalLossPhpBillion": 8.3,
+    "angatDamLowestLevelM": 174.1,
+    "keyAffectedRegions": [
+      "Central Luzon",
+      "Cagayan Valley",
+      "Ilocos Region",
+      "Western Visayas",
+      "Mindanao Grid"
+    ],
+    "stateOfCalamityDeclarations": 28
+  },
+  {
+    "id": "enso-2015-2016",
+    "title": "2015–2016 Very Strong El Niño",
+    "period": "March 2015 – May 2016",
+    "type": "El Niño",
+    "intensity": "Very Strong",
+    "peakOni": 2.6,
+    "philippinesImpactSummary": "Tied for strongest ENSO on global record. Over 85% of Philippine provinces suffered drought or dry spells. Severe food shortages in North Cotabato led to farmer mobilizations in Kidapawan. Over 400,000 farmers impacted nationwide.",
+    "temperatureAnomalyC": 2.1,
+    "peakRainfallDeficitPercent": -58,
+    "provincesUnderDrought": 48,
+    "estimatedAgriculturalLossPhpBillion": 14.8,
+    "angatDamLowestLevelM": 177.3,
+    "keyAffectedRegions": [
+      "SOCCSKSARGEN",
+      "Western Visayas",
+      "Zamboanga Peninsula",
+      "Northern Mindanao",
+      "Bicol"
+    ],
+    "stateOfCalamityDeclarations": 42
+  },
+  {
+    "id": "enso-2018-2019",
+    "title": "2018–2019 El Niño",
+    "period": "September 2018 – June 2019",
+    "type": "El Niño",
+    "intensity": "Weak to Moderate",
+    "peakOni": 0.9,
+    "philippinesImpactSummary": "Caused a high-profile tap water crisis in Metro Manila (March 2019) due to plummeting water levels at La Mesa Dam and distribution constraints. Significant farm damage across 50 provinces.",
+    "temperatureAnomalyC": 1.1,
+    "peakRainfallDeficitPercent": -35,
+    "provincesUnderDrought": 29,
+    "estimatedAgriculturalLossPhpBillion": 7.9,
+    "angatDamLowestLevelM": 159.4,
+    "keyAffectedRegions": [
+      "Metro Manila (East Zone water crisis)",
+      "Western Visayas",
+      "MIMAROPA",
+      "Bicol Region"
+    ],
+    "stateOfCalamityDeclarations": 22
+  },
+  {
+    "id": "enso-2023-2024",
+    "title": "2023–2024 Strong El Niño",
+    "period": "June 2023 – June 2024",
+    "type": "El Niño",
+    "intensity": "Strong",
+    "peakOni": 2,
+    "philippinesImpactSummary": "Severe dry spell and record heat wave (heat index exceeding 48°C in numerous provinces). Over 100 local government units declared a state of calamity. Western Visayas and MIMAROPA suffered the heaviest agricultural damages, exceeding ₱9.5 billion.",
+    "temperatureAnomalyC": 1.8,
+    "peakRainfallDeficitPercent": -52,
+    "provincesUnderDrought": 47,
+    "estimatedAgriculturalLossPhpBillion": 9.89,
+    "angatDamLowestLevelM": 176.2,
+    "keyAffectedRegions": [
+      "Western Visayas (Iloilo, Antique)",
+      "MIMAROPA (Occidental Mindoro)",
+      "Cagayan Valley",
+      "Central Luzon",
+      "Zamboanga Peninsula"
+    ],
+    "stateOfCalamityDeclarations": 104
+  },
+  {
+    "id": "enso-current-2026",
+    "title": "Current Baseline Monitoring (2026)",
+    "period": "Current Season (October 2026)",
+    "type": "El Niño",
+    "intensity": "Active Watch / Elevated Risk",
+    "peakOni": 1.8,
+    "philippinesImpactSummary": "Elevated sea surface temperatures in the equatorial Pacific driving above-normal land surface temperatures and persistent rainfall deficits across Central Luzon, Western Visayas, and Northern Mindanao.",
+    "temperatureAnomalyC": 1.7,
+    "peakRainfallDeficitPercent": -28,
+    "provincesUnderDrought": 24,
+    "estimatedAgriculturalLossPhpBillion": 3.5,
+    "angatDamLowestLevelM": 204.6,
+    "keyAffectedRegions": [
+      "Central Luzon",
+      "Western Visayas",
+      "Central Visayas",
+      "Metro Manila"
+    ],
+    "stateOfCalamityDeclarations": 8
+  }
+]

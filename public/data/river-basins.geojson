@@ -1,0 +1,444 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.75,
+          17.25
+        ]
+      },
+      "properties": {
+        "id": "basin-cagayan",
+        "name": "Cagayan River Basin",
+        "drainageAreaKm2": 27280,
+        "islandGroup": "Luzon",
+        "centerLon": 121.75,
+        "centerLat": 17.25,
+        "keyProvinces": [
+          "Cagayan",
+          "Isabela",
+          "Quirino",
+          "Nueva Vizcaya",
+          "Ifugao",
+          "Kalinga",
+          "Apayao"
+        ],
+        "description": "The largest river basin in the Philippines. Houses Magat Dam and provides irrigation for the nation's premier corn and northern rice granary. Prone to severe agricultural drought during El Niño."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.5,
+          7.1
+        ]
+      },
+      "properties": {
+        "id": "basin-mindanao",
+        "name": "Mindanao River Basin (Cotabato)",
+        "drainageAreaKm2": 21503,
+        "islandGroup": "Mindanao",
+        "centerLon": 124.5,
+        "centerLat": 7.1,
+        "keyProvinces": [
+          "Cotabato",
+          "South Cotabato",
+          "Sultan Kudarat",
+          "Maguindanao del Norte",
+          "Maguindanao del Sur",
+          "Bukidnon"
+        ],
+        "description": "Second largest river basin in the country, encompassing the Ligawasan Marsh. Crucial for southern agricultural production; severe dry spells trigger widespread crop failures and river low-flow."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7,
+          8.5
+        ]
+      },
+      "properties": {
+        "id": "basin-agusan",
+        "name": "Agusan River Basin",
+        "drainageAreaKm2": 10921,
+        "islandGroup": "Mindanao",
+        "centerLon": 125.7,
+        "centerLat": 8.5,
+        "keyProvinces": [
+          "Agusan del Norte",
+          "Agusan del Sur",
+          "Compostela Valley / Davao de Oro"
+        ],
+        "description": "Third largest river basin, including the Agusan Marsh wildlife sanctuary. Influenced heavily by Pacific climate patterns; experiences reduced wetland replenishment during ENSO events."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8,
+          15.2
+        ]
+      },
+      "properties": {
+        "id": "basin-pampanga",
+        "name": "Pampanga River Basin",
+        "drainageAreaKm2": 9759,
+        "islandGroup": "Luzon",
+        "centerLon": 120.8,
+        "centerLat": 15.2,
+        "keyProvinces": [
+          "Pampanga",
+          "Nueva Ecija",
+          "Bulacan",
+          "Tarlac",
+          "Bataan"
+        ],
+        "description": "The economic and agricultural backbone of Central Luzon. Fed by Pantabangan Dam and Angat Dam; supplies water to both Central Luzon agriculture and Metro Manila."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.55,
+          16
+        ]
+      },
+      "properties": {
+        "id": "basin-agno",
+        "name": "Agno River Basin",
+        "drainageAreaKm2": 5952,
+        "islandGroup": "Luzon",
+        "centerLon": 120.55,
+        "centerLat": 16,
+        "keyProvinces": [
+          "Pangasinan",
+          "Benguet",
+          "Tarlac",
+          "Nueva Vizcaya"
+        ],
+        "description": "Drains from the Cordillera mountains to the Lingayen Gulf. Cascaded by Ambuklao, Binga, and San Roque dams for 680 MW hydroelectric generation and extensive Pangasinan irrigation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.75,
+          17.5
+        ]
+      },
+      "properties": {
+        "id": "basin-abra",
+        "name": "Abra River Basin",
+        "drainageAreaKm2": 5125,
+        "islandGroup": "Luzon",
+        "centerLon": 120.75,
+        "centerLat": 17.5,
+        "keyProvinces": [
+          "Abra",
+          "Ilocos Sur",
+          "Mountain Province",
+          "Benguet"
+        ],
+        "description": "Sixth largest river basin, draining the central Cordillera into the West Philippine Sea. Experiences sharp drop in base flow during prolonged dry seasons."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2,
+          14.45
+        ]
+      },
+      "properties": {
+        "id": "basin-pasig-laguna",
+        "name": "Pasig-Marikina-Laguna de Bay Basin",
+        "drainageAreaKm2": 4678,
+        "islandGroup": "Luzon",
+        "centerLon": 121.2,
+        "centerLat": 14.45,
+        "keyProvinces": [
+          "Metro Manila",
+          "Rizal",
+          "Laguna",
+          "Cavite",
+          "Batangas"
+        ],
+        "description": "The most densely populated river basin in the Philippines. Houses La Mesa Dam and Laguna Lake, directly sustaining water security for over 16 million residents."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.3,
+          13.5
+        ]
+      },
+      "properties": {
+        "id": "basin-bicol",
+        "name": "Bicol River Basin",
+        "drainageAreaKm2": 3771,
+        "islandGroup": "Luzon",
+        "centerLon": 123.3,
+        "centerLat": 13.5,
+        "keyProvinces": [
+          "Camarines Sur",
+          "Albay",
+          "Camarines Norte"
+        ],
+        "description": "Extends from Albay through Lake Bato and Lake Buhi to San Miguel Bay. Principal rice production zone of Region V, highly susceptible to rainfall anomaly swings."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3,
+          18.1
+        ]
+      },
+      "properties": {
+        "id": "basin-apayao-abulug",
+        "name": "Apayao-Abulug River Basin",
+        "drainageAreaKm2": 3372,
+        "islandGroup": "Luzon",
+        "centerLon": 121.3,
+        "centerLat": 18.1,
+        "keyProvinces": [
+          "Apayao",
+          "Cagayan"
+        ],
+        "description": "Drains the northernmost Cordillera ranges into the Babuyan Channel; crucial pristine watershed for northern Luzon."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.75,
+          7.55
+        ]
+      },
+      "properties": {
+        "id": "basin-tagum-libuganon",
+        "name": "Tagum-Libuganon River Basin",
+        "drainageAreaKm2": 3064,
+        "islandGroup": "Mindanao",
+        "centerLon": 125.75,
+        "centerLat": 7.55,
+        "keyProvinces": [
+          "Davao del Norte",
+          "Davao de Oro",
+          "Agusan del Sur"
+        ],
+        "description": "Heart of Davao Region's high-value commercial banana and coconut export plantations; vulnerable to prolonged soil moisture deficits."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.85,
+          9.85
+        ]
+      },
+      "properties": {
+        "id": "basin-ilog-hilabangan",
+        "name": "Ilog-Hilabangan River Basin",
+        "drainageAreaKm2": 1945,
+        "islandGroup": "Visayas",
+        "centerLon": 122.85,
+        "centerLat": 9.85,
+        "keyProvinces": [
+          "Negros Occidental",
+          "Negros Oriental"
+        ],
+        "description": "Major river basin of Negros Island. Supplies vital irrigation for sugarcane plantations; severely stressed during the 2015–16 and 2023–24 El Niño droughts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.65,
+          11.35
+        ]
+      },
+      "properties": {
+        "id": "basin-panay",
+        "name": "Panay River Basin",
+        "drainageAreaKm2": 1843,
+        "islandGroup": "Visayas",
+        "centerLon": 122.65,
+        "centerLat": 11.35,
+        "keyProvinces": [
+          "Capiz",
+          "Iloilo",
+          "Aklan"
+        ],
+        "description": "Spans northern Panay Island; critical for Western Visayas rice, corn, and aquaculture sectors."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.85,
+          8.45
+        ]
+      },
+      "properties": {
+        "id": "basin-tagoloan",
+        "name": "Tagoloan River Basin",
+        "drainageAreaKm2": 1704,
+        "islandGroup": "Mindanao",
+        "centerLon": 124.85,
+        "centerLat": 8.45,
+        "keyProvinces": [
+          "Misamis Oriental",
+          "Bukidnon"
+        ],
+        "description": "Originates in the high plateaus of Bukidnon and discharges into Macajalar Bay; major source of agricultural and industrial water."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.25,
+          8.1
+        ]
+      },
+      "properties": {
+        "id": "basin-agus",
+        "name": "Agus River Basin",
+        "drainageAreaKm2": 1645,
+        "islandGroup": "Mindanao",
+        "centerLon": 124.25,
+        "centerLat": 8.1,
+        "keyProvinces": [
+          "Lanao del Sur",
+          "Lanao del Norte"
+        ],
+        "description": "The primary hydroelectric corridor of Mindanao, draining Lake Lanao over a 36-km descent through six hydropower plants (Agus 1 through 7)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.45,
+          7.25
+        ]
+      },
+      "properties": {
+        "id": "basin-davao",
+        "name": "Davao River Basin",
+        "drainageAreaKm2": 1623,
+        "islandGroup": "Mindanao",
+        "centerLon": 125.45,
+        "centerLat": 7.25,
+        "keyProvinces": [
+          "Davao del Sur",
+          "Davao City",
+          "Bukidnon"
+        ],
+        "description": "Provides municipal, commercial, and agricultural water for the growing Davao metropolitan area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6,
+          8.25
+        ]
+      },
+      "properties": {
+        "id": "basin-cagayan-de-oro",
+        "name": "Cagayan de Oro River Basin",
+        "drainageAreaKm2": 1521,
+        "islandGroup": "Mindanao",
+        "centerLon": 124.6,
+        "centerLat": 8.25,
+        "keyProvinces": [
+          "Misamis Oriental",
+          "Bukidnon",
+          "Lanao del Norte"
+        ],
+        "description": "Drains the Kalatungan and Kitanglad mountain ranges into Macajalar Bay; supplies Metro Cagayan de Oro."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.6,
+          11
+        ]
+      },
+      "properties": {
+        "id": "basin-jalaur",
+        "name": "Jalaur River Basin",
+        "drainageAreaKm2": 1503,
+        "islandGroup": "Visayas",
+        "centerLon": 122.6,
+        "centerLat": 11,
+        "keyProvinces": [
+          "Iloilo"
+        ],
+        "description": "Vital lifeline for Iloilo Province, supporting the newly developed Jalaur River Multipurpose Project (JRMP II) to buffer Western Visayas against seasonal droughts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          6.25
+        ]
+      },
+      "properties": {
+        "id": "basin-buayan-malungon",
+        "name": "Buayan-Malungon River Basin",
+        "drainageAreaKm2": 1434,
+        "islandGroup": "Mindanao",
+        "centerLon": 125.2,
+        "centerLat": 6.25,
+        "keyProvinces": [
+          "Sarangani",
+          "South Cotabato",
+          "Davao del Sur"
+        ],
+        "description": "Empties into Sarangani Bay; critical watershed for General Santos City tuna cannery operations and surrounding fruit plantations."
+      }
+    }
+  ]
+}

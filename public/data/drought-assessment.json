@@ -1,0 +1,5370 @@
+[
+  {
+    "psgc": 1400100000,
+    "provinceName": "Abra",
+    "provinceSlug": "abra",
+    "regionName": "Cordillera Administrative Region (CAR)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1,
+    "temperatureAnomalyStr": "+1.0°C",
+    "rainfallAnomalyPercent": -25,
+    "rainfallAnomalyStr": "-25%",
+    "vsHistorical": "+17%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.0°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-25%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 51,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-25%) accompanied by +1°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1600200000,
+    "provinceName": "Agusan del Norte",
+    "provinceSlug": "agusan-del-norte",
+    "regionName": "Region XIII (Caraga)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 4,
+    "temperatureAnomalyC": 1.4,
+    "temperatureAnomalyStr": "+1.4°C",
+    "rainfallAnomalyPercent": -48,
+    "rainfallAnomalyStr": "-48%",
+    "vsHistorical": "+24%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.4°C",
+        "status": "Above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-48%",
+        "status": "Way below normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 72,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -48% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1600300000,
+    "provinceName": "Agusan del Sur",
+    "provinceSlug": "agusan-del-sur",
+    "regionName": "Region XIII (Caraga)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 2,
+    "temperatureAnomalyStr": "+2.0°C",
+    "rainfallAnomalyPercent": -12,
+    "rainfallAnomalyStr": "-12%",
+    "vsHistorical": "+15%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.0°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-12%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 45,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+2°C, -12% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 600400000,
+    "provinceName": "Aklan",
+    "provinceSlug": "aklan",
+    "regionName": "Region VI (Western Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 4,
+    "temperatureAnomalyC": 1.6,
+    "temperatureAnomalyStr": "+1.6°C",
+    "rainfallAnomalyPercent": -40,
+    "rainfallAnomalyStr": "-40%",
+    "vsHistorical": "+22%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.6°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-40%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 66,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -40% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 500500000,
+    "provinceName": "Albay",
+    "provinceSlug": "albay",
+    "regionName": "Region V (Bicol Region)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 4,
+    "temperatureAnomalyC": 2.3,
+    "temperatureAnomalyStr": "+2.3°C",
+    "rainfallAnomalyPercent": -45,
+    "rainfallAnomalyStr": "-45%",
+    "vsHistorical": "+25%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.3°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-45%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 76,
+    "overallRisk": "extreme",
+    "summary": "Prolonged rainfall deficit of -45% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 600600000,
+    "provinceName": "Antique",
+    "provinceSlug": "antique",
+    "regionName": "Region VI (Western Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 2,
+    "temperatureAnomalyStr": "+2.0°C",
+    "rainfallAnomalyPercent": -34,
+    "rainfallAnomalyStr": "-34%",
+    "vsHistorical": "+21%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.0°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-34%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 64,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-34%) accompanied by +2°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1408100000,
+    "provinceName": "Apayao",
+    "provinceSlug": "apayao",
+    "regionName": "Cordillera Administrative Region (CAR)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.3,
+    "temperatureAnomalyStr": "+1.3°C",
+    "rainfallAnomalyPercent": -38,
+    "rainfallAnomalyStr": "-38%",
+    "vsHistorical": "+20%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.3°C",
+        "status": "Above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-38%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "High Stress",
+        "status": "Critical reservoir watch",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 60,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-38%) accompanied by +1.3°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 307700000,
+    "provinceName": "Aurora",
+    "provinceSlug": "aurora",
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 1.3,
+    "temperatureAnomalyStr": "+1.3°C",
+    "rainfallAnomalyPercent": -18,
+    "rainfallAnomalyStr": "-18%",
+    "vsHistorical": "+16%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.3°C",
+        "status": "Above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-18%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 47,
+    "overallRisk": "moderate",
+    "summary": "Rainfall is -18% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1900700000,
+    "provinceName": "Basilan",
+    "provinceSlug": "basilan",
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 4,
+    "temperatureAnomalyC": 2,
+    "temperatureAnomalyStr": "+2.0°C",
+    "rainfallAnomalyPercent": -42,
+    "rainfallAnomalyStr": "-42%",
+    "vsHistorical": "+23%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.0°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-42%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 69,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -42% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 300800000,
+    "provinceName": "Bataan",
+    "provinceSlug": "bataan",
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.4,
+    "temperatureAnomalyStr": "+1.4°C",
+    "rainfallAnomalyPercent": -29,
+    "rainfallAnomalyStr": "-29%",
+    "vsHistorical": "+18%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.4°C",
+        "status": "Above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-29%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 53,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-29%) accompanied by +1.4°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 200900000,
+    "provinceName": "Batanes",
+    "provinceSlug": "batanes",
+    "regionName": "Region II (Cagayan Valley)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 4,
+    "temperatureAnomalyC": 1.1,
+    "temperatureAnomalyStr": "+1.1°C",
+    "rainfallAnomalyPercent": -48,
+    "rainfallAnomalyStr": "-48%",
+    "vsHistorical": "+22%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.1°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-48%",
+        "status": "Way below normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 65,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -48% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 401000000,
+    "provinceName": "Batangas",
+    "provinceSlug": "batangas",
+    "regionName": "Region IV-A (CALABARZON)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 2.1,
+    "temperatureAnomalyStr": "+2.1°C",
+    "rainfallAnomalyPercent": -19,
+    "rainfallAnomalyStr": "-19%",
+    "vsHistorical": "+18%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.1°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-19%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 55,
+    "overallRisk": "high",
+    "summary": "Rainfall is -19% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1401100000,
+    "provinceName": "Benguet",
+    "provinceSlug": "benguet",
+    "regionName": "Cordillera Administrative Region (CAR)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.5,
+    "temperatureAnomalyStr": "+1.5°C",
+    "rainfallAnomalyPercent": -26,
+    "rainfallAnomalyStr": "-26%",
+    "vsHistorical": "+18%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.5°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-26%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 53,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-26%) accompanied by +1.5°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 807800000,
+    "provinceName": "Biliran",
+    "provinceSlug": "biliran",
+    "regionName": "Region VIII (Eastern Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 1.6,
+    "temperatureAnomalyStr": "+1.6°C",
+    "rainfallAnomalyPercent": -18,
+    "rainfallAnomalyStr": "-18%",
+    "vsHistorical": "+16%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.6°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-18%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 48,
+    "overallRisk": "moderate",
+    "summary": "Rainfall is -18% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 701200000,
+    "provinceName": "Bohol",
+    "provinceSlug": "bohol",
+    "regionName": "Region VII (Central Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.4,
+    "temperatureAnomalyStr": "+1.4°C",
+    "rainfallAnomalyPercent": -28,
+    "rainfallAnomalyStr": "-28%",
+    "vsHistorical": "+17%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.4°C",
+        "status": "Above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-28%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 52,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-28%) accompanied by +1.4°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1001300000,
+    "provinceName": "Bukidnon",
+    "provinceSlug": "bukidnon",
+    "regionName": "Region X (Northern Mindanao)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 2.1,
+    "temperatureAnomalyStr": "+2.1°C",
+    "rainfallAnomalyPercent": -27,
+    "rainfallAnomalyStr": "-27%",
+    "vsHistorical": "+21%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.1°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-27%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 63,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-27%) accompanied by +2.1°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 301400000,
+    "provinceName": "Bulacan",
+    "provinceSlug": "bulacan",
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 6,
+    "temperatureAnomalyC": 1.1,
+    "temperatureAnomalyStr": "+1.1°C",
+    "rainfallAnomalyPercent": -46,
+    "rainfallAnomalyStr": "-46%",
+    "vsHistorical": "+23%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.1°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-46%",
+        "status": "Way below normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "High Stress",
+        "status": "Critical reservoir watch",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 68,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -46% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 201500000,
+    "provinceName": "Cagayan",
+    "provinceSlug": "cagayan",
+    "regionName": "Region II (Cagayan Valley)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.5,
+    "temperatureAnomalyStr": "+1.5°C",
+    "rainfallAnomalyPercent": -35,
+    "rainfallAnomalyStr": "-35%",
+    "vsHistorical": "+20%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.5°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-35%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 61,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-35%) accompanied by +1.5°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 501600000,
+    "provinceName": "Camarines Norte",
+    "provinceSlug": "camarines-norte",
+    "regionName": "Region V (Bicol Region)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 1.4,
+    "temperatureAnomalyStr": "+1.4°C",
+    "rainfallAnomalyPercent": -21,
+    "rainfallAnomalyStr": "-21%",
+    "vsHistorical": "+16%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.4°C",
+        "status": "Above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-21%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 47,
+    "overallRisk": "moderate",
+    "summary": "Rainfall is -21% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 501700000,
+    "provinceName": "Camarines Sur",
+    "provinceSlug": "camarines-sur",
+    "regionName": "Region V (Bicol Region)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 2.2,
+    "temperatureAnomalyStr": "+2.2°C",
+    "rainfallAnomalyPercent": -25,
+    "rainfallAnomalyStr": "-25%",
+    "vsHistorical": "+20%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.2°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-25%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 60,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-25%) accompanied by +2.2°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1001800000,
+    "provinceName": "Camiguin",
+    "provinceSlug": "camiguin",
+    "regionName": "Region X (Northern Mindanao)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1,
+    "temperatureAnomalyStr": "+1.0°C",
+    "rainfallAnomalyPercent": -26,
+    "rainfallAnomalyStr": "-26%",
+    "vsHistorical": "+15%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.0°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-26%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 45,
+    "overallRisk": "moderate",
+    "summary": "Three or more months of persistent below-normal rainfall (-26%) accompanied by +1°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 601900000,
+    "provinceName": "Capiz",
+    "provinceSlug": "capiz",
+    "regionName": "Region VI (Western Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.8,
+    "temperatureAnomalyStr": "+1.8°C",
+    "rainfallAnomalyPercent": -32,
+    "rainfallAnomalyStr": "-32%",
+    "vsHistorical": "+20%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.8°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-32%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 60,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-32%) accompanied by +1.8°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 502000000,
+    "provinceName": "Catanduanes",
+    "provinceSlug": "catanduanes",
+    "regionName": "Region V (Bicol Region)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 2.3,
+    "temperatureAnomalyStr": "+2.3°C",
+    "rainfallAnomalyPercent": -12,
+    "rainfallAnomalyStr": "-12%",
+    "vsHistorical": "+16%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.3°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-12%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 48,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+2.3°C, -12% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 402100000,
+    "provinceName": "Cavite",
+    "provinceSlug": "cavite",
+    "regionName": "Region IV-A (CALABARZON)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 2.2,
+    "temperatureAnomalyStr": "+2.2°C",
+    "rainfallAnomalyPercent": -35,
+    "rainfallAnomalyStr": "-35%",
+    "vsHistorical": "+23%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.2°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-35%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 69,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-35%) accompanied by +2.2°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 702200000,
+    "provinceName": "Cebu",
+    "provinceSlug": "cebu",
+    "regionName": "Region VII (Central Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 1.5,
+    "temperatureAnomalyStr": "+1.5°C",
+    "rainfallAnomalyPercent": -24,
+    "rainfallAnomalyStr": "-24%",
+    "vsHistorical": "+24%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.5°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-24%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 68,
+    "overallRisk": "high",
+    "summary": "Cebu is currently experiencing warmer and drier-than-normal conditions. These conditions can increase heat stress, water demand and agricultural pressure.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 990100000,
+    "provinceName": "City of Isabela (Not a Province)",
+    "provinceSlug": "city-of-isabela-not-a-province",
+    "regionName": "Region IX (Zamboanga Peninsula)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.3,
+    "temperatureAnomalyStr": "+1.3°C",
+    "rainfallAnomalyPercent": -34,
+    "rainfallAnomalyStr": "-34%",
+    "vsHistorical": "+19%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.3°C",
+        "status": "Above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-34%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 56,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-34%) accompanied by +1.3°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1204700000,
+    "provinceName": "Cotabato",
+    "provinceSlug": "cotabato",
+    "regionName": "Region XII (SOCCSKSARGEN)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 2.1,
+    "temperatureAnomalyStr": "+2.1°C",
+    "rainfallAnomalyPercent": -21,
+    "rainfallAnomalyStr": "-21%",
+    "vsHistorical": "+19%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.1°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-21%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 56,
+    "overallRisk": "high",
+    "summary": "Rainfall is -21% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1108200000,
+    "provinceName": "Davao de Oro",
+    "provinceSlug": "davao-de-oro",
+    "regionName": "Region XI (Davao Region)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 6,
+    "temperatureAnomalyC": 2,
+    "temperatureAnomalyStr": "+2.0°C",
+    "rainfallAnomalyPercent": -40,
+    "rainfallAnomalyStr": "-40%",
+    "vsHistorical": "+25%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.0°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-40%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 74,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -40% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1102300000,
+    "provinceName": "Davao del Norte",
+    "provinceSlug": "davao-del-norte",
+    "regionName": "Region XI (Davao Region)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 1.1,
+    "temperatureAnomalyStr": "+1.1°C",
+    "rainfallAnomalyPercent": -12,
+    "rainfallAnomalyStr": "-12%",
+    "vsHistorical": "+13%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.1°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-12%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 39,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+1.1°C, -12% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1102400000,
+    "provinceName": "Davao del Sur",
+    "provinceSlug": "davao-del-sur",
+    "regionName": "Region XI (Davao Region)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 2.4,
+    "temperatureAnomalyStr": "+2.4°C",
+    "rainfallAnomalyPercent": -22,
+    "rainfallAnomalyStr": "-22%",
+    "vsHistorical": "+20%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.4°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-22%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 59,
+    "overallRisk": "high",
+    "summary": "Rainfall is -22% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1108600000,
+    "provinceName": "Davao Occidental",
+    "provinceSlug": "davao-occidental",
+    "regionName": "Region XI (Davao Region)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 1.1,
+    "temperatureAnomalyStr": "+1.1°C",
+    "rainfallAnomalyPercent": -16,
+    "rainfallAnomalyStr": "-16%",
+    "vsHistorical": "+13%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.1°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-16%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 38,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+1.1°C, -16% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1102500000,
+    "provinceName": "Davao Oriental",
+    "provinceSlug": "davao-oriental",
+    "regionName": "Region XI (Davao Region)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 2.3,
+    "temperatureAnomalyStr": "+2.3°C",
+    "rainfallAnomalyPercent": -21,
+    "rainfallAnomalyStr": "-21%",
+    "vsHistorical": "+18%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.3°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-21%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 54,
+    "overallRisk": "high",
+    "summary": "Rainfall is -21% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1608500000,
+    "provinceName": "Dinagat Islands",
+    "provinceSlug": "dinagat-islands",
+    "regionName": "Region XIII (Caraga)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 4,
+    "temperatureAnomalyC": 1.6,
+    "temperatureAnomalyStr": "+1.6°C",
+    "rainfallAnomalyPercent": -44,
+    "rainfallAnomalyStr": "-44%",
+    "vsHistorical": "+23%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.6°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-44%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 68,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -44% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 802600000,
+    "provinceName": "Eastern Samar",
+    "provinceSlug": "eastern-samar",
+    "regionName": "Region VIII (Eastern Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 1.6,
+    "temperatureAnomalyStr": "+1.6°C",
+    "rainfallAnomalyPercent": -23,
+    "rainfallAnomalyStr": "-23%",
+    "vsHistorical": "+17%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.6°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-23%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 51,
+    "overallRisk": "high",
+    "summary": "Rainfall is -23% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 607900000,
+    "provinceName": "Guimaras",
+    "provinceSlug": "guimaras",
+    "regionName": "Region VI (Western Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 5,
+    "temperatureAnomalyC": 1.2,
+    "temperatureAnomalyStr": "+1.2°C",
+    "rainfallAnomalyPercent": -43,
+    "rainfallAnomalyStr": "-43%",
+    "vsHistorical": "+22%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.2°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-43%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 65,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -43% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1402700000,
+    "provinceName": "Ifugao",
+    "provinceSlug": "ifugao",
+    "regionName": "Cordillera Administrative Region (CAR)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 6,
+    "temperatureAnomalyC": 1.6,
+    "temperatureAnomalyStr": "+1.6°C",
+    "rainfallAnomalyPercent": -41,
+    "rainfallAnomalyStr": "-41%",
+    "vsHistorical": "+22%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.6°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-41%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 67,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -41% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 102800000,
+    "provinceName": "Ilocos Norte",
+    "provinceSlug": "ilocos-norte",
+    "regionName": "Region I (Ilocos Region)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 2.1,
+    "temperatureAnomalyStr": "+2.1°C",
+    "rainfallAnomalyPercent": -32,
+    "rainfallAnomalyStr": "-32%",
+    "vsHistorical": "+23%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.1°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-32%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "High Stress",
+        "status": "Critical reservoir watch",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 69,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-32%) accompanied by +2.1°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 102900000,
+    "provinceName": "Ilocos Sur",
+    "provinceSlug": "ilocos-sur",
+    "regionName": "Region I (Ilocos Region)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 6,
+    "temperatureAnomalyC": 1.5,
+    "temperatureAnomalyStr": "+1.5°C",
+    "rainfallAnomalyPercent": -40,
+    "rainfallAnomalyStr": "-40%",
+    "vsHistorical": "+22%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.5°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-40%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 65,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -40% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 603000000,
+    "provinceName": "Iloilo",
+    "provinceSlug": "iloilo",
+    "regionName": "Region VI (Western Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 1,
+    "temperatureAnomalyStr": "+1.0°C",
+    "rainfallAnomalyPercent": -13,
+    "rainfallAnomalyStr": "-13%",
+    "vsHistorical": "+10%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.0°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-13%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 30,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+1°C, -13% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 203100000,
+    "provinceName": "Isabela",
+    "provinceSlug": "isabela",
+    "regionName": "Region II (Cagayan Valley)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 1.1,
+    "temperatureAnomalyStr": "+1.1°C",
+    "rainfallAnomalyPercent": -12,
+    "rainfallAnomalyStr": "-12%",
+    "vsHistorical": "+14%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.1°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-12%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "High Stress",
+        "status": "Critical reservoir watch",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 41,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+1.1°C, -12% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1403200000,
+    "provinceName": "Kalinga",
+    "provinceSlug": "kalinga",
+    "regionName": "Cordillera Administrative Region (CAR)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 6,
+    "temperatureAnomalyC": 1.4,
+    "temperatureAnomalyStr": "+1.4°C",
+    "rainfallAnomalyPercent": -46,
+    "rainfallAnomalyStr": "-46%",
+    "vsHistorical": "+23%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.4°C",
+        "status": "Above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-46%",
+        "status": "Way below normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 68,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -46% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 103300000,
+    "provinceName": "La Union",
+    "provinceSlug": "la-union",
+    "regionName": "Region I (Ilocos Region)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.6,
+    "temperatureAnomalyStr": "+1.6°C",
+    "rainfallAnomalyPercent": -37,
+    "rainfallAnomalyStr": "-37%",
+    "vsHistorical": "+20%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.6°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-37%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 59,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-37%) accompanied by +1.6°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 403400000,
+    "provinceName": "Laguna",
+    "provinceSlug": "laguna",
+    "regionName": "Region IV-A (CALABARZON)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 2.1,
+    "temperatureAnomalyStr": "+2.1°C",
+    "rainfallAnomalyPercent": -28,
+    "rainfallAnomalyStr": "-28%",
+    "vsHistorical": "+21%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.1°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-28%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 63,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-28%) accompanied by +2.1°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1003500000,
+    "provinceName": "Lanao del Norte",
+    "provinceSlug": "lanao-del-norte",
+    "regionName": "Region X (Northern Mindanao)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.8,
+    "temperatureAnomalyStr": "+1.8°C",
+    "rainfallAnomalyPercent": -26,
+    "rainfallAnomalyStr": "-26%",
+    "vsHistorical": "+20%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.8°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-26%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 60,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-26%) accompanied by +1.8°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1903600000,
+    "provinceName": "Lanao del Sur",
+    "provinceSlug": "lanao-del-sur",
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 2.1,
+    "temperatureAnomalyStr": "+2.1°C",
+    "rainfallAnomalyPercent": -16,
+    "rainfallAnomalyStr": "-16%",
+    "vsHistorical": "+15%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.1°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-16%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 44,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+2.1°C, -16% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 803700000,
+    "provinceName": "Leyte",
+    "provinceSlug": "leyte",
+    "regionName": "Region VIII (Eastern Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.8,
+    "temperatureAnomalyStr": "+1.8°C",
+    "rainfallAnomalyPercent": -30,
+    "rainfallAnomalyStr": "-30%",
+    "vsHistorical": "+19%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.8°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-30%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 58,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-30%) accompanied by +1.8°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1908700000,
+    "provinceName": "Maguindanao del Norte",
+    "provinceSlug": "maguindanao-del-norte",
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.2,
+    "temperatureAnomalyStr": "+1.2°C",
+    "rainfallAnomalyPercent": -31,
+    "rainfallAnomalyStr": "-31%",
+    "vsHistorical": "+17%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.2°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-31%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 50,
+    "overallRisk": "moderate",
+    "summary": "Three or more months of persistent below-normal rainfall (-31%) accompanied by +1.2°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1908800000,
+    "provinceName": "Maguindanao del Sur",
+    "provinceSlug": "maguindanao-del-sur",
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 6,
+    "temperatureAnomalyC": 2.3,
+    "temperatureAnomalyStr": "+2.3°C",
+    "rainfallAnomalyPercent": -45,
+    "rainfallAnomalyStr": "-45%",
+    "vsHistorical": "+26%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.3°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-45%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "High Stress",
+        "status": "Critical reservoir watch",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 77,
+    "overallRisk": "extreme",
+    "summary": "Prolonged rainfall deficit of -45% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1704000000,
+    "provinceName": "Marinduque",
+    "provinceSlug": "marinduque",
+    "regionName": "MIMAROPA Region",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 1,
+    "temperatureAnomalyStr": "+1.0°C",
+    "rainfallAnomalyPercent": -13,
+    "rainfallAnomalyStr": "-13%",
+    "vsHistorical": "+12%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.0°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-13%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 36,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+1°C, -13% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 504100000,
+    "provinceName": "Masbate",
+    "provinceSlug": "masbate",
+    "regionName": "Region V (Bicol Region)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1,
+    "temperatureAnomalyStr": "+1.0°C",
+    "rainfallAnomalyPercent": -31,
+    "rainfallAnomalyStr": "-31%",
+    "vsHistorical": "+16%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.0°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-31%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 49,
+    "overallRisk": "moderate",
+    "summary": "Three or more months of persistent below-normal rainfall (-31%) accompanied by +1°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1004200000,
+    "provinceName": "Misamis Occidental",
+    "provinceSlug": "misamis-occidental",
+    "regionName": "Region X (Northern Mindanao)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.2,
+    "temperatureAnomalyStr": "+1.2°C",
+    "rainfallAnomalyPercent": -25,
+    "rainfallAnomalyStr": "-25%",
+    "vsHistorical": "+18%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.2°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-25%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 54,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-25%) accompanied by +1.2°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1004300000,
+    "provinceName": "Misamis Oriental",
+    "provinceSlug": "misamis-oriental",
+    "regionName": "Region X (Northern Mindanao)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 4,
+    "temperatureAnomalyC": 2.4,
+    "temperatureAnomalyStr": "+2.4°C",
+    "rainfallAnomalyPercent": -45,
+    "rainfallAnomalyStr": "-45%",
+    "vsHistorical": "+26%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.4°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-45%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "High Stress",
+        "status": "Critical reservoir watch",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 78,
+    "overallRisk": "extreme",
+    "summary": "Prolonged rainfall deficit of -45% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1404400000,
+    "provinceName": "Mountain Province",
+    "provinceSlug": "mountain-province",
+    "regionName": "Cordillera Administrative Region (CAR)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 2.3,
+    "temperatureAnomalyStr": "+2.3°C",
+    "rainfallAnomalyPercent": -34,
+    "rainfallAnomalyStr": "-34%",
+    "vsHistorical": "+21%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.3°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-34%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 62,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-34%) accompanied by +2.3°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1303900000,
+    "provinceName": "NCR, City of Manila, First District (Not a Province)",
+    "provinceSlug": "ncr-city-of-manila-first-district-not-a-province",
+    "regionName": "National Capital Region (NCR)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 1.1,
+    "temperatureAnomalyStr": "+1.1°C",
+    "rainfallAnomalyPercent": -14,
+    "rainfallAnomalyStr": "-14%",
+    "vsHistorical": "+13%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.1°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-14%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 40,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+1.1°C, -14% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1307600000,
+    "provinceName": "NCR, Fourth District (Not a Province)",
+    "provinceSlug": "ncr-fourth-district-not-a-province",
+    "regionName": "National Capital Region (NCR)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 5,
+    "temperatureAnomalyC": 2.3,
+    "temperatureAnomalyStr": "+2.3°C",
+    "rainfallAnomalyPercent": -40,
+    "rainfallAnomalyStr": "-40%",
+    "vsHistorical": "+25%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.3°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-40%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 75,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -40% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1307400000,
+    "provinceName": "NCR, Second District (Not a Province)",
+    "provinceSlug": "ncr-second-district-not-a-province",
+    "regionName": "National Capital Region (NCR)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.1,
+    "temperatureAnomalyStr": "+1.1°C",
+    "rainfallAnomalyPercent": -37,
+    "rainfallAnomalyStr": "-37%",
+    "vsHistorical": "+18%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.1°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-37%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 55,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-37%) accompanied by +1.1°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1307500000,
+    "provinceName": "NCR, Third District (Not a Province)",
+    "provinceSlug": "ncr-third-district-not-a-province",
+    "regionName": "National Capital Region (NCR)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1,
+    "temperatureAnomalyStr": "+1.0°C",
+    "rainfallAnomalyPercent": -36,
+    "rainfallAnomalyStr": "-36%",
+    "vsHistorical": "+17%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.0°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-36%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 51,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-36%) accompanied by +1°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 604500000,
+    "provinceName": "Negros Occidental",
+    "provinceSlug": "negros-occidental",
+    "regionName": "Region VI (Western Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 1.5,
+    "temperatureAnomalyStr": "+1.5°C",
+    "rainfallAnomalyPercent": -12,
+    "rainfallAnomalyStr": "-12%",
+    "vsHistorical": "+13%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.5°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-12%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 40,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+1.5°C, -12% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 704600000,
+    "provinceName": "Negros Oriental",
+    "provinceSlug": "negros-oriental",
+    "regionName": "Region VII (Central Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 2.3,
+    "temperatureAnomalyStr": "+2.3°C",
+    "rainfallAnomalyPercent": -12,
+    "rainfallAnomalyStr": "-12%",
+    "vsHistorical": "+16%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.3°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-12%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 49,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+2.3°C, -12% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 804800000,
+    "provinceName": "Northern Samar",
+    "provinceSlug": "northern-samar",
+    "regionName": "Region VIII (Eastern Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.2,
+    "temperatureAnomalyStr": "+1.2°C",
+    "rainfallAnomalyPercent": -30,
+    "rainfallAnomalyStr": "-30%",
+    "vsHistorical": "+17%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.2°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-30%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 50,
+    "overallRisk": "moderate",
+    "summary": "Three or more months of persistent below-normal rainfall (-30%) accompanied by +1.2°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 304900000,
+    "provinceName": "Nueva Ecija",
+    "provinceSlug": "nueva-ecija",
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 4,
+    "temperatureAnomalyC": 1.2,
+    "temperatureAnomalyStr": "+1.2°C",
+    "rainfallAnomalyPercent": -44,
+    "rainfallAnomalyStr": "-44%",
+    "vsHistorical": "+22%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.2°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-44%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 67,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -44% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 205000000,
+    "provinceName": "Nueva Vizcaya",
+    "provinceSlug": "nueva-vizcaya",
+    "regionName": "Region II (Cagayan Valley)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.3,
+    "temperatureAnomalyStr": "+1.3°C",
+    "rainfallAnomalyPercent": -31,
+    "rainfallAnomalyStr": "-31%",
+    "vsHistorical": "+19%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.3°C",
+        "status": "Above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-31%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 56,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-31%) accompanied by +1.3°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1705100000,
+    "provinceName": "Occidental Mindoro",
+    "provinceSlug": "occidental-mindoro",
+    "regionName": "MIMAROPA Region",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 1.9,
+    "temperatureAnomalyStr": "+1.9°C",
+    "rainfallAnomalyPercent": -12,
+    "rainfallAnomalyStr": "-12%",
+    "vsHistorical": "+14%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.9°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-12%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 41,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+1.9°C, -12% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1705200000,
+    "provinceName": "Oriental Mindoro",
+    "provinceSlug": "oriental-mindoro",
+    "regionName": "MIMAROPA Region",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 2.3,
+    "temperatureAnomalyStr": "+2.3°C",
+    "rainfallAnomalyPercent": -34,
+    "rainfallAnomalyStr": "-34%",
+    "vsHistorical": "+22%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.3°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-34%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 66,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-34%) accompanied by +2.3°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1705300000,
+    "provinceName": "Palawan",
+    "provinceSlug": "palawan",
+    "regionName": "MIMAROPA Region",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 2,
+    "temperatureAnomalyStr": "+2.0°C",
+    "rainfallAnomalyPercent": -26,
+    "rainfallAnomalyStr": "-26%",
+    "vsHistorical": "+20%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.0°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-26%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "High Stress",
+        "status": "Critical reservoir watch",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 61,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-26%) accompanied by +2°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 305400000,
+    "provinceName": "Pampanga",
+    "provinceSlug": "pampanga",
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 2.3,
+    "temperatureAnomalyStr": "+2.3°C",
+    "rainfallAnomalyPercent": -21,
+    "rainfallAnomalyStr": "-21%",
+    "vsHistorical": "+20%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.3°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-21%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "High Stress",
+        "status": "Critical reservoir watch",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 61,
+    "overallRisk": "high",
+    "summary": "Rainfall is -21% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 105500000,
+    "provinceName": "Pangasinan",
+    "provinceSlug": "pangasinan",
+    "regionName": "Region I (Ilocos Region)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 6,
+    "temperatureAnomalyC": 1.3,
+    "temperatureAnomalyStr": "+1.3°C",
+    "rainfallAnomalyPercent": -48,
+    "rainfallAnomalyStr": "-48%",
+    "vsHistorical": "+22%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.3°C",
+        "status": "Above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-48%",
+        "status": "Way below normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 65,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -48% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 405600000,
+    "provinceName": "Quezon",
+    "provinceSlug": "quezon",
+    "regionName": "Region IV-A (CALABARZON)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 2,
+    "temperatureAnomalyStr": "+2.0°C",
+    "rainfallAnomalyPercent": -12,
+    "rainfallAnomalyStr": "-12%",
+    "vsHistorical": "+15%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.0°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-12%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 44,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+2°C, -12% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 205700000,
+    "provinceName": "Quirino",
+    "provinceSlug": "quirino",
+    "regionName": "Region II (Cagayan Valley)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 2.3,
+    "temperatureAnomalyStr": "+2.3°C",
+    "rainfallAnomalyPercent": -16,
+    "rainfallAnomalyStr": "-16%",
+    "vsHistorical": "+17%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.3°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-16%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 52,
+    "overallRisk": "high",
+    "summary": "Seasonal weather remains within near-normal parameters (+2.3°C, -16% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 405800000,
+    "provinceName": "Rizal",
+    "provinceSlug": "rizal",
+    "regionName": "Region IV-A (CALABARZON)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.5,
+    "temperatureAnomalyStr": "+1.5°C",
+    "rainfallAnomalyPercent": -37,
+    "rainfallAnomalyStr": "-37%",
+    "vsHistorical": "+21%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.5°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-37%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 63,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-37%) accompanied by +1.5°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1705900000,
+    "provinceName": "Romblon",
+    "provinceSlug": "romblon",
+    "regionName": "MIMAROPA Region",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 6,
+    "temperatureAnomalyC": 1,
+    "temperatureAnomalyStr": "+1.0°C",
+    "rainfallAnomalyPercent": -49,
+    "rainfallAnomalyStr": "-49%",
+    "vsHistorical": "+21%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.0°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-49%",
+        "status": "Way below normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 63,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -49% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 806000000,
+    "provinceName": "Samar",
+    "provinceSlug": "samar",
+    "regionName": "Region VIII (Eastern Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.2,
+    "temperatureAnomalyStr": "+1.2°C",
+    "rainfallAnomalyPercent": -32,
+    "rainfallAnomalyStr": "-32%",
+    "vsHistorical": "+18%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.2°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-32%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 54,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-32%) accompanied by +1.2°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1208000000,
+    "provinceName": "Sarangani",
+    "provinceSlug": "sarangani",
+    "regionName": "Region XII (SOCCSKSARGEN)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 2.1,
+    "temperatureAnomalyStr": "+2.1°C",
+    "rainfallAnomalyPercent": -19,
+    "rainfallAnomalyStr": "-19%",
+    "vsHistorical": "+17%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.1°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-19%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 52,
+    "overallRisk": "high",
+    "summary": "Rainfall is -19% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 706100000,
+    "provinceName": "Siquijor",
+    "provinceSlug": "siquijor",
+    "regionName": "Region VII (Central Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 1.6,
+    "temperatureAnomalyStr": "+1.6°C",
+    "rainfallAnomalyPercent": -23,
+    "rainfallAnomalyStr": "-23%",
+    "vsHistorical": "+18%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.6°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-23%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 53,
+    "overallRisk": "high",
+    "summary": "Rainfall is -23% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 506200000,
+    "provinceName": "Sorsogon",
+    "provinceSlug": "sorsogon",
+    "regionName": "Region V (Bicol Region)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 1.5,
+    "temperatureAnomalyStr": "+1.5°C",
+    "rainfallAnomalyPercent": -15,
+    "rainfallAnomalyStr": "-15%",
+    "vsHistorical": "+13%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.5°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-15%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 38,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+1.5°C, -15% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1206300000,
+    "provinceName": "South Cotabato",
+    "provinceSlug": "south-cotabato",
+    "regionName": "Region XII (SOCCSKSARGEN)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.3,
+    "temperatureAnomalyStr": "+1.3°C",
+    "rainfallAnomalyPercent": -33,
+    "rainfallAnomalyStr": "-33%",
+    "vsHistorical": "+21%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.3°C",
+        "status": "Above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-33%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "High Stress",
+        "status": "Critical reservoir watch",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 62,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-33%) accompanied by +1.3°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 806400000,
+    "provinceName": "Southern Leyte",
+    "provinceSlug": "southern-leyte",
+    "regionName": "Region VIII (Eastern Visayas)",
+    "islandGroup": "Visayas",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 2,
+    "temperatureAnomalyStr": "+2.0°C",
+    "rainfallAnomalyPercent": -20,
+    "rainfallAnomalyStr": "-20%",
+    "vsHistorical": "+17%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.0°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-20%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 51,
+    "overallRisk": "high",
+    "summary": "Rainfall is -20% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1909900000,
+    "provinceName": "Special Geographic Area (BARMM)",
+    "provinceSlug": "special-geographic-area-barmm",
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 1.5,
+    "temperatureAnomalyStr": "+1.5°C",
+    "rainfallAnomalyPercent": -21,
+    "rainfallAnomalyStr": "-21%",
+    "vsHistorical": "+15%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.5°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-21%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 45,
+    "overallRisk": "moderate",
+    "summary": "Rainfall is -21% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1206500000,
+    "provinceName": "Sultan Kudarat",
+    "provinceSlug": "sultan-kudarat",
+    "regionName": "Region XII (SOCCSKSARGEN)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Spell",
+    "consecutiveDeficitMonths": 3,
+    "temperatureAnomalyC": 1.9,
+    "temperatureAnomalyStr": "+1.9°C",
+    "rainfallAnomalyPercent": -32,
+    "rainfallAnomalyStr": "-32%",
+    "vsHistorical": "+22%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.9°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-32%",
+        "status": "Below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 65,
+    "overallRisk": "high",
+    "summary": "Three or more months of persistent below-normal rainfall (-32%) accompanied by +1.9°C higher temperatures. Soil moisture depletion poses high risk to crops.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1906600000,
+    "provinceName": "Sulu",
+    "provinceSlug": "sulu",
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 2,
+    "temperatureAnomalyStr": "+2.0°C",
+    "rainfallAnomalyPercent": -23,
+    "rainfallAnomalyStr": "-23%",
+    "vsHistorical": "+18%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.0°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-23%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "High",
+        "status": "Crop stress increasing",
+        "risk": "extreme"
+      }
+    ],
+    "compositeImpactScore": 53,
+    "overallRisk": "high",
+    "summary": "Rainfall is -23% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1606700000,
+    "provinceName": "Surigao del Norte",
+    "provinceSlug": "surigao-del-norte",
+    "regionName": "Region XIII (Caraga)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 2.1,
+    "temperatureAnomalyStr": "+2.1°C",
+    "rainfallAnomalyPercent": -15,
+    "rainfallAnomalyStr": "-15%",
+    "vsHistorical": "+16%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.1°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-15%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 47,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+2.1°C, -15% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1606800000,
+    "provinceName": "Surigao del Sur",
+    "provinceSlug": "surigao-del-sur",
+    "regionName": "Region XIII (Caraga)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 6,
+    "temperatureAnomalyC": 1.9,
+    "temperatureAnomalyStr": "+1.9°C",
+    "rainfallAnomalyPercent": -44,
+    "rainfallAnomalyStr": "-44%",
+    "vsHistorical": "+24%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.9°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-44%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 72,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -44% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 306900000,
+    "provinceName": "Tarlac",
+    "provinceSlug": "tarlac",
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 2.2,
+    "temperatureAnomalyStr": "+2.2°C",
+    "rainfallAnomalyPercent": -14,
+    "rainfallAnomalyStr": "-14%",
+    "vsHistorical": "+16%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.2°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-14%",
+        "status": "Below normal",
+        "risk": "low"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Low",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 47,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+2.2°C, -14% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 1907000000,
+    "provinceName": "Tawi-Tawi",
+    "provinceSlug": "tawi-tawi",
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 4,
+    "temperatureAnomalyC": 1.2,
+    "temperatureAnomalyStr": "+1.2°C",
+    "rainfallAnomalyPercent": -42,
+    "rainfallAnomalyStr": "-42%",
+    "vsHistorical": "+20%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.2°C",
+        "status": "Above normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-42%",
+        "status": "Way below normal",
+        "risk": "high"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 60,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -42% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 307100000,
+    "provinceName": "Zambales",
+    "provinceSlug": "zambales",
+    "regionName": "Region III (Central Luzon)",
+    "islandGroup": "Luzon",
+    "droughtStatus": "Dry Condition",
+    "consecutiveDeficitMonths": 2,
+    "temperatureAnomalyC": 2.2,
+    "temperatureAnomalyStr": "+2.2°C",
+    "rainfallAnomalyPercent": -21,
+    "rainfallAnomalyStr": "-21%",
+    "vsHistorical": "+19%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.2°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-21%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "High Stress",
+        "status": "Critical reservoir watch",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "moderate"
+      }
+    ],
+    "compositeImpactScore": 57,
+    "overallRisk": "high",
+    "summary": "Rainfall is -21% below seasonal normals with above-average daytime temperatures. Emerging stress on rainfed agriculture and household water use.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 907200000,
+    "provinceName": "Zamboanga del Norte",
+    "provinceSlug": "zamboanga-del-norte",
+    "regionName": "Region IX (Zamboanga Peninsula)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 5,
+    "temperatureAnomalyC": 1.4,
+    "temperatureAnomalyStr": "+1.4°C",
+    "rainfallAnomalyPercent": -46,
+    "rainfallAnomalyStr": "-46%",
+    "vsHistorical": "+21%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.4°C",
+        "status": "Above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-46%",
+        "status": "Way below normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 64,
+    "overallRisk": "high",
+    "summary": "Prolonged rainfall deficit of -46% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 907300000,
+    "provinceName": "Zamboanga del Sur",
+    "provinceSlug": "zamboanga-del-sur",
+    "regionName": "Region IX (Zamboanga Peninsula)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Drought",
+    "consecutiveDeficitMonths": 4,
+    "temperatureAnomalyC": 2,
+    "temperatureAnomalyStr": "+2.0°C",
+    "rainfallAnomalyPercent": -48,
+    "rainfallAnomalyStr": "-48%",
+    "vsHistorical": "+26%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+2.0°C",
+        "status": "Well above normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-48%",
+        "status": "Way below normal",
+        "risk": "extreme"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Moderate Stress",
+        "status": "Watch reservoir levels",
+        "risk": "high"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 77,
+    "overallRisk": "extreme",
+    "summary": "Prolonged rainfall deficit of -48% over multiple consecutive months has triggered meteorological drought. Severe pressure on local irrigation networks and municipal reservoirs.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  },
+  {
+    "psgc": 908300000,
+    "provinceName": "Zamboanga Sibugay",
+    "provinceSlug": "zamboanga-sibugay",
+    "regionName": "Region IX (Zamboanga Peninsula)",
+    "islandGroup": "Mindanao",
+    "droughtStatus": "Near Normal",
+    "consecutiveDeficitMonths": 1,
+    "temperatureAnomalyC": 1.5,
+    "temperatureAnomalyStr": "+1.5°C",
+    "rainfallAnomalyPercent": -17,
+    "rainfallAnomalyStr": "-17%",
+    "vsHistorical": "+12%",
+    "indicators": [
+      {
+        "key": "temperature",
+        "label": "Temperature",
+        "value": "+1.5°C",
+        "status": "Well above normal",
+        "risk": "high"
+      },
+      {
+        "key": "rainfall",
+        "label": "Rainfall",
+        "value": "-17%",
+        "status": "Below normal",
+        "risk": "moderate"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "value": "Stable",
+        "status": "Watch reservoir levels",
+        "risk": "moderate"
+      },
+      {
+        "key": "agriculture",
+        "label": "Agriculture",
+        "value": "Moderate",
+        "status": "Manage soil moisture",
+        "risk": "high"
+      }
+    ],
+    "compositeImpactScore": 37,
+    "overallRisk": "moderate",
+    "summary": "Seasonal weather remains within near-normal parameters (+1.5°C, -17% rainfall anomaly). Continue monitoring official PAGASA weather advisories.",
+    "recommendedActions": {
+      "households": [
+        "Conserve water in daily routines and inspect home pipes for leaks",
+        "Limit prolonged direct sun exposure during peak daytime hours (10 AM – 3 PM)",
+        "Check on elderly and vulnerable family members for signs of heat exhaustion"
+      ],
+      "farmers": [
+        "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+        "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+        "Follow local Department of Agriculture and LGU crop calendar advisories"
+      ]
+    },
+    "updatedAt": "October 7, 2026 · 10:30 AM",
+    "source": "PAGASA Climate Monitoring & Bantay Composite Calculations"
+  }
+]

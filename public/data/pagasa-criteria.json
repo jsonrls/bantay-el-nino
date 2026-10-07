@@ -1,0 +1,143 @@
+{
+  "rainfallAnomalies": {
+    "wayBelowNormal": {
+      "description": "Rainfall is more than 60% below the seasonal average (<40% of normal rainfall)",
+      "threshold": "< 40% of normal (reduction > 60%)"
+    },
+    "belowNormal": {
+      "description": "Rainfall is 21% to 60% below the seasonal average (41% to 79% of normal rainfall)",
+      "threshold": "41% - 79% of normal (reduction 21% - 60%)"
+    },
+    "nearNormal": {
+      "description": "Rainfall is within 20% of the seasonal average (80% to 120% of normal rainfall)",
+      "threshold": "80% - 120% of normal"
+    },
+    "aboveNormal": {
+      "description": "Rainfall is more than 20% above the seasonal average (>120% of normal rainfall)",
+      "threshold": "> 120% of normal"
+    }
+  },
+  "droughtCategories": {
+    "dryCondition": {
+      "title": "Dry Condition",
+      "definition": "Two (2) consecutive months of below normal rainfall conditions (21% - 60% reduction).",
+      "severity": "low",
+      "color": "#4d7c0f",
+      "recommendedAction": "Begin monitoring soil moisture; check irrigation schedules and local advisories."
+    },
+    "drySpell": {
+      "title": "Dry Spell",
+      "definition": "Three (3) consecutive months of below normal rainfall (21% - 60% reduction) OR two (2) consecutive months of way below normal rainfall (>60% reduction).",
+      "severity": "moderate",
+      "color": "#a16207",
+      "recommendedAction": "Implement water conservation measures; prepare supplemental irrigation; adjust planting calendars."
+    },
+    "drought": {
+      "title": "Drought",
+      "definition": "Three (3) consecutive months of way below normal rainfall (>60% reduction) OR five (5) consecutive months of below normal rainfall (21% - 60% reduction).",
+      "severity": "extreme",
+      "color": "#991b1b",
+      "recommendedAction": "Activate municipal crisis response; enforce strict water rationing; release emergency agricultural relief."
+    }
+  },
+  "ensoAlertSystem": {
+    "stages": [
+      {
+        "stage": "Inactive",
+        "status": "ENSO-neutral conditions prevail",
+        "probability": "No abnormal warming detected",
+        "icon": "⚪"
+      },
+      {
+        "stage": "El Niño Watch",
+        "status": "Conditions are favorable for El Niño development",
+        "probability": "50% or greater chance within the next 6 months",
+        "icon": "🟡"
+      },
+      {
+        "stage": "El Niño Alert",
+        "status": "El Niño development is imminent",
+        "probability": "70% or greater chance within the next 2 months",
+        "icon": "🟠"
+      },
+      {
+        "stage": "El Niño Advisory",
+        "status": "El Niño conditions are actively present and established",
+        "probability": "Oceanic Niño Index (ONI) at or above +0.5°C and expected to persist",
+        "icon": "🔴"
+      }
+    ]
+  },
+  "heatIndexCategories": [
+    {
+      "range": "27°C - 32°C",
+      "level": "Caution",
+      "effects": "Fatigue is possible with prolonged exposure and activity. Continuing activity could lead to heat cramps.",
+      "badgeColor": "#4d7c0f"
+    },
+    {
+      "range": "33°C - 41°C",
+      "level": "Extreme Caution",
+      "effects": "Heat cramps and heat exhaustion are possible. Continuing activity could lead to heat stroke.",
+      "badgeColor": "#a16207"
+    },
+    {
+      "range": "42°C - 51°C",
+      "level": "Danger",
+      "effects": "Heat cramps and heat exhaustion are likely; heat stroke is probable with continued activity.",
+      "badgeColor": "#c2410c"
+    },
+    {
+      "range": "52°C and above",
+      "level": "Extreme Danger",
+      "effects": "Heat stroke is imminent. Immediate intervention and strict avoidance of sun exposure required.",
+      "badgeColor": "#991b1b"
+    }
+  ],
+  "coronaClimateTypes": {
+    "TypeI": {
+      "name": "Type I",
+      "characteristics": "Two pronounced seasons: dry from November to April; wet during the rest of the year.",
+      "regions": [
+        "Ilocos Region",
+        "Western parts of Central Luzon",
+        "Occidental Mindoro",
+        "Antique"
+      ],
+      "elNinoVulnerability": "Very High during prolonged dry seasons (Dec-May)."
+    },
+    "TypeII": {
+      "name": "Type II",
+      "characteristics": "No dry season with a very pronounced maximum rain period from December to February.",
+      "regions": [
+        "Bicol Region",
+        "Eastern Samar",
+        "Surigao provinces",
+        "Southern Leyte"
+      ],
+      "elNinoVulnerability": "Moderate; Pacific moisture provides partial buffer, but winter monsoon can weaken."
+    },
+    "TypeIII": {
+      "name": "Type III",
+      "characteristics": "Seasons not very pronounced: relatively dry from November to April and wet during the rest.",
+      "regions": [
+        "Cagayan Valley",
+        "Central Visayas (Cebu, Bohol)",
+        "Northern Palawan"
+      ],
+      "elNinoVulnerability": "High; moderate rainfall baselines leave little tolerance for 30%+ deficits."
+    },
+    "TypeIV": {
+      "name": "Type IV",
+      "characteristics": "Rainfall is more or less evenly distributed throughout the year.",
+      "regions": [
+        "Davao Region",
+        "Caraga",
+        "Cotabato",
+        "Bohol",
+        "Eastern parts of Luzon"
+      ],
+      "elNinoVulnerability": "Moderate; absence of a regular dry season makes sudden rain failure disruptive."
+    }
+  }
+}
