@@ -177,7 +177,7 @@ export default function Home() {
 
       {/* Live Hourly Weather & Heat Index Observation (Layer 2) */}
       <section className="mx-auto max-w-6xl px-4 pb-10">
-        <LiveWeatherCard provinceSlug="metro-manila" />
+        <LiveWeatherCard autoDetect={true} />
       </section>
 
       {/* Latest advisories as ruled rows. */}

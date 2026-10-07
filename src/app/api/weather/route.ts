@@ -92,6 +92,18 @@ export async function GET(request: Request) {
         lon = matched.centroid[0];
         provinceName = matched.name;
       }
+    } else if (!isNaN(lat) && !isNaN(lon)) {
+      const provinces = getProvinces();
+      let bestDist = Infinity;
+      for (const p of provinces) {
+        if (!p.centroid || p.centroid.length < 2) continue;
+        const [pLon, pLat] = p.centroid;
+        const d = (pLat - lat) ** 2 + (pLon - lon) ** 2;
+        if (d < bestDist) {
+          bestDist = d;
+          provinceName = p.name;
+        }
+      }
     }
 
     // Default to Manila if coordinates are not valid numbers

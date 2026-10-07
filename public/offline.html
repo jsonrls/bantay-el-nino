@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Offline Mode · Bantay El Niño</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background-color: #FAF9F5;
+      color: #1A1814;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 1.5rem;
+    }
+    .card {
+      border: 1px solid rgba(26, 24, 20, 0.15);
+      background: #FFFFFF;
+      max-width: 32rem;
+      width: 100%;
+      padding: 2rem;
+    }
+    .badge {
+      display: inline-block;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 0.625rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #C2410C;
+      margin-bottom: 0.5rem;
+    }
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.75rem;
+    }
+    p {
+      font-size: 0.875rem;
+      line-height: 1.5;
+      color: #57534E;
+      margin-bottom: 1.25rem;
+    }
+    .btn {
+      display: inline-block;
+      border: 1px solid #1A1814;
+      background: #1A1814;
+      color: #FAF9F5;
+      padding: 0.625rem 1.25rem;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    .btn:hover {
+      background: #332F2A;
+    }
+    .subtext {
+      margin-top: 1.5rem;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 0.6875rem;
+      color: #78716C;
+      border-top: 1px solid rgba(26, 24, 20, 0.1);
+      padding-top: 0.75rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <span class="badge">Offline Service Mode</span>
+    <h1>Network Connection Lost</h1>
+    <p>
+      You are currently viewing Bantay El Niño without an active internet connection. Previously cached provincial drought assessments and offline records remain accessible on this device.
+    </p>
+    <a href="/" class="btn" onclick="window.location.reload(); return false;">Retry Connection</a>
+    <div class="subtext">
+      Bantay El Niño · Local offline resilience mode active.
+    </div>
+  </div>
+</body>
+</html>

@@ -54,7 +54,6 @@ export function SiteHeader() {
       <header className="sticky top-0 z-50 border-b border-border bg-background">
         <div className="mx-auto flex h-14 max-w-6xl items-center justify-between gap-4 px-4">
           <Link href="/" className="flex h-14 shrink-0 items-center gap-2">
-            <span aria-hidden>🇵🇭</span>
             <span className="font-heading text-lg font-semibold leading-none text-foreground">
               Bantay El Niño
             </span>
