@@ -30,6 +30,10 @@ jobs:
         run: npm ci
 
       - name: Run climate & GeoJSON gathering pipeline
+        env:
+          NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL || 'https://abgelcdhxuwvigapnwxk.supabase.co' }}
+          NEXT_PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.NEXT_PUBLIC_SUPABASE_ANON_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFiZ2VsY2RoeHV3dmlnYXBud3hrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTEzMzU3MTksImV4cCI6MjEwNjkxMTcxOX0.sjAlwHYQ7M_ppX3Ty15CYUcGYcYa3XY8na2w1Usbffc' }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: node scripts/gather-all-data.mjs
 
       - name: Verify build integrity

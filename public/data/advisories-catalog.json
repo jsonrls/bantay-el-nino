@@ -1,136 +1,133 @@
 [
   {
-    "id": "adv-pagasa-heat-001",
+    "id": "adv-auto-enso-global",
+    "level": "extreme",
+    "category": "El Niño",
+    "title": "Official El Niño Advisory: Pacific Anomaly +2.16°C",
+    "area": "National (All 17 Regions)",
+    "provinceSlug": "national",
+    "regionName": "National",
+    "summary": "NOAA Climate Prediction Center reports the Oceanic Niño Index (ONI) at +2.16°C for the JAS season. Atmospheric-oceanic coupling indicates El Niño conditions with very strong intensity.",
+    "source": "NOAA Climate Prediction Center & DOST-PAGASA Climatology",
+    "publishedAt": "October 7, 2026",
+    "effectiveUntil": "Next Monthly Cycle",
+    "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ensoyears.shtml",
+    "actions": [
+      "Maintain rainwater collection drums and optimize domestic water recycling",
+      "Follow municipal irrigation scheduling and Alternate Wetting & Drying protocols",
+      "Adjust planting schedules for drought-tolerant crop varieties"
+    ]
+  },
+  {
+    "id": "adv-auto-drought-agusan-del-norte",
     "level": "extreme",
     "category": "PAGASA",
-    "title": "Extreme Heat Index Advisory",
-    "area": "Central Luzon & Western Visayas",
-    "provinceSlug": "nueva-ecija",
-    "regionName": "Region III & Region VI",
-    "summary": "Daytime heat index values are forecast to reach 44°C to 47°C ('Danger' category). High probability of heat cramps and heat exhaustion with continued outdoor activity. Limit direct sunlight exposure between 10:00 AM and 3:00 PM.",
-    "source": "PAGASA Climatology and Agrometeorology Division",
-    "publishedAt": "October 7, 2026 · 10:32 AM",
-    "effectiveUntil": "October 10, 2026",
+    "title": "Severe Meteorological Drought Advisory: Agusan del Norte",
+    "area": "Agusan del Norte (Region XIII (Caraga))",
+    "provinceSlug": "agusan-del-norte",
+    "regionName": "Region XIII (Caraga)",
+    "summary": "Agusan del Norte has recorded 4 consecutive months of rainfall deficit (-48%), accompanied by temperature anomalies of +1.4°C. Severe moisture depletion threatens rainfed rice, corn, and high-value crops.",
+    "source": "DOST-PAGASA Drought Criteria & Bantay Composite Calculations",
+    "publishedAt": "October 7, 2026",
+    "effectiveUntil": "End of Current Month",
     "url": "https://bagong.pagasa.dost.gov.ph",
     "actions": [
-      "Drink at least 2 to 3 liters of water daily, even without feeling thirsty",
-      "Avoid outdoor physical labor during peak temperature hours (10 AM to 3 PM)",
-      "Wear lightweight, loose-fitting, light-colored clothing",
-      "Ensure livestock and poultry have access to shaded pens and continuous fresh drinking water"
+      "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+      "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+      "Follow local Department of Agriculture and LGU crop calendar advisories"
     ]
   },
   {
-    "id": "adv-water-mwss-002",
-    "level": "high",
-    "category": "Water",
-    "title": "Angat Reservoir Conservation Watch",
-    "area": "Metro Manila / Bulacan Watershed",
-    "provinceSlug": "bulacan",
-    "regionName": "Region III & NCR",
-    "summary": "Angat Dam water elevation is at 204.60 meters, below the seasonal rule curve of 210.00 meters. The National Water Resources Board (NWRB) and MWSS have maintained normal municipal tap water allocations (48 m³/s) while calibrating agricultural releases to the Bustos Dam canal network.",
-    "source": "MWSS / NWRB / Manila Water / Maynilad",
-    "publishedAt": "October 6, 2026 · 4:00 PM",
-    "effectiveUntil": "October 15, 2026",
-    "url": "https://ro.mwss.gov.ph",
-    "actions": [
-      "Practice household water conservation (recycle rinse water for flushing and gardening)",
-      "Report municipal pipe leaks immediately to water concessionaire hotlines",
-      "Commercial establishments should optimize cooling tower water recycling"
-    ]
-  },
-  {
-    "id": "adv-agri-da-003",
-    "level": "high",
-    "category": "Agriculture",
-    "title": "Western Visayas Crop Drought & Soil Moisture Alert",
-    "area": "Iloilo, Antique, and Negros Occidental",
-    "provinceSlug": "iloilo",
+    "id": "adv-auto-drought-aklan",
+    "level": "extreme",
+    "category": "PAGASA",
+    "title": "Severe Meteorological Drought Advisory: Aklan",
+    "area": "Aklan (Region VI (Western Visayas))",
+    "provinceSlug": "aklan",
     "regionName": "Region VI (Western Visayas)",
-    "summary": "Three consecutive months of below-normal precipitation have depleted soil moisture across rainfed rice and sugarcane tracts in Panay Island and Negros Occidental. Field agronomists urge farmers to employ Alternate Wetting and Drying and delay late-season planting.",
-    "source": "Department of Agriculture - Field Operations Service & DRRM Ops",
-    "publishedAt": "October 6, 2026 · 9:15 AM",
-    "effectiveUntil": "October 20, 2026",
-    "url": "https://www.da.gov.ph",
-    "actions": [
-      "Implement Alternate Wetting and Drying (AWD) in all irrigated paddies",
-      "Apply crop residue trash blanketing to sugarcane and upland corn fields to slow evaporation",
-      "Coordinate with local City/Municipal Agriculture Offices (MAO) for drought-tolerant seeds"
-    ]
-  },
-  {
-    "id": "adv-doh-health-004",
-    "level": "moderate",
-    "category": "Health",
-    "title": "Heat Stress and Dehydration Advisory",
-    "area": "Nationwide",
-    "provinceSlug": "nationwide",
-    "regionName": "All Regions",
-    "summary": "Public advisory against heat-induced health complications. Children, the elderly, outdoor workers, and people with cardiovascular comorbidities are at elevated risk. Monitor vulnerable family members for dizziness, heavy sweating, or fainting.",
-    "source": "Department of Health (DOH) Health Emergency Management Bureau",
-    "publishedAt": "October 5, 2026 · 8:00 AM",
-    "effectiveUntil": "October 31, 2026",
-    "url": "https://doh.gov.ph",
-    "actions": [
-      "Frequently check on elderly family members and individuals living alone",
-      "Never leave children, infants, or pets unattended in parked vehicles",
-      "Seek emergency medical evaluation if experiencing nausea, vomiting, or mental confusion under extreme heat"
-    ]
-  },
-  {
-    "id": "adv-nia-pantabangan-005",
-    "level": "high",
-    "category": "Water",
-    "title": "Pantabangan Irrigation Delivery Schedule Adjustment",
-    "area": "Central Luzon (UPRIIS Service Area)",
-    "provinceSlug": "nueva-ecija",
-    "regionName": "Region III (Central Luzon)",
-    "summary": "Pantabangan Dam elevation is at 189.50 meters (31.5 meters below spilling level). UPRIIS Operations have enacted rotational canal gating across District I through IV to ensure equal tail-end water distribution forstanding palay crops.",
-    "source": "National Irrigation Administration - UPRIIS Head Office",
-    "publishedAt": "October 4, 2026 · 11:00 AM",
-    "effectiveUntil": "October 18, 2026",
-    "url": "https://www.nia.gov.ph",
-    "actions": [
-      "Irrigators Associations (IAs) must strictly abide by designated rotational canal water schedules",
-      "Divert drainage water where feasible for supplemental farm ditch replenishment",
-      "Clear feeder canals of weeds and sediment to optimize gravity flow velocity"
-    ]
-  },
-  {
-    "id": "adv-cebu-cebu-006",
-    "level": "high",
-    "category": "Agriculture",
-    "title": "Central Visayas Dry Spell Advisory",
-    "area": "Cebu & Bohol",
-    "provinceSlug": "cebu",
-    "regionName": "Region VII (Central Visayas)",
-    "summary": "Cebu is experiencing warmer and drier-than-normal conditions (+1.5°C temperature anomaly, −24% rainfall deficit). Elevated heat index and rainfall reduction increase heat stress, municipal water demand, and agricultural pressure across upland corn farms.",
-    "source": "PAGASA Regional Services Division - Visayas",
-    "publishedAt": "October 4, 2026 · 7:30 AM",
-    "effectiveUntil": "October 14, 2026",
+    "summary": "Aklan has recorded 4 consecutive months of rainfall deficit (-40%), accompanied by temperature anomalies of +1.6°C. Severe moisture depletion threatens rainfed rice, corn, and high-value crops.",
+    "source": "DOST-PAGASA Drought Criteria & Bantay Composite Calculations",
+    "publishedAt": "October 7, 2026",
+    "effectiveUntil": "End of Current Month",
     "url": "https://bagong.pagasa.dost.gov.ph",
     "actions": [
-      "Conserve water across Metro Cebu households and industrial zones",
-      "Upland corn farmers should mulch root zones and limit burning of farm waste",
-      "Monitor local barangay water supply schedules and storage tankers"
+      "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+      "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+      "Follow local Department of Agriculture and LGU crop calendar advisories"
     ]
   },
   {
-    "id": "adv-ndrrmc-enso-007",
-    "level": "moderate",
-    "category": "General",
-    "title": "National El Niño Preparedness Directive",
-    "area": "Nationwide (All LDRRMCs)",
-    "provinceSlug": "nationwide",
-    "regionName": "All Regions",
-    "summary": "The National Disaster Risk Reduction and Management Council (NDRRMC) directs all Regional and Local DRRM Councils to operationalize Task Force El Niño action plans covering food security, water supply, health, electricity, and fire safety.",
-    "source": "NDRRMC / Office of Civil Defense (OCD)",
-    "publishedAt": "October 2, 2026 · 2:00 PM",
-    "effectiveUntil": "November 30, 2026",
-    "url": "https://ndrrmc.gov.ph",
+    "id": "adv-auto-drought-albay",
+    "level": "extreme",
+    "category": "PAGASA",
+    "title": "Severe Meteorological Drought Advisory: Albay",
+    "area": "Albay (Region V (Bicol Region))",
+    "provinceSlug": "albay",
+    "regionName": "Region V (Bicol Region)",
+    "summary": "Albay has recorded 4 consecutive months of rainfall deficit (-45%), accompanied by temperature anomalies of +2.3°C. Severe moisture depletion threatens rainfed rice, corn, and high-value crops.",
+    "source": "DOST-PAGASA Drought Criteria & Bantay Composite Calculations",
+    "publishedAt": "October 7, 2026",
+    "effectiveUntil": "End of Current Month",
+    "url": "https://bagong.pagasa.dost.gov.ph",
     "actions": [
-      "LGUs must activate local El Niño mitigation task groups and inventory buffer seed stocks",
-      "Fire departments must inspect hydrants and conduct grass fire risk assessments",
-      "Water utilities must verify backup deep wells and portable water filtration units"
+      "Monitor soil moisture levels and practice mulching to preserve topsoil water",
+      "Adopt Alternate Wetting and Drying (AWD) in irrigated paddies",
+      "Follow local Department of Agriculture and LGU crop calendar advisories"
+    ]
+  },
+  {
+    "id": "adv-auto-dryspell-abra",
+    "level": "high",
+    "category": "PAGASA",
+    "title": "Dry Spell Warning: Abra",
+    "area": "Abra (Cordillera Administrative Region (CAR))",
+    "provinceSlug": "abra",
+    "regionName": "Cordillera Administrative Region (CAR)",
+    "summary": "Persistent below-normal precipitation (-25%) for 3 consecutive months. Farmers are advised to prepare supplemental irrigation and protect shallow root crops.",
+    "source": "DOST-PAGASA Synoptic Weather Monitoring",
+    "publishedAt": "October 7, 2026",
+    "effectiveUntil": "End of Current Month",
+    "url": "https://bagong.pagasa.dost.gov.ph",
+    "actions": [
+      "Inspect shallow tube wells and small farm reservoirs",
+      "Avoid midday field burning to prevent grass and brush fire spread"
+    ]
+  },
+  {
+    "id": "adv-auto-dam-angat",
+    "level": "high",
+    "category": "Water",
+    "title": "Angat Dam Reservoir Conservation Watch",
+    "area": "Bulacan (Region III (Central Luzon))",
+    "provinceSlug": "bulacan",
+    "regionName": "Region III (Central Luzon)",
+    "summary": "Angat Dam elevation is at 204.60m (seasonal rule curve: 210.00m, deficit: -5.40m). Inflows remain below historical normal. Water concessionaires and the National Irrigation Administration are calibrating releases.",
+    "source": "DOST-PAGASA Hydrometeorology Division & National Irrigation Administration",
+    "publishedAt": "October 7, 2026",
+    "effectiveUntil": "Next Weekly Hydrological Bulletin",
+    "url": "https://bagong.pagasa.dost.gov.ph",
+    "actions": [
+      "Practice domestic water conservation (minimize hose cleaning, reuse rinse water)",
+      "Report commercial water main leaks immediately to municipal concessionaires",
+      "Irrigation associations should adhere strictly to rotational canal distribution"
+    ]
+  },
+  {
+    "id": "adv-auto-gdacs-ph",
+    "level": "high",
+    "category": "General",
+    "title": "International Disaster Coordination Notice: Green notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.729 million .",
+    "area": "Philippines (National Territory)",
+    "provinceSlug": "national",
+    "regionName": "National",
+    "summary": "From 06/10/2026 to 07/10/2026, a Tropical Depression (maximum wind speed of 157 km/h) NINE-26 was active in Atlantic. The cyclone affects these countries: United States (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind ...",
+    "source": "Global Disaster Alert and Coordination System (GDACS - UN/EC)",
+    "publishedAt": "October 7, 2026",
+    "effectiveUntil": "Under Active Monitoring",
+    "url": "https://www.gdacs.org",
+    "actions": [
+      "Follow official directives from NDRRMC and local City/Municipal DRRM offices",
+      "Maintain emergency battery power and clean potable water reserves"
     ]
   }
 ]

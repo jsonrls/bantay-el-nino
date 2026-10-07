@@ -31,6 +31,7 @@ const SCRIPTS = [
   "gather-agriculture-water.mjs",
   "gather-provinces-master.mjs",
   "gather-advisories-metadata.mjs",
+  "generate-automated-advisories.mjs",
 ];
 
 const EXPECTED_FILES = [
