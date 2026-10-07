@@ -120,8 +120,8 @@ export function CommunityReportsCard({
   };
 
   return (
-    <div className={`border border-border bg-card p-6 ${className}`}>
-      <div className="flex flex-wrap items-baseline justify-between gap-2">
+    <div className={`border border-border bg-card p-4 sm:p-6 ${className}`}>
+      <div className="flex flex-wrap items-baseline justify-between gap-3">
         <div>
           <div className="flex items-center gap-2">
             <AlertCircle className="size-4 text-risk-moderate" />
@@ -138,7 +138,7 @@ export function CommunityReportsCard({
           type="button"
           variant="outline"
           onClick={() => setShowForm(!showForm)}
-          className="h-8 border-foreground px-3 font-mono text-[11px] font-semibold tracking-[0.06em] uppercase"
+          className="min-h-[44px] w-full border-foreground px-3 py-2 font-mono text-xs font-semibold tracking-[0.06em] uppercase sm:w-auto sm:min-h-[36px]"
         >
           <MessageSquarePlus className="mr-1.5 size-3.5" />
           {showForm ? "Cancel report" : "Submit ground report"}
@@ -151,14 +151,14 @@ export function CommunityReportsCard({
       </div>
 
       {submitFeedback && (
-        <div className="mt-4 flex items-center gap-2 border border-emerald-800/30 bg-emerald-50/50 p-3 text-xs text-emerald-900">
-          <CheckCircle2 className="size-4 text-emerald-700" />
+        <div className="mt-4 flex items-center gap-2 border border-risk-low/30 bg-risk-low/10 p-3 text-xs text-foreground">
+          <CheckCircle2 className="size-4 text-risk-low" />
           <p className="font-mono">{submitFeedback}</p>
         </div>
       )}
 
       {showForm && (
-        <form onSubmit={handleSubmit} className="mt-5 border-t border-border pt-4 space-y-3">
+        <form onSubmit={handleSubmit} className="mt-5 border-t border-border pt-4 space-y-4">
           <p className="font-mono text-xs font-semibold text-foreground">
             Log an observation for {provinceName}:
           </p>
@@ -175,7 +175,7 @@ export function CommunityReportsCard({
                 placeholder="e.g. San Fernando"
                 value={municipality}
                 onChange={(e) => setMunicipality(e.target.value)}
-                className="mt-1 h-8 w-full border border-border bg-background px-2.5 font-mono text-xs text-foreground focus:border-foreground focus:outline-none"
+                className="mt-1 min-h-[44px] w-full border border-border bg-background px-3 font-mono text-sm text-foreground focus:border-foreground focus:outline-none sm:min-h-[36px] sm:text-xs"
               />
             </div>
 
@@ -187,7 +187,7 @@ export function CommunityReportsCard({
                 id="report-cat"
                 value={category}
                 onChange={(e) => setCategory(e.target.value)}
-                className="mt-1 h-8 w-full border border-border bg-background px-2 font-mono text-xs text-foreground focus:border-foreground focus:outline-none"
+                className="mt-1 min-h-[44px] w-full border border-border bg-background px-2.5 font-mono text-sm text-foreground focus:border-foreground focus:outline-none sm:min-h-[36px] sm:text-xs"
               >
                 <option value="crop_damage">Crop Stress / Yellowing</option>
                 <option value="water_shortage">Canal / Irrigation Deficit</option>
@@ -205,7 +205,7 @@ export function CommunityReportsCard({
                 id="report-sev"
                 value={severity}
                 onChange={(e) => setSeverity(e.target.value as "moderate" | "high" | "extreme")}
-                className="mt-1 h-8 w-full border border-border bg-background px-2 font-mono text-xs text-foreground focus:border-foreground focus:outline-none"
+                className="mt-1 min-h-[44px] w-full border border-border bg-background px-2.5 font-mono text-sm text-foreground focus:border-foreground focus:outline-none sm:min-h-[36px] sm:text-xs"
               >
                 <option value="moderate">Moderate</option>
                 <option value="high">High (Substantial)</option>
@@ -221,16 +221,16 @@ export function CommunityReportsCard({
             <textarea
               id="report-desc"
               required
-              rows={2}
+              rows={3}
               placeholder="Describe what is being observed on the ground (e.g. cracked paddy soil, water rotation schedules)..."
               value={description}
               onChange={(e) => setDescription(e.target.value)}
-              className="mt-1 w-full border border-border bg-background p-2 font-mono text-xs text-foreground focus:border-foreground focus:outline-none"
+              className="mt-1 min-h-[88px] w-full border border-border bg-background p-3 font-mono text-sm text-foreground focus:border-foreground focus:outline-none sm:text-xs"
             />
           </div>
 
-          <div className="flex flex-wrap items-center justify-between gap-2">
-            <div className="w-full sm:w-64">
+          <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+            <div className="w-full sm:max-w-xs">
               <label htmlFor="report-name" className="font-mono text-[10px] text-muted-foreground uppercase">
                 Observer Affiliation (Optional)
               </label>
@@ -240,14 +240,14 @@ export function CommunityReportsCard({
                 placeholder="e.g. Rice Farmer / LGU Staff"
                 value={reporterName}
                 onChange={(e) => setReporterName(e.target.value)}
-                className="mt-1 h-8 w-full border border-border bg-background px-2.5 font-mono text-xs text-foreground focus:border-foreground focus:outline-none"
+                className="mt-1 min-h-[44px] w-full border border-border bg-background px-3 font-mono text-sm text-foreground focus:border-foreground focus:outline-none sm:min-h-[36px] sm:text-xs"
               />
             </div>
 
             <Button
               type="submit"
               disabled={submitting}
-              className="mt-auto h-8 px-5 font-mono text-xs font-semibold tracking-[0.08em] uppercase"
+              className="min-h-[44px] w-full px-5 py-2.5 font-mono text-xs font-semibold tracking-[0.08em] uppercase sm:w-auto"
             >
               {submitting ? (
                 <>
