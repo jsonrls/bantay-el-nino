@@ -199,7 +199,7 @@ export function AreaView() {
       {/* Province dashboard, blueprint §4 */}
       <section
         id="province-dashboard"
-        className="border border-border bg-card p-6 sm:p-8"
+        className="border border-border bg-card p-4 sm:p-6 md:p-8"
         aria-labelledby="province-heading"
       >
         <div className="flex flex-wrap items-center justify-between gap-2">
@@ -216,18 +216,18 @@ export function AreaView() {
         <div className="mt-2 flex flex-wrap items-center justify-between gap-3">
           <h1
             id="province-heading"
-            className="font-heading text-3xl font-semibold tracking-tight text-foreground sm:text-4xl"
+            className="font-heading text-2xl font-semibold tracking-tight text-foreground sm:text-3xl md:text-4xl"
           >
             {displayProvinceName}
           </h1>
           <RiskBadge level={displayRisk} label={riskLabel} className="px-2.5 py-1.5" />
         </div>
 
-        <div className="mt-6 flex flex-wrap items-end gap-x-10 gap-y-4">
+        <div className="mt-6 flex flex-wrap items-end gap-x-8 gap-y-4">
           <div>
-            <p className="font-mono text-7xl font-semibold leading-none tabular-nums text-foreground">
+            <p className="font-mono text-5xl font-semibold leading-none tabular-nums text-foreground sm:text-7xl">
               {displayScore}
-              <span className="text-2xl text-muted-foreground"> /100</span>
+              <span className="text-xl text-muted-foreground sm:text-2xl"> /100</span>
             </p>
             <p className="mt-2 font-mono text-[10px] tracking-[0.1em] text-muted-foreground uppercase">
               Bantay Impact Score
@@ -257,7 +257,7 @@ export function AreaView() {
 
       {/* Plain-language translation of the numbers */}
       <section
-        className="border border-border bg-card p-6 sm:p-8"
+        className="border border-border bg-card p-4 sm:p-6 md:p-8"
         aria-labelledby="meaning-heading"
       >
         <h2 id="meaning-heading" className="font-heading text-xl font-semibold text-foreground">
