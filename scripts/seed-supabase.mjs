@@ -111,17 +111,24 @@ async function seed() {
   // 4. Seed Historical Events
   const events = readJson("historical-enso-events.json");
   if (events && events.length > 0) {
-    const rows = events.map((e) => ({
-      id: e.id,
-      title: e.label,
-      description: e.description,
-      event_type: "EL_NINO",
-      start_date: `${e.startYear}-01-01`,
-      end_date: `${e.endYear}-12-31`,
-      peak_oni: e.peakOni,
-      damage_est_php: e.damagePhpBillions ? e.damagePhpBillions * 1e9 : null,
-      affected_provinces: e.affectedProvinces || null,
-    }));
+    const rows = events.map((e) => {
+      const years = (e.period || e.title || "").match(/\d{4}/g) || ["1982", "1983"];
+      const startYear = years[0] || "1982";
+      const endYear = years[1] || startYear;
+      return {
+        id: e.id,
+        title: e.title,
+        description: e.philippinesImpactSummary || e.description || e.title,
+        event_type: "EL_NINO",
+        start_date: `${startYear}-01-01`,
+        end_date: `${endYear}-12-31`,
+        peak_oni: e.peakOni,
+        damage_est_php: e.estimatedAgriculturalLossPhpBillion
+          ? e.estimatedAgriculturalLossPhpBillion * 1e9
+          : null,
+        affected_provinces: e.provincesUnderDrought || null,
+      };
+    });
     const { error } = await supabase.from("historical_events").upsert(rows, { onConflict: "id" });
     if (error) console.error("❌ Error seeding historical_events:", error.message);
     else console.log(`✓ Seeded ${rows.length} historical events into 'historical_events'`);
