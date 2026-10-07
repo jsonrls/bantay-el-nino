@@ -28,7 +28,11 @@ export const metadata: Metadata = {
     "Know the heat. Track the water. Protect your community. Understand how El Niño is affecting your province in the Philippines.",
 };
 
-export default function RootLayout({ children }: LayoutProps<"/">) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html
       lang="en"
