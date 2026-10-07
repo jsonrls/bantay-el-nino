@@ -13,6 +13,8 @@ import {
 } from "@/lib/geo";
 import { riskMeta, type AdminHierarchy, type ProvinceDroughtAssessment } from "@/lib/types";
 import { AreaSearch } from "@/components/area-search";
+import { AlertSubscriptionCard } from "@/components/alert-subscription-card";
+import { CommunityReportsCard } from "@/components/community-reports-card";
 import { IndicatorStrip } from "@/components/indicator-strip";
 import { LiveWeatherCard } from "@/components/live-weather-card";
 import { RiskBadge } from "@/components/risk-badge";
@@ -307,6 +309,18 @@ export function AreaView() {
           </div>
         </div>
       </section>
+
+      {/* Layer 3 / Backend: Early Warning Alerts & Ground Observations */}
+      <div className="grid gap-6 lg:grid-cols-2">
+        <AlertSubscriptionCard
+          provinceSlug={activeAssessment?.provinceSlug || displaySlug}
+          provinceName={displayProvinceName}
+        />
+        <CommunityReportsCard
+          provinceSlug={activeAssessment?.provinceSlug || displaySlug}
+          provinceName={displayProvinceName}
+        />
+      </div>
     </div>
   );
 }
