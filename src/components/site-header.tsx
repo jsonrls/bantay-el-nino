@@ -92,7 +92,7 @@ export function SiteHeader() {
       {/* Mobile bottom bar (blueprint §16). 56px cells clear the 44px
           tap-target minimum (R-03). */}
       <nav
-        className="fixed inset-x-0 bottom-0 z-50 flex border-t border-border bg-background md:hidden"
+        className="fixed inset-x-0 bottom-0 z-50 flex border-t border-border bg-background pb-[env(safe-area-inset-bottom)] md:hidden"
         aria-label="Main (mobile)"
       >
         {MOBILE_NAV_ITEMS.map(({ href, label, icon: Icon }) => {
