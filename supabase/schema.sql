@@ -197,9 +197,22 @@ create policy "Allow public read on advisories" on advisories for select using (
 create policy "Allow public read on historical_events" on historical_events for select using (true);
 create policy "Allow public read on risk_scores" on risk_scores for select using (true);
 
+-- Allow reference data ingestion and updates
+create policy "Allow insert on provinces" on provinces for insert with check (true);
+create policy "Allow update on provinces" on provinces for update using (true);
+create policy "Allow insert on data_sources" on data_sources for insert with check (true);
+create policy "Allow update on data_sources" on data_sources for update using (true);
+create policy "Allow insert on advisories" on advisories for insert with check (true);
+create policy "Allow update on advisories" on advisories for update using (true);
+create policy "Allow insert on historical_events" on historical_events for insert with check (true);
+create policy "Allow update on historical_events" on historical_events for update using (true);
+create policy "Allow insert on risk_scores" on risk_scores for insert with check (true);
+create policy "Allow update on risk_scores" on risk_scores for update using (true);
+
 -- Community field reports: public can submit, public can read verified reports
 create policy "Allow public insert on community_reports" on community_reports for insert with check (true);
 create policy "Allow public read verified reports" on community_reports for select using (verified = true or true);
 
 -- Alert subscriptions: public can register their phone/email
 create policy "Allow public insert on alert_subscriptions" on alert_subscriptions for insert with check (true);
+create policy "Allow public update on alert_subscriptions" on alert_subscriptions for update using (true);

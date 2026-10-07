@@ -97,10 +97,10 @@ async function seed() {
       id: a.id,
       title: a.title,
       summary: a.summary,
-      body: a.body || a.summary,
-      advisory_type: a.type.toUpperCase(),
-      severity: a.severity.toUpperCase(),
-      published_at: a.issuedAt,
+      body: a.summary,
+      advisory_type: (a.category || "GENERAL").toUpperCase(),
+      severity: (a.level || "MODERATE").toUpperCase(),
+      published_at: new Date().toISOString(),
       active: true,
     }));
     const { error } = await supabase.from("advisories").upsert(rows, { onConflict: "id" });
