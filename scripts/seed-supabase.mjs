@@ -60,10 +60,10 @@ async function seed() {
     const rows = provinces.map((p) => ({
       id: p.slug,
       name: p.name,
-      region: p.region,
-      island_group: p.islandGroup,
-      latitude: p.centroid[1],
-      longitude: p.centroid[0],
+      region: p.regionName || p.region || "Philippines",
+      island_group: p.islandGroup || "Luzon",
+      latitude: p.centroid ? p.centroid[1] : 14.5995,
+      longitude: p.centroid ? p.centroid[0] : 120.9842,
       population: p.population || null,
     }));
     const { error } = await supabase.from("provinces").upsert(rows, { onConflict: "id" });
@@ -141,8 +141,8 @@ async function seed() {
     const rows = assessments.map((a) => ({
       province_id: a.provinceSlug,
       date: today,
-      composite_score: a.compositeScore,
-      risk_level: a.riskLevel,
+      composite_score: a.compositeImpactScore ?? a.compositeScore ?? 50,
+      risk_level: (a.overallRisk || a.riskLevel || "moderate").toLowerCase(),
       drought_score: a.droughtStatus === "Drought" ? 90 : a.droughtStatus === "Dry Spell" ? 60 : 20,
     }));
     const { error } = await supabase
