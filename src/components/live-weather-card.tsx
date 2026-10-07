@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { LocateFixed, RefreshCw } from "lucide-react";
+import { LocateFixed, MapPin, RefreshCw } from "lucide-react";
 import { RiskBadge } from "./risk-badge";
 import {
   findNearestLgu,
@@ -179,23 +179,25 @@ export function LiveWeatherCard({
   if (!data) return null;
 
   return (
-    <div className={`border border-border bg-card p-6 ${className}`}>
+    <div className={`border border-border bg-card p-4 sm:p-6 ${className}`}>
       {/* Header with location controls */}
-      <div className="flex flex-wrap items-center justify-between gap-3">
+      <div className="flex flex-wrap items-baseline justify-between gap-3">
         <div>
           <div className="flex flex-wrap items-center gap-2">
-            <span aria-hidden className="size-2 bg-emerald-600" />
-            <p className="font-mono text-[10px] font-semibold tracking-[0.12em] text-emerald-700 uppercase">
+            <span aria-hidden className="size-2 bg-signal" />
+            <p className="font-mono text-[10px] font-semibold tracking-[0.12em] text-foreground uppercase">
               Live Observation · Hourly Feed
             </p>
             {locationSource === "gps" && (
-              <span className="border border-border bg-muted px-1.5 py-0.5 font-mono text-[9px] font-semibold text-foreground uppercase">
-                📍 GPS Detected
+              <span className="flex items-center gap-1 border border-border bg-muted px-1.5 py-0.5 font-mono text-[9px] font-semibold text-foreground uppercase">
+                <MapPin className="size-2.5" />
+                GPS Detected
               </span>
             )}
             {locationSource === "saved" && (
-              <span className="border border-border bg-muted px-1.5 py-0.5 font-mono text-[9px] font-semibold text-foreground uppercase">
-                📍 Your Saved Area
+              <span className="flex items-center gap-1 border border-border bg-muted px-1.5 py-0.5 font-mono text-[9px] font-semibold text-foreground uppercase">
+                <MapPin className="size-2.5" />
+                Your Saved Area
               </span>
             )}
           </div>
@@ -204,9 +206,9 @@ export function LiveWeatherCard({
           </h3>
         </div>
 
-        <div className="flex flex-wrap items-center gap-2">
+        <div className="flex w-full flex-col gap-2 sm:w-auto sm:flex-row sm:items-center">
           {/* Quick Province Dropdown Selector */}
-          <div className="relative">
+          <div className="relative w-full sm:w-auto">
             <label htmlFor="weather-province-select" className="sr-only">
               Switch Province
             </label>
@@ -214,7 +216,7 @@ export function LiveWeatherCard({
               id="weather-province-select"
               value={activeSlug}
               onChange={(e) => handleSelectProvince(e.target.value)}
-              className="h-8 border border-border bg-background px-2.5 font-mono text-xs text-foreground focus:border-foreground focus:outline-none"
+              className="h-10 w-full border border-border bg-background px-2.5 font-mono text-xs text-foreground focus:border-foreground focus:outline-none sm:h-8 sm:w-auto"
             >
               {ALL_PROVINCES.map((p) => (
                 <option key={p.slug} value={p.slug}>
@@ -230,7 +232,7 @@ export function LiveWeatherCard({
             onClick={handleDetectLocation}
             disabled={detectingLocation}
             title="Detect weather using your current GPS coordinates"
-            className="flex h-8 items-center gap-1.5 border border-foreground bg-background px-2.5 font-mono text-xs font-semibold tracking-[0.06em] text-foreground uppercase hover:bg-muted disabled:opacity-50"
+            className="flex min-h-[40px] w-full items-center justify-center gap-1.5 border border-foreground bg-background px-3 font-mono text-xs font-semibold tracking-[0.06em] text-foreground uppercase hover:bg-muted disabled:opacity-50 sm:min-h-[32px] sm:h-8 sm:w-auto"
           >
             {detectingLocation ? (
               <>
@@ -245,10 +247,12 @@ export function LiveWeatherCard({
             )}
           </button>
 
-          <RiskBadge
-            level={data.heatIndex.risk}
-            label={`${data.heatIndex.classification} Heat`}
-          />
+          <div className="pt-1 sm:pt-0">
+            <RiskBadge
+              level={data.heatIndex.risk}
+              label={`${data.heatIndex.classification} Heat`}
+            />
+          </div>
         </div>
       </div>
 
