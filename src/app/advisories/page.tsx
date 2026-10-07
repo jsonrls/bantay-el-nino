@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { advisories as fallbackAdvisories, nationalStatus } from "@/lib/data";
+import { getSupabaseClient, isSupabaseConfigured } from "@/lib/supabase";
 import { AdvisoryFilter } from "@/components/advisory-filter";
 import { SourceNote } from "@/components/source-note";
 import type { Advisory } from "@/lib/types";
@@ -12,7 +13,43 @@ export const metadata: Metadata = {
     "Latest heat, drought, water, and agriculture advisories for the Philippines, with sources and timestamps.",
 };
 
-function getAdvisories(): Advisory[] {
+async function getAdvisories(): Promise<Advisory[]> {
+  try {
+    if (isSupabaseConfigured()) {
+      const supabase = getSupabaseClient();
+      if (supabase) {
+        const { data, error } = await supabase
+          .from("advisories")
+          .select("*")
+          .eq("active", true)
+          .order("published_at", { ascending: false });
+
+        if (!error && data && data.length > 0) {
+          return data.map((row) => ({
+            id: row.id,
+            level: (row.severity?.toLowerCase() || "moderate") as Advisory["level"],
+            category: (row.advisory_type?.charAt(0).toUpperCase() +
+              row.advisory_type?.slice(1).toLowerCase()) as Advisory["category"],
+            title: row.title,
+            area: "Philippines (National / Regional)",
+            summary: row.summary || row.body || "",
+            source: "DOST-PAGASA & Inter-Agency El Niño Task Force",
+            publishedAt: row.published_at
+              ? new Date(row.published_at).toLocaleDateString("en-PH", {
+                  month: "short",
+                  day: "numeric",
+                  year: "numeric",
+                })
+              : "Active Advisory",
+            url: row.source_url || "https://bagong.pagasa.dost.gov.ph",
+          }));
+        }
+      }
+    }
+  } catch (err) {
+    console.warn("Could not read from Supabase advisories:", err);
+  }
+
   try {
     const catalogPath = join(process.cwd(), "public", "data", "advisories-catalog.json");
     if (existsSync(catalogPath)) {
@@ -25,8 +62,8 @@ function getAdvisories(): Advisory[] {
   return fallbackAdvisories;
 }
 
-export default function AdvisoriesPage() {
-  const allAdvisories = getAdvisories();
+export default async function AdvisoriesPage() {
+  const allAdvisories = await getAdvisories();
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-10">

@@ -46,15 +46,44 @@ interface Methodology {
   zeroSubscriptionCompliance: string;
 }
 
-function getDataAndMethodology(): { sources: DataSource[]; methodology: Methodology | null } {
+import { getSupabaseClient, isSupabaseConfigured } from "@/lib/supabase";
+
+async function getDataAndMethodology(): Promise<{ sources: DataSource[]; methodology: Methodology | null }> {
   const dataDir = join(process.cwd(), "public", "data");
   let sources: DataSource[] = [];
   let methodology: Methodology | null = null;
 
   try {
-    const sourcesPath = join(dataDir, "data-sources.json");
-    if (existsSync(sourcesPath)) {
-      sources = JSON.parse(readFileSync(sourcesPath, "utf8")) as DataSource[];
+    if (isSupabaseConfigured()) {
+      const supabase = getSupabaseClient();
+      if (supabase) {
+        const { data, error } = await supabase.from("data_sources").select("*").eq("active", true);
+        if (!error && data && data.length > 0) {
+          sources = data.map((row) => ({
+            id: row.id,
+            name: row.name,
+            agency: row.provider,
+            category: "Climate & Remote Sensing",
+            type: row.source_type || "API / Catalog",
+            coverage: "Philippines / Global",
+            updateFrequency: row.update_frequency || "Daily",
+            url: row.base_url || "https://bagong.pagasa.dost.gov.ph",
+            license: row.license || "Open Data",
+            variables: ["Temperature", "Rainfall", "Drought"],
+          }));
+        }
+      }
+    }
+  } catch (err) {
+    console.warn("Could not query data_sources from Supabase:", err);
+  }
+
+  try {
+    if (sources.length === 0) {
+      const sourcesPath = join(dataDir, "data-sources.json");
+      if (existsSync(sourcesPath)) {
+        sources = JSON.parse(readFileSync(sourcesPath, "utf8")) as DataSource[];
+      }
     }
     const methPath = join(dataDir, "methodology.json");
     if (existsSync(methPath)) {
@@ -67,8 +96,8 @@ function getDataAndMethodology(): { sources: DataSource[]; methodology: Methodol
   return { sources, methodology };
 }
 
-export default function DataPage() {
-  const { sources, methodology } = getDataAndMethodology();
+export default async function DataPage() {
+  const { sources, methodology } = await getDataAndMethodology();
 
   return (
     <div className="mx-auto max-w-6xl space-y-10 px-4 py-10">
