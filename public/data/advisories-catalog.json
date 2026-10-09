@@ -9,7 +9,7 @@
     "regionName": "National",
     "summary": "NOAA Climate Prediction Center reports the Oceanic Niño Index (ONI) at +2.16°C for the JAS season. Atmospheric-oceanic coupling indicates El Niño conditions with very strong intensity.",
     "source": "NOAA Climate Prediction Center & DOST-PAGASA Climatology",
-    "publishedAt": "October 8, 2026",
+    "publishedAt": "October 9, 2026",
     "effectiveUntil": "Next Monthly Cycle",
     "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ensoyears.shtml",
     "actions": [
@@ -28,7 +28,7 @@
     "regionName": "Region XIII (Caraga)",
     "summary": "Agusan del Norte has recorded 4 consecutive months of rainfall deficit (-48%), accompanied by temperature anomalies of +1.4°C. Severe moisture depletion threatens rainfed rice, corn, and high-value crops.",
     "source": "DOST-PAGASA Drought Criteria & Bantay Composite Calculations",
-    "publishedAt": "October 8, 2026",
+    "publishedAt": "October 9, 2026",
     "effectiveUntil": "End of Current Month",
     "url": "https://bagong.pagasa.dost.gov.ph",
     "actions": [
@@ -47,7 +47,7 @@
     "regionName": "Region VI (Western Visayas)",
     "summary": "Aklan has recorded 4 consecutive months of rainfall deficit (-40%), accompanied by temperature anomalies of +1.6°C. Severe moisture depletion threatens rainfed rice, corn, and high-value crops.",
     "source": "DOST-PAGASA Drought Criteria & Bantay Composite Calculations",
-    "publishedAt": "October 8, 2026",
+    "publishedAt": "October 9, 2026",
     "effectiveUntil": "End of Current Month",
     "url": "https://bagong.pagasa.dost.gov.ph",
     "actions": [
@@ -66,7 +66,7 @@
     "regionName": "Region V (Bicol Region)",
     "summary": "Albay has recorded 4 consecutive months of rainfall deficit (-45%), accompanied by temperature anomalies of +2.3°C. Severe moisture depletion threatens rainfed rice, corn, and high-value crops.",
     "source": "DOST-PAGASA Drought Criteria & Bantay Composite Calculations",
-    "publishedAt": "October 8, 2026",
+    "publishedAt": "October 9, 2026",
     "effectiveUntil": "End of Current Month",
     "url": "https://bagong.pagasa.dost.gov.ph",
     "actions": [
@@ -85,7 +85,7 @@
     "regionName": "Cordillera Administrative Region (CAR)",
     "summary": "Persistent below-normal precipitation (-25%) for 3 consecutive months. Farmers are advised to prepare supplemental irrigation and protect shallow root crops.",
     "source": "DOST-PAGASA Synoptic Weather Monitoring",
-    "publishedAt": "October 8, 2026",
+    "publishedAt": "October 9, 2026",
     "effectiveUntil": "End of Current Month",
     "url": "https://bagong.pagasa.dost.gov.ph",
     "actions": [
@@ -103,7 +103,7 @@
     "regionName": "Region III (Central Luzon)",
     "summary": "Angat Dam elevation is at 204.60m (seasonal rule curve: 210.00m, deficit: -5.40m). Inflows remain below historical normal. Water concessionaires and the National Irrigation Administration are calibrating releases.",
     "source": "DOST-PAGASA Hydrometeorology Division & National Irrigation Administration",
-    "publishedAt": "October 8, 2026",
+    "publishedAt": "October 9, 2026",
     "effectiveUntil": "Next Weekly Hydrological Bulletin",
     "url": "https://bagong.pagasa.dost.gov.ph",
     "actions": [
@@ -116,13 +116,13 @@
     "id": "adv-auto-gdacs-ph",
     "level": "high",
     "category": "General",
-    "title": "International Disaster Coordination Notice: Volcanic eruption is on going for Taal in Philippines",
+    "title": "International Disaster Coordination Notice: Green earthquake (Magnitude 6.6M, Depth:10km) in Panama 09/10/2026 20:25 UTC, 10 thousand (in MMI&gt;=VII).",
     "area": "Philippines (National Territory)",
     "provinceSlug": "national",
     "regionName": "National",
-    "summary": "Volcano Taal is emitting ash clouds according to the regional VAAC. The aviation alert level is Orange....",
+    "summary": "On 10/9/2026 8:25:39 PM, an earthquake occurred in Panama potentially affecting 10 thousand (in MMI&gt;=VII). The earthquake had Magnitude 6.6M, Depth:10km....",
     "source": "Global Disaster Alert and Coordination System (GDACS - UN/EC)",
-    "publishedAt": "October 8, 2026",
+    "publishedAt": "October 9, 2026",
     "effectiveUntil": "Under Active Monitoring",
     "url": "https://www.gdacs.org",
     "actions": [
